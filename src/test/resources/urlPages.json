@@ -1,0 +1,279 @@
+{
+      "pages": [
+        {
+          "name": "MainPage",
+          "url":  "/de/",
+          "tabName": "QualityMinds | StartseiteXXXXX"
+        },
+        {
+          "name": "Portfolio",
+          "url":  "/de/qm-portfolio/",
+          "tabName": "QualityMinds | Portfolio"
+        },
+            {
+              "name": "Portfolio/QA-kernkompetenzen",
+              "url":  "/de/portfolio/qa-kernkompetenzen/",
+              "tabName": "QualityMinds | QA KERNKOMPETENZEN"
+            },
+                {
+                  "name": "Portfolio/QA-kernkompetenzen/funktionales-testen",
+                  "url":  "/de/portfolio/qa-kernkompetenzen/funktionales-testen/",
+                  "tabName": "QualityMinds | Funktionales Testen"
+                },
+                {
+                  "name": "Portfolio/QA-kernkompetenzen/agiles-testen",
+                  "url":  "/de/portfolio/qa-kernkompetenzen/agiles-testen/",
+                  "tabName": "QualityMinds | Agiles Testen"
+                },
+                {
+                  "name": "Portfolio/QA-kernkompetenzen/automatisiertes-testen",
+                  "url":  "/de/portfolio/qa-kernkompetenzen/automatisiertes-testen/",
+                  "tabName": "QualityMinds | Automatisiertes Testen"
+                },
+                {
+                  "name": "Portfolio/QA-kernkompetenzen/last-und-performanztest",
+                  "url":  "/de/portfolio/qa-kernkompetenzen/last-und-performanztest/",
+                  "tabName": "QualityMinds | Last- und Performanztest"
+                },
+                {
+                  "name": "Portfolio/QA-kernkompetenzen/testmanagement-beratung-und-betreuung",
+                  "url":  "/de/portfolio/qa-kernkompetenzen/testmanagement-beratung-und-betreuung/",
+                  "tabName": "QualityMinds | Testmanagement Beratung Und Betreuung"
+                },
+            {
+              "name": "Portfolio/QA-kernkompetenzen/spezialisierte-qa-dienstleistung-und-kompetenzen",
+              "url":  "/de/portfolio/spezialisierte-qa-dienstleistung-und-kompetenzen/",
+              "tabName": "QualityMinds | SPEZIALISIERTE QA DIENSTLEISTUNG UND KOMPETENZEN"
+            },
+
+                {
+                  "name": "Portfolio/QA-kernkompetenzen/spezialisierte-qa-dienstleistung-und-kompetenzen/tests-fur-autonomes-fahren",
+                  "url":  "/de/portfolio/spezialisierte-qa-dienstleistung-und-kompetenzen/tests-fur-autonomes-fahren/",
+                  "tabName": "QualityMinds | Tests für Autonomes Fahren"
+                },
+                {
+                  "name": "Portfolio/QA-kernkompetenzen/spezialisierte-qa-dienstleistung-und-kompetenzen/data-warehouse-bi-und-etl-tests",
+                  "url":  "/de/portfolio/spezialisierte-qa-dienstleistung-und-kompetenzen/data-warehouse-bi-und-etl-tests/",
+                  "tabName": "QualityMinds | Data Warehouse-, BI- und ETL-Tests"
+                },
+
+                {
+                  "name": "Portfolio/QA-kernkompetenzen/spezialisierte-qa-dienstleistung-und-kompetenzen/test-data-test-environment-management",
+                  "url":  "/de/portfolio/spezialisierte-qa-dienstleistung-und-kompetenzen/test-data-test-environment-management/",
+                  "tabName": "QualityMinds | Test Data & Test Environment Management"
+                },
+
+                {
+                  "name": "Portfolio/QA-kernkompetenzen/spezialisierte-qa-dienstleistung-und-kompetenzen/testmaster",
+                  "url":  "/de/portfolio/spezialisierte-qa-dienstleistung-und-kompetenzen/testmaster/",
+                  "tabName": "QualityMinds | TestMaster"
+                },
+            {
+              "name": "Portfolio/softwareentwicklung",
+              "url":  "/de/portfolio/softwareentwicklung/",
+              "tabName": "QualityMinds | SOFTWAREENTWICKLUNG"
+            },
+
+                {
+                  "name": "Portfolio/softwareentwicklung/technologische-forschung",
+                  "url":  "/de/portfolio/softwareentwicklung/technologische-forschung/",
+                  "tabName": "QualityMinds | Technologische Forschung"
+                },
+                {
+                  "name": "Portfolio/softwareentwicklung/devops",
+                  "url":  "/de/portfolio/softwareentwicklung/devops/",
+                  "tabName": "QualityMinds | DevOps"
+                },
+                {
+                  "name": "Portfolio/softwareentwicklung/requirements-engineering-fur-agile-teams",
+                  "url":  "/de/portfolio/softwareentwicklung/requirements-engineering-fur-agile-teams/",
+                  "tabName": "QualityMinds | Requirements Engineering Für Agile Teams"
+                },
+            {
+              "name": "Portfolio/agile-support",
+              "url":  "/de/portfolio/agile-support/",
+              "tabName": "QualityMinds | AGILE SUPPORT"
+            },
+                {
+                  "name": "Portfolio/agile-support/scrum-master",
+                  "url":  "/de/portfolio/agile-support/scrum-master/",
+                  "tabName": "QualityMinds | Scrum Master"
+                },
+                {
+                  "name": "Portfolio/agile-support/remote-team-master",
+                  "url":  "/de/portfolio/agile-support/remote-team-master/",
+                  "tabName": "QualityMinds | Remote Team Master"
+                },
+                {
+                  "name": "Portfolio/agile-support/agile-coaching",
+                  "url":  "/de/portfolio/agile-support/agile-coaching/",
+                  "tabName": "QualityMinds | Agile Coaching"
+                },
+            {
+              "name": "Portfolio/diversity-consulting",
+              "url":  "/de/portfolio/diversity-consulting/",
+              "tabName": "QualityMinds | DIVERSITY CONSULTING"
+            },
+            {
+              "name": "Portfolio/engagement-modelle/",
+              "url":  "/de/portfolio/engagement-modelle/",
+              "tabName": "QualityMinds | ENGAGEMENT-MODELLE"
+            },
+        {
+          "name": "Branchen",
+          "url":  "/de/branchen/",
+          "tabName": "QualityMinds | Branchen"
+        },
+            {
+              "name": "Branchen/autoindustrie",
+              "url":  "/de/branchen/autoindustrie/",
+              "tabName": "QualityMinds | Autoindustrie"
+            },
+            {
+              "name": "Branchen/finanzen-banking-und-versicherungen",
+              "url":  "/de/branchen/finanzen-banking-und-versicherungen/",
+              "tabName": "QualityMinds | Finanzen Banking und Versicherungen"
+            },
+
+            {
+              "name": "Branchen/e-government",
+              "url":  "/de/branchen/e-government/",
+              "tabName": "QualityMinds | E-Government"
+            },
+
+            {
+              "name": "Branchen/handelsbetrieb-einzelhandel",
+              "url":  "/de/branchen/handelsbetrieb-einzelhandel/",
+              "tabName": "QualityMinds | Handelsbetrieb & Einzelhandel"
+            },
+
+            {
+              "name": "Branchen/medien-telekommunikation",
+              "url":  "/de/branchen/medien-telekommunikation/",
+              "tabName": "QualityMinds | Medien & Telekommunikation"
+            },
+
+        {
+          "name": "QualityLearning",
+          "url":  "/de/quality-learning/",
+          "tabName": "QualityMinds | QUALITYLEARNING"
+        },
+            {
+              "name": "QualityLearning/agiles-lernen",
+              "url":  "/de/quality-learning/agiles-lernen/",
+              "tabName": "QualityMinds | Agiles Lernen"
+            },
+                {
+                  "name": "QualityLearning/agiles-lernen/coaching-fur-alle",
+                  "url":  "/de/quality-learning/agiles-lernen/coaching-fur-alle/",
+                  "tabName": "QualityMinds | Coaching für alle"
+                },
+            {
+              "name": "QualityLearning/agile-lehre",
+              "url":  "/de/quality-learning/agile-lehre/",
+              "tabName": "QualityMinds | Agile Lehre"
+            },
+            {
+              "name": "QualityLearning/weiterbildung",
+              "url":  "/de/quality-learning/weiterbildung/",
+              "tabName": "QualityMinds | Weiterbildung"
+            },
+                {
+                  "name": "QualityLearning/weiterbildung/community-of-practice",
+                  "url":  "/de/quality-learning/weiterbildung/community-of-practice/",
+                  "tabName": "Community of Practice Workshop: TOP 5 Lernziele"
+                },
+                {
+                  "name": "QualityLearning/weiterbildung/agile-lehr-lernsettings-mit-lehrstorys-gestalten",
+                  "url":  "/de/quality-learning/weiterbildung/agile-lehr-lernsettings-mit-lehrstorys-gestalten/",
+                  "tabName": "QualityMinds | Agile Lehr-Lernsettings mit Lehrstorys gestalten"
+                },
+                {
+                  "name": "QualityLearning/weiterbildung/werte-workshop",
+                  "url":  "/de/quality-learning/weiterbildung/werte-workshop/",
+                  "tabName": "QualityMinds | Werte-Workshop"
+                },
+                {
+                  "name": "QualityLearning/weiterbildung/fit-fur-die-zukunft",
+                  "url":  "/de/quality-learning/weiterbildung/fit-fur-die-zukunft/",
+                  "tabName": "QualityMinds | Fit für die Zukunft"
+                },
+                {
+                  "name": "QualityLearning/weiterbildung/negatives-feedback",
+                  "url":  "/de/quality-learning/weiterbildung/negatives-feedback/",
+                  "tabName": "QualityMinds | Negatives Feedback"
+                },
+                {
+                  "name": "QualityLearning/weiterbildung/agile-fuhrung-workshop",
+                  "url":  "/de/quality-learning/weiterbildung/agile-fuhrung-workshop/",
+                  "tabName": "QualityMinds | Agile Führung Workshop"
+                },
+                {
+                  "name": "QualityLearning/weiterbildung/ausbildung-zum-agilen-lerncoach",
+                  "url":  "/de/quality-learning/weiterbildung/ausbildung-zum-agilen-lerncoach/",
+                  "tabName": "QualityMinds | Ausbildung zum agilen Lerncoach"
+                },
+            {
+              "name": "QualityLearning/quality-learning-tool",
+              "url":  "/de/quality-learning/quality-learning-tool/",
+              "tabName": "QualityMinds | QualityLearning Tool"
+            },
+            {
+              "name": "QualityLearning/publikationen",
+              "url":  "/de/quality-learning/publikationen/",
+              "tabName": "QualityMinds | Publikationen"
+            },
+        {
+          "name": "UberUns",
+          "url":  "/de/uber-uns/",
+          "tabName": "QualityMinds | ÜBER UNS"
+        },
+            {
+              "name": "UberUns/kulturwerte",
+              "url":  "/de/uber-uns/kulturwerte/",
+              "tabName": "QualityMinds | Kulturwerte"
+            },
+            {
+              "name": "UberUns/fakten-und-zahlen",
+              "url":  "/de/uber-uns/fakten-und-zahlen/",
+              "tabName": "QualityMinds | Fakten und Zahlen"
+            },
+            {
+              "name": "UberUns/esr-everybodys-social-responsibility",
+              "url":  "/de/uber-uns/esr-everybodys-social-responsibility/",
+              "tabName": "QualityMinds | ESR – Everybody’s Social Responsibility"
+            },
+
+            {
+              "name": "UberUns/news-blog",
+              "url":  "/de/uber-uns/news-blog/",
+              "tabName": "QualityMinds | News & Blog"
+            },
+
+            {
+              "name": "UberUns/veranstaltungen",
+              "url":  "/de/veranstaltungen/",
+              "tabName": "Veranstaltungen from Mai 23 – Mai 9 – QualityMinds"
+            },
+            {
+              "name": "UberUns/podcasts",
+              "url":  "/de/podcasts/",
+              "tabName": "QualityMinds | Podcasts"
+            },
+                {
+                  "name": "UberUns/podcasts/qualityheroes",
+                  "url":  "/de/podcasts/qualityheroes/",
+                  "tabName": "QualityMinds | QualityHeroes"
+                },
+        {
+          "name": "Karriere",
+          "url":  "/de/karriere/",
+          "tabName": "QualityMinds | Karriere"
+        },
+            {
+              "name": "Karriere/stellenangebote",
+              "url":  "/de/karriere/stellenangebote/",
+              "tabName": "QualityMinds | Stellenangebote"
+            }
+      ]
+}
