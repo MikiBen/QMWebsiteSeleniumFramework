@@ -5,7 +5,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.selenium.pom.jsonFile.JsonFile;
 import org.selenium.pom.utils.ConfigLoader;
 
 import java.time.Duration;
@@ -15,14 +14,12 @@ public class BasePage {
     protected WebDriver driver;
     protected WebDriverWait wait;
 
-
     public BasePage(WebDriver driver) {
         this.driver = driver;
        wait = new WebDriverWait(driver, Duration.ofSeconds(15));
     }
 
     public void load(String endPoint) {
-        //driver.get("https://askomdch.com/" + endPoint);
         driver.get(ConfigLoader.getInstance().getBaseUrl() + endPoint);
     }
 
@@ -39,11 +36,12 @@ public class BasePage {
         return  wait.until(ExpectedConditions.visibilityOfElementLocated(element));
     }
 
-    public String getCcurrentAddress(){
+    public String getCurrentAddress(){
         return driver.getCurrentUrl();
     }
 
     public String getTabName(){
         return driver.getTitle();
     }
+
 }
