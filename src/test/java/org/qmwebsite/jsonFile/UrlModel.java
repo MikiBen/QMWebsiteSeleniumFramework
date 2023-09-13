@@ -1,4 +1,4 @@
-package org.selenium.pom.jsonFile;
+package org.qmwebsite.jsonFile;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;

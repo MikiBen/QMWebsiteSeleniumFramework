@@ -1,10 +1,10 @@
-package org.selenium.pom.pages.de;
+package org.qmwebsite.pages.de;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.selenium.pom.base.BasePage;
-import org.selenium.pom.utils.ConfigLoader;
+import org.qmwebsite.base.BasePage;
+import org.qmwebsite.utils.ConfigLoader;
 import org.testng.Assert;
 
 public class MainPage extends BasePage {

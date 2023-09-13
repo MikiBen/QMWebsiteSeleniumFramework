@@ -1,4 +1,4 @@
-package org.selenium.pom.utils;
+package org.qmwebsite.utils;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 

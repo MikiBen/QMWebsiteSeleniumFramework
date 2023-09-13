@@ -1,15 +1,15 @@
-package org.selenium.pom.pages.de;
+package org.qmwebsite.pages.de;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.selenium.pom.base.BasePage;
-import org.selenium.pom.utils.ConfigLoader;
+import org.qmwebsite.utils.ConfigLoader;
+import org.qmwebsite.base.BasePage;
 import org.testng.Assert;
 
 public class MainMenu extends BasePage {
 
-    private final By mainLogo = By.xpath("//*[@id=\"top-menu\"]/li[5]/div/a");
+    private final By mainLogo = By.xpath("//*[@class='logo_container']a");
     private final By qmStore = By.xpath("//*[@id=\"store-butt\"]/a");
     public MainMenu(WebDriver driver) {
         super(driver);

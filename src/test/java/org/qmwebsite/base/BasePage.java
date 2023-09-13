@@ -1,16 +1,17 @@
-package org.selenium.pom.base;
+package org.qmwebsite.base;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.selenium.pom.utils.ConfigLoader;
+import org.qmwebsite.utils.ConfigLoader;
+import lombok.extern.java.Log;
 
 import java.time.Duration;
 import java.util.List;
-
-public class BasePage {
+@Log
+public abstract class BasePage {
     protected WebDriver driver;
     protected WebDriverWait wait;
 
@@ -24,16 +25,20 @@ public class BasePage {
     }
 
     public void wairForIverlaysToDisappear(By overlay) {
-        List<WebElement> oberlays = driver.findElements(overlay);
-        if (oberlays.size() > 0) {
-            wait.until(ExpectedConditions.invisibilityOfAllElements(oberlays));
+        List<WebElement> overlays = driver.findElements(overlay);
+        if (!overlays.isEmpty()) {
+            wait.until(ExpectedConditions.invisibilityOfAllElements(overlays));
         }else {
-            System.out.println("OVERLAY NOT FOUND");
+            log.info("OVERLAY NOT FOUND"); //na logera
         }
     }
 
     public WebElement waitForElementToBeVisible(By element){
         return  wait.until(ExpectedConditions.visibilityOfElementLocated(element));
+    }
+
+    public WebElement waitForElementToBeClickable(By element){
+        return  wait.until(ExpectedConditions.elementToBeClickable(element));
     }
 
     public String getCurrentAddress(){

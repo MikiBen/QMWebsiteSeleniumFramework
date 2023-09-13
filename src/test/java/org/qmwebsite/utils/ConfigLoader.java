@@ -1,6 +1,6 @@
-package org.selenium.pom.utils;
+package org.qmwebsite.utils;
 
-import org.selenium.pom.constans.EnvType;
+import org.qmwebsite.constans.EnvType;
 
 import java.util.Properties;
 
@@ -10,14 +10,10 @@ public class ConfigLoader {
 
     private ConfigLoader(){
         String env = System.getProperty("env", String.valueOf(EnvType.PRODUCTION)); //ustawienie domyślnego środowiska
-        switch (EnvType.valueOf(env)){
-            case STAGE:
-                properties = PropertyUtils.propertyLoader("src/test/resources/stg_config.properties");
-                break;
-            case PRODUCTION:
-                properties = PropertyUtils.propertyLoader("src/test/resources/german_config.properties");
-                break;
-            default:throw new IllegalStateException("Invalid env type: " + env);
+        switch (EnvType.valueOf(env)) {
+            case STAGE -> properties = PropertyUtils.propertyLoader("src/test/resources/stg_config.properties");
+            case PRODUCTION -> properties = PropertyUtils.propertyLoader("src/test/resources/config.properties");
+            default -> throw new IllegalStateException("Invalid env type: " + env);
         }
     }
 
@@ -31,6 +27,7 @@ public class ConfigLoader {
     public String getBaseUrl(){
         String prop = properties.getProperty("baseUrl");
         if(prop != null) return prop;
-        else throw new RuntimeException(("property baseUrl is not specified in the confiq.properties file"));
+        else throw new RuntimeException(("property baseUrl is not specified in the confiq.properties file")); // nie robi się tego
+
     }
 }

@@ -1,4 +1,4 @@
-package org.selenium.pom.utils;
+package org.qmwebsite.utils;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

@@ -1,8 +1,10 @@
-package org.selenium.pom.base;
+package org.qmwebsite.base;
 
+import lombok.extern.java.Log;
 import org.openqa.selenium.WebDriver;
-import org.selenium.pom.factory.DriverManager;
-import org.selenium.pom.jsonFile.JsonFile;
+import org.qmwebsite.constans.DriverType;
+import org.qmwebsite.jsonFile.JsonFile;
+import org.qmwebsite.factory.DriverManager;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Optional;
@@ -10,6 +12,7 @@ import org.testng.annotations.Parameters;
 
 import java.io.IOException;
 
+@Log
 public class BaseTest {
     private ThreadLocal<WebDriver> driver = new ThreadLocal<>();
     protected final JsonFile jsonFile = new JsonFile();
@@ -27,15 +30,18 @@ public class BaseTest {
     @BeforeMethod
     public void startDriver(@Optional String browser) throws IOException {
         // browser = System.getProperty("browser", browser); //testNg
+
         jsonFile.readFile();
         if(browser ==null) browser = "CHROME";
-        setDriver(new DriverManager().initializeDriver(browser));
-        System.out.println("CURRENT THREAD: " + Thread.currentThread().getId() + " DRIVER : " + getDriver());
+        setDriver(new DriverManager().initializeDriver(browser));// może to zastopić
+        // DriverType driverType = DriverType.valueOf(browser.toUpperCase());
+
+        log.info("CURRENT THREAD: " + Thread.currentThread().getId() + " DRIVER : " + getDriver());
     }
 
     @AfterMethod
-    public void quitDriver() throws InterruptedException {
-        Thread.sleep(100);
+    public void quitDriver() {
         driver.get().quit();
     }
+
 }

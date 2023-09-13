@@ -2,7 +2,7 @@
 <configuration>
 
     <conversionRule conversionWord="threadId"
-                    converterClass="org.selenium.pom.utils.ThreadIdConverter"/>
+                    converterClass="org.qmwebsite.utils.ThreadIdConverter"/>
     <property name="LOG_PATTERN" value="%d{yyyy-MM-dd 'T' HH:mm:ss.SSSZ} [%threadId][%p] %c{-3}->%M %m%n%throwable"/>
     <property name="APP_LOG_ROOT" value="./logs"/>
 
