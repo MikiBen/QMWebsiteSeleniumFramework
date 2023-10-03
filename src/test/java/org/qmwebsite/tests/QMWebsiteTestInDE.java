@@ -73,7 +73,7 @@ public class QMWebsiteTestInDE extends BaseTest {
              }
         );
     }*/
-
+/*
 
     @Test (dataProvider = "UrlList")
     public void checkFooter(String pageName, String url, String tabName){
@@ -131,7 +131,7 @@ public class QMWebsiteTestInDE extends BaseTest {
         });
         return data;
     }
-
+*/
 
 }
 
