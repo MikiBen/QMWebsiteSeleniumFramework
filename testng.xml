@@ -9,12 +9,4 @@
         </classes>
     </test>
 
-    <test name="CHROME" thread-count="2"   parallel="methods">
-        <parameter name="browser" value="CHROME"/>
-        <classes>
-            <class name="org.qmwebsite.tests.QMWebsiteTestInDE" />
-        </classes>
-    </test>
-
-
 </suite>
