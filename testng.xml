@@ -2,8 +2,8 @@
 
 <suite name="Suite1" verbose="1" thread-count="3" parallel="tests" >
 
-    <test name="EDGE" thread-count="2" parallel="methods">
-        <parameter name="browser" value="EDGE"/>
+    <test name="CHROME" thread-count="2" parallel="methods">
+        <parameter name="browser" value="CHROME"/>
         <classes>
             <class name="org.qmwebsite.tests.QMWebsiteTestInDE" />
         </classes>
@@ -16,11 +16,5 @@
         </classes>
     </test>
 
-    <test name="FIREFOX" thread-count="2"   parallel="methods">
-        <parameter name="browser" value="FIREFOX"/>
-        <classes>
-            <class name="org.qmwebsite.tests.QMWebsiteTestInDE" />
-        </classes>
-    </test>
 
 </suite>

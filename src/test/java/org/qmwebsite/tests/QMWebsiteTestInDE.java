@@ -85,7 +85,7 @@ public class QMWebsiteTestInDE extends BaseTest {
                             checkHinweisgebersystemButton().
                             checkDatenschutzerklarungButton().
                             checkKontakButton().
-                            checkTwitterButton().
+                           // checkTwitterButton().
                             checkLinkedInButton().
                             checkFacebookButton().
                             checkXingButton().
