@@ -7,7 +7,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.qmwebsite.constans.DriverType;
 
-public class DriverManager {
+public class DriverManagerSecond {
     public WebDriver initializeDriver(String browser){
         WebDriver driver = switch (DriverType.valueOf(browser)) {
             case CHROME -> {

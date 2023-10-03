@@ -4,7 +4,9 @@ import lombok.extern.java.Log;
 import org.openqa.selenium.WebDriver;
 import org.qmwebsite.constans.DriverType;
 import org.qmwebsite.jsonFile.JsonFile;
-import org.qmwebsite.factory.DriverManager;
+import org.qmwebsite.factory.DriverManagerSecond;
+import org.qmwebsite.wdm.DriverManager;
+import org.qmwebsite.wdm.DriverManagerFactory;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Optional;
@@ -26,22 +28,31 @@ public class BaseTest {
         return this.driver.get();
     }
 
-    @Parameters("browser")
+    @Parameters({"browser", "headless"})
     @BeforeMethod
-    public void startDriver(@Optional String browser) throws IOException {
+    public void startDriver(@Optional String browser, @Optional String headless) throws IOException {
         // browser = System.getProperty("browser", browser); //testNg
 
-        jsonFile.readFile();
-        if(browser ==null) browser = "CHROME";
-        setDriver(new DriverManager().initializeDriver(browser));// może to zastopić
-        // DriverType driverType = DriverType.valueOf(browser.toUpperCase());
-
-        log.info("CURRENT THREAD: " + Thread.currentThread().getId() + " DRIVER : " + getDriver());
+        DriverType myBrowser = DriverType.valueOf(resolve(browser, "browser", DriverType.CHROME));
+        boolean myHeadless = Boolean.parseBoolean(resolve(headless, "headless", true));
+        driver.set(myHeadless
+                ? DriverManagerFactory.getManager(myBrowser).createDriverHeadless()
+                : DriverManagerFactory.getManager(myBrowser).createDriver());
     }
 
     @AfterMethod
     public void quitDriver() {
         driver.get().quit();
+    }
+
+    private  <T> String resolve(String param, String prop, T defValue) {
+        return isNullOrBlank(System.getProperty(prop))
+                ? isNullOrBlank(param) ? String.valueOf(defValue) : param
+                : System.getProperty(prop);
+    }
+
+    private boolean isNullOrBlank(String input) {
+        return input == null || input.isBlank();
     }
 
 }
