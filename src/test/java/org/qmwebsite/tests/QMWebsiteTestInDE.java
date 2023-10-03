@@ -39,7 +39,7 @@ public class QMWebsiteTestInDE extends BaseTest {
         eventsDE.checkExitsPage();
     }
 
-/*
+
     @Test
     public void checkTabName(){
         MainPage mainPage = new MainPage(getDriver());
@@ -50,8 +50,8 @@ public class QMWebsiteTestInDE extends BaseTest {
                     }
             );
     }
-*/
-/*
+
+
     @Test (dataProvider = "UrlList")
     public void checkTabName(String pageName, String url, String tabName){
         MainPage mainPage = new MainPage(getDriver());
@@ -60,7 +60,7 @@ public class QMWebsiteTestInDE extends BaseTest {
                     Assert.assertEquals(mainPage.getTabName(), tabName);
 
     }
-*/
+
 /*    @Test
     public void checkFooter(){
         Footer footer = new Footer(getDriver());
