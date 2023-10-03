@@ -22,6 +22,7 @@ import java.util.stream.IntStream;
 @Log
 public class QMWebsiteTestInDE extends BaseTest {
 
+
     @Test
     public void mainPageTest() {
         MainPage mainPage = new MainPage(getDriver());
@@ -29,6 +30,13 @@ public class QMWebsiteTestInDE extends BaseTest {
         mainPage.checkkontaktiereUnsButton().
                 checkDifferntLinkToMainPage("https://qualityminds.de/");
 
+    }
+
+    @Test
+    public void checkExitsEventsPages(){
+        EventsDE eventsDE = new EventsDE(getDriver());
+        eventsDE.load("/de/veranstaltungen/");
+        eventsDE.checkExitsPage();
     }
 
 /*
