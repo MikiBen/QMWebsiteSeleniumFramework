@@ -81,7 +81,7 @@ public class QMWebsiteTestInDE extends BaseTest {
              }
         );
     }*/
-/*
+
 
     @Test (dataProvider = "UrlList")
     public void checkFooter(String pageName, String url, String tabName){
@@ -109,21 +109,21 @@ public class QMWebsiteTestInDE extends BaseTest {
                     checkQMStoreButton();
 
     }
-
+/*
     @Test
     public void checkExitsEventsPages(){
         EventsDE eventsDE = new EventsDE(getDriver());
         eventsDE.load("/de/veranstaltungen/");
         eventsDE.checkExitsPage();
     }
-
+*/
     //This method will provide data to any test method that declares that its Data Provider
     @Test(dataProvider="UrlList")
     public void studentRegistration(String pageName, String url, String tabName)
     {
         System.out.println(""+pageName+" "+url+" "+tabName);
     }
-*/
+
     @DataProvider(name="UrlList")
     public Object[] myDataProvider() throws IOException {
         jsonFile.readFile();
