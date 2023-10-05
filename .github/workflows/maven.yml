@@ -34,8 +34,8 @@ jobs:
       run: mvn clean test
     - uses: actions/upload-artifact@v3
       with:
-        name: results
-        path: build/reports/tests/test
+        name: debug-apk
+        path: build/reports/tests/test/debug-apk.apk
 
     # Optional: Uploads the full dependency graph to GitHub to improve the quality of Dependabot alerts this repository can receive
     #- name: Update dependency graph
