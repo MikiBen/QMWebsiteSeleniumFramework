@@ -13,7 +13,8 @@
             {
               "name": "Portfolio/QA-kernkompetenzen",
               "url":  "/de/portfolio/qa-kernkompetenzen/",
-              "tabName": "QualityMinds | QA KERNKOMPETENZEN"
+              "tabName": "QualityMinds | Test und Qualitätssicherung"
+
             },
                 {
                   "name": "Portfolio/QA-kernkompetenzen/funktionales-testen",
@@ -38,7 +39,7 @@
                 {
                   "name": "Portfolio/QA-kernkompetenzen/testmanagement-beratung-und-betreuung",
                   "url":  "/de/portfolio/qa-kernkompetenzen/testmanagement-beratung-und-betreuung/",
-                  "tabName": "QualityMinds | Testmanagement Beratung Und Betreuung"
+                  "tabName": "QualityMinds | Testmanagement"
                 },
             {
               "name": "Portfolio/QA-kernkompetenzen/spezialisierte-qa-dienstleistung-und-kompetenzen",
@@ -54,13 +55,13 @@
                 {
                   "name": "Portfolio/QA-kernkompetenzen/spezialisierte-qa-dienstleistung-und-kompetenzen/data-warehouse-bi-und-etl-tests",
                   "url":  "/de/portfolio/spezialisierte-qa-dienstleistung-und-kompetenzen/data-warehouse-bi-und-etl-tests/",
-                  "tabName": "QualityMinds | Data Warehouse-, BI- und ETL-Tests"
+                  "tabName": "QualityMinds | Data Integration"
                 },
 
                 {
                   "name": "Portfolio/QA-kernkompetenzen/spezialisierte-qa-dienstleistung-und-kompetenzen/test-data-test-environment-management",
                   "url":  "/de/portfolio/spezialisierte-qa-dienstleistung-und-kompetenzen/test-data-test-environment-management/",
-                  "tabName": "QualityMinds | Test Data & Test Environment Management"
+                  "tabName": "[QualityMinds | Testdaten und Testumgebungen"
                 },
 
                 {
