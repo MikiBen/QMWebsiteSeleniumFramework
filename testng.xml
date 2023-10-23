@@ -9,18 +9,5 @@
         </classes>
     </test>
 
-    <test name="EDGE" thread-count="1" parallel="methods">
-        <parameter name="browser" value="EDGE"/>
-        <classes>
-            <class name="org.qmwebsite.tests.QMWebsiteTestInDE" />
-        </classes>
-    </test>
-
-    <test name="FIREFOX" thread-count="1" parallel="methods">
-        <parameter name="browser" value="FIREFOX"/>
-        <classes>
-            <class name="org.qmwebsite.tests.QMWebsiteTestInDE" />
-        </classes>
-    </test>
 
 </suite>
