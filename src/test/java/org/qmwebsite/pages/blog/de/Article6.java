@@ -22,4 +22,5 @@ public class Article6 extends BasePage {
         checkLink(alianzXpath, alianzPageTitle);
         return this;
     }
+
 }

@@ -75,8 +75,65 @@ public class QMWebsiteTestInDE extends BaseTest {
                 checkAlianzLink();
     }
 
+    @Test
+    public void checkArticle9(){
+        Article9 article = new Article9(getDriver());
+        article.load().
+                checkAgilenLink();
+    }
 
+    @Test
+    public void checkArticle10(){
+        Article10 article = new Article10(getDriver());
+        article.load().
+                checkStuttgartLink();
+    }
+    @Test
+    public void checkArticle11() {
+        Article11 article = new Article11(getDriver());
+        article.load().
+                //checkUnityLink().
+                //checkLidarLink().
+                //checkTensoLink().
+                checkRaspberryLink().
+                checkAlexanderLink();
+    }
+    @Test
+    public void checkArticle12(){
+        Article12 article = new Article12(getDriver());
+        article.load().
+                checkLearnDochLink().
+                checkLearnDochSecondLink();
+    }
 
+    @Test
+    public void checkArticle13(){
+        Article13 article = new Article13(getDriver());
+        article.load().
+                checkColearnLink();
+    }
+    @Test
+    public void checkArticle15(){
+        Article15 article = new Article15(getDriver());
+        article.load().
+                checkKudoboxLink().
+                checkAgilesLink();
+    }
+    @Test
+    public void checkArticle16(){
+        Article16 article = new Article16(getDriver());
+        article.load().
+                checkAgilerLink();
+    }
+    @Test
+    public void checkArticle17(){
+        Article17 article = new Article17(getDriver());
+        article.load().
+                //checkMagazinLink().
+                checkAgilerLink().
+                checkKiLink();
+
+    }
 
 
 
