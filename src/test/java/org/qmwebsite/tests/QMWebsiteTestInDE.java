@@ -2,9 +2,7 @@ package org.qmwebsite.tests;
 
 import lombok.extern.java.Log;
 import lombok.extern.slf4j.Slf4j;
-import org.qmwebsite.pages.blog.de.Article1;
-import org.qmwebsite.pages.blog.de.Article3;
-import org.qmwebsite.pages.blog.de.Article4;
+import org.qmwebsite.pages.blog.de.*;
 import org.qmwebsite.pages.de.MainPage;
 import org.qmwebsite.base.BaseTest;
 import org.qmwebsite.pages.de.EventsDE;
@@ -62,9 +60,20 @@ public class QMWebsiteTestInDE extends BaseTest {
         article.load().
                 checkVereinLink().
                 checkHierLink();
-
+    }
+    @Test
+    public void checkArticle5(){
+        Article5 article = new Article5(getDriver());
+        article.load().
+                checkUnsecoLink();
     }
 
+    @Test
+    public void checkArticle6(){
+        Article6 article = new Article6(getDriver());
+        article.load().
+                checkAlianzLink();
+    }
 
 
 

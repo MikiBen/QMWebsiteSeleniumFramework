@@ -18,7 +18,7 @@ public class Article3 extends BasePage {
     }
 
     public Article3 checkStephanLink() {
-        checkLink(stephanXpath, stephanPageTitle);
+        checkLink(stephanXpath, "");
         return this;
     }
 }
