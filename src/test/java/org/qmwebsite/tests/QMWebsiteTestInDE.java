@@ -2,9 +2,10 @@ package org.qmwebsite.tests;
 
 import lombok.extern.java.Log;
 import lombok.extern.slf4j.Slf4j;
-import org.qmwebsite.jsonFile.UrlModel;
+import org.qmwebsite.pages.blog.de.Article1;
+import org.qmwebsite.pages.blog.de.Article3;
+import org.qmwebsite.pages.blog.de.Article4;
 import org.qmwebsite.pages.de.MainPage;
-import org.qmwebsite.base.BasePage;
 import org.qmwebsite.base.BaseTest;
 import org.qmwebsite.pages.de.EventsDE;
 import org.qmwebsite.pages.de.Footer;
@@ -14,8 +15,6 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.stream.IntStream;
 
 @Slf4j
@@ -31,13 +30,52 @@ public class QMWebsiteTestInDE extends BaseTest {
                 checkDifferntLinkToMainPage("https://qualityminds.de/");
 
     }
-
     @Test
     public void checkExitsEventsPages(){
         EventsDE eventsDE = new EventsDE(getDriver());
         eventsDE.load("/de/veranstaltungen/");
         eventsDE.checkExitsPage();
     }
+
+
+    @Test
+    public void checkArticle1() {
+        Article1 article = new Article1(getDriver());
+        article.load()
+                .checkHierLink()
+                .checkMagazineLink();
+    }
+
+    @Test
+    public void checkArticle2() {
+    }
+    @Test
+    public void checkArticle3() {
+        Article3 article = new Article3(getDriver());
+        article.load().
+                checkStephanLink();
+    }
+
+    @Test
+    public void checkArticle4() {
+        Article4 article = new Article4(getDriver());
+        article.load().
+                checkVereinLink().
+                checkHierLink();
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*
     @Test

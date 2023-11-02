@@ -1,5 +1,6 @@
 package org.qmwebsite.base;
 
+import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -47,6 +48,30 @@ public abstract class BasePage {
 
     public String getTabName(){
         return driver.getTitle();
+    }
+
+    protected BasePage checkLink(By xpath, String title) {
+
+        wait.until(ExpectedConditions.elementToBeClickable(xpath));
+        driver.findElement(xpath).click();
+
+        String winHandleBefore = driver.getWindowHandle();
+        try {
+            for (String winHandle : driver.getWindowHandles()) {
+                driver.switchTo().window(winHandle);
+            }
+
+            Assert.assertEquals(title, driver.getTitle());
+            driver.navigate().back();
+
+            driver.close();
+            driver.switchTo().window(winHandleBefore);
+        } catch (Exception e) {
+            System.out.println("On page: " + driver.getCurrentUrl() + " I can not find proper link");
+            Assert.fail();
+        }
+
+        return this;
     }
 
 }
