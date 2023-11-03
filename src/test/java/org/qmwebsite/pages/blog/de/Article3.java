@@ -7,7 +7,7 @@ import org.qmwebsite.base.BasePage;
 public class Article3 extends BasePage {
 
     private final By  stephanXpath = By.xpath("//a[normalize-space()='Stephan Merkel']");
-    private final String stephanPageTitle = "Stephan Merkel – Unternehmensinhaber – Valean Solutions GmbH | LinkedIn";
+    private final String stephanPageTitle = "Sign In | LinkedIn";
     public Article3(WebDriver driver) {
         super(driver);
     }
@@ -18,7 +18,7 @@ public class Article3 extends BasePage {
     }
 
     public Article3 checkStephanLink() {
-        checkLink(stephanXpath, "");
+        checkLink(stephanXpath, stephanPageTitle);
         return this;
     }
 }

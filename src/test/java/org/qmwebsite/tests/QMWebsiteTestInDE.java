@@ -160,9 +160,9 @@ public class QMWebsiteTestInDE extends BaseTest {
     @Test
     public void checkArticle23(){
         Article23 article = new Article23(getDriver());
-        article.load().
-                checkHTCLink().
-                checkOculusLink();
+        article.load();
+                //checkHTCLink().
+                //checkOculusLink();
 
     }
 

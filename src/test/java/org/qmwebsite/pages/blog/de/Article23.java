@@ -20,6 +20,7 @@ public class Article23 extends BasePage {
     public Article23 checkHTCLink() {
         checkLink(htcXpath, htcPageTitle);
         return this;
+
     }
     public Article23 checkOculusLink() {
         checkLink(oculusXpath, oculusPageTitle);

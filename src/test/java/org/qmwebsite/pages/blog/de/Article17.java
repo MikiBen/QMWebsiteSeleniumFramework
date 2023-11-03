@@ -8,7 +8,8 @@ public class Article17 extends BasePage {
     private final By kiXpath = By.xpath("//a[normalize-space()='KI-Absicherung']");
     private final String kiPageTitle = "KI Absicherung: KI Absicherung";
     private final By bundesXpath = By.xpath("//a[normalize-space()='Bundesministerium für Wirtschaft und Klimaschutz']");
-    private final String bundesPageTitle = "BMWK - Bundesministerium für Wirtschaft und Klimaschutz";
+    private final String bundesPageTitle = "www.bmwi.de";
+    //private final String bundesPageTitle = "BMWK - Bundesministerium für Wirtschaft und Klimaschutz";
     private final By magazinXpath = By.xpath("//a[normalize-space()='German Testing Magazin']");
     private final String magazinPageTitle = "GermanTestingMagazin-1-2020-Druck.indb";
     public Article17(WebDriver driver) {
