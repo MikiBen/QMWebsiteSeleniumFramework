@@ -2,6 +2,7 @@ package org.qmwebsite.base;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -50,7 +51,16 @@ public abstract class BasePage {
         return driver.getTitle();
     }
 
+    private void removeCookies(){
+        JavascriptExecutor js = (JavascriptExecutor)driver;
+        js.executeScript(
+                "const element = document.querySelector('#cmplz-cookiebanner-container > div');" +
+                        "if (element) { element.parentNode.removeChild(element); }"
+        );
+    }
     protected BasePage checkLink(By xpath, String title) {
+
+        removeCookies();
 
         wait.until(ExpectedConditions.elementToBeClickable(xpath));
         driver.findElement(xpath).click();
@@ -71,6 +81,17 @@ public abstract class BasePage {
             Assert.fail();
         }
 
+
+        return this;
+    }
+
+    protected BasePage checkLinkOpensOnTheSamePage(By xpath, String title) {
+
+        removeCookies();
+        waitForElementToBeClickable(xpath);
+        driver.findElement(xpath).click();
+        Assert.assertEquals(title, driver.getTitle());
+        driver.navigate().back();
         return this;
     }
 

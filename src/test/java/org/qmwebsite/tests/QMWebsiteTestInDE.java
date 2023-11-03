@@ -91,12 +91,12 @@ public class QMWebsiteTestInDE extends BaseTest {
     @Test
     public void checkArticle11() {
         Article11 article = new Article11(getDriver());
-        article.load();
-                //checkUnityLink().
-                //checkLidarLink().
-                //checkTensoLink().
-                //checkRaspberryLink().
-                //checkAlexanderLink();
+        article.load().
+                checkUnityLink().
+                checkLidarLink().
+                checkTensoLink().
+                checkRaspberryLink().
+                checkAlexanderLink();
     }
     @Test
     public void checkArticle12(){
@@ -129,7 +129,7 @@ public class QMWebsiteTestInDE extends BaseTest {
     public void checkArticle17(){
         Article17 article = new Article17(getDriver());
         article.load().
-                //checkMagazinLink().
+                checkMagazinLink().
                 checkAgilerLink().
                 checkKiLink();
     }
@@ -146,26 +146,42 @@ public class QMWebsiteTestInDE extends BaseTest {
         Article21 article = new Article21(getDriver());
         article.load().
                 checkBeitragLink().
-                //checkExxellentLink().
-                checkHierLink();
-                //checkQualityLearningLink();
+               // checkExxellentLink().
+                checkHierLink().
+                checkQualityLearningLink();
+                //checkLearnCoachLink();
     }
     @Test
     public void checkArticle22(){
         Article22 article = new Article22(getDriver());
-        article.load();
-                //checkGehlenLink();
+        article.load().
+                checkGehlenLink();
     }
 
     @Test
     public void checkArticle23(){
         Article23 article = new Article23(getDriver());
-        article.load();
-                //checkHTCLink().
-                //checkOculusLink();
-
+        article.load().
+                checkHTCLink().
+                checkOculusLink();
     }
-
+    @Test
+    public void checkArticle30() {
+        Article30 article = new Article30(getDriver());
+        article.load().
+                checkAGHLink().
+                checkVlogLink().
+                checkPodcastLink().
+                checkHereLink();
+    }
+    @Test
+    public void checkArticle31() {
+        Article31 article = new Article31(getDriver());
+        article.load().
+                checkFindBagLink().
+                checkCornerLink().
+                checkRiskLink();
+    }
 
 
 

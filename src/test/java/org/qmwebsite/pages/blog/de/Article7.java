@@ -13,6 +13,4 @@ public class Article7 extends BasePage {
         return this;
     }
 
-
-    //DODAĆ LINKI
 }

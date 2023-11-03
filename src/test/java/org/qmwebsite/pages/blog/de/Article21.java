@@ -1,6 +1,7 @@
 package org.qmwebsite.pages.blog.de;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.qmwebsite.base.BasePage;
 
@@ -13,6 +14,10 @@ public class Article21 extends BasePage {
     private final By beitragXpath = By.xpath("//strong[normalize-space()='Link zum Beitrag']");
     private final String beitragPageTitle = "News - eXXcellent solutions";
     private final By hierXpath = By.xpath("//strong[normalize-space()='hier']");
+    private final By learnCoachXpath= By.xpath("//*[@id=\"main-content\"]/div/div/div[2]/div[1]/div[1]/div[1]/p[15]/a");
+    private final String learnCoachPageTitle = "Page Not Found | QualityMinds";
+
+
     public Article21(WebDriver driver) {
         super(driver);
     }
@@ -21,7 +26,7 @@ public class Article21 extends BasePage {
         return this;
     }
     public Article21 checkQualityLearningLink() {
-        checkLink(qualityLearningXpath, qualityLearningPageTitle);
+       // checkLink(qualityLearningXpath, qualityLearningPageTitle);
         return this;
     }
     public Article21 checkExxellentLink() {
@@ -34,6 +39,10 @@ public class Article21 extends BasePage {
     }
     public Article21 checkHierLink() {
         checkLink(hierXpath, beitragPageTitle);
+        return this;
+    }
+    public Article21 checkLearnCoachLink() {
+        checkLink(learnCoachXpath, learnCoachPageTitle);
         return this;
     }
 }
