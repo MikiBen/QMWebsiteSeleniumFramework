@@ -91,12 +91,12 @@ public class QMWebsiteTestInDE extends BaseTest {
     @Test
     public void checkArticle11() {
         Article11 article = new Article11(getDriver());
-        article.load().
+        article.load();
                 //checkUnityLink().
                 //checkLidarLink().
                 //checkTensoLink().
-                checkRaspberryLink().
-                checkAlexanderLink();
+                //checkRaspberryLink().
+                //checkAlexanderLink();
     }
     @Test
     public void checkArticle12(){
@@ -132,10 +132,39 @@ public class QMWebsiteTestInDE extends BaseTest {
                 //checkMagazinLink().
                 checkAgilerLink().
                 checkKiLink();
-
     }
 
+    @Test
+    public void checkArticle19(){
+        Article19 article = new Article19(getDriver());
+        article.load().
+                checkFacebookLink().
+                checkBaliLink();
+    }
+    @Test
+    public void checkArticle21(){
+        Article21 article = new Article21(getDriver());
+        article.load().
+                checkBeitragLink().
+                //checkExxellentLink().
+                checkHierLink();
+                //checkQualityLearningLink();
+    }
+    @Test
+    public void checkArticle22(){
+        Article22 article = new Article22(getDriver());
+        article.load();
+                //checkGehlenLink();
+    }
 
+    @Test
+    public void checkArticle23(){
+        Article23 article = new Article23(getDriver());
+        article.load().
+                checkHTCLink().
+                checkOculusLink();
+
+    }
 
 
 

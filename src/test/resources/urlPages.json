@@ -316,7 +316,7 @@
         {
           "name": "Article 8",
           "url":  "/de/quality-minds-all-over-the-world-unsere-termine-im-mai-und-juni-2019/",
-          "tabName": "QM Conference: Input und Fazit | QualityMinds"
+          "tabName": "QUALITY MINDS ALL OVER THE WORLD – Unsere Termine im Mai und Juni 2019 | QualityMinds"
         },
         {
           "name": "Article 9",
@@ -336,7 +336,7 @@
         {
           "name": "Article 12",
           "url":  "/de/das-neue-qualityminds-buch-zum-agilen-lernen-ist-erschienen/",
-          "tabName": "Building a Simple Autonomous Mobile Robot | QualityMinds"
+          "tabName": "Das neue QualityMinds-Buch zum agilen Lernen ist erschienen! | QualityMinds"
         },
         {
           "name": "Article 13",
@@ -346,7 +346,7 @@
         {
           "name": "Article 14",
           "url":  "/de/wo-kommen-eigentlich-lernziele-her/",
-          "tabName": "Wo kommen eigentlich Lernziele her? | QualityMinds</title"
+          "tabName": "Wo kommen eigentlich Lernziele her? | QualityMinds"
         },
         {
           "name": "Article 15",
@@ -362,6 +362,37 @@
           "name": "Article 17",
           "url":  "/de/qualitatssicherung-von-ki-die-gefahren-lauern-vor-allem-hinter-den-ecken/",
           "tabName": "Qualitätssicherung von KI – Die Gefahren lauern vor allem hinter den Ecken | QualityMinds"
+        },
+        {
+          "name": "Article 18",
+          "url":  "/de/testing-for-non-testers-ein-quereinstieg-mit-plan-2/",
+          "tabName": "Testing for non-testers: Ein Quereinstieg mit Plan | QualityMinds"
+        },
+        {
+          "name": "Article 19",
+          "url":  "/de/9k-for-90k-bali-children-foundation-campaign/",
+          "tabName": "9k for 90k – Bali Children Foundation Campaign | QualityMinds"
+        },
+        {
+          "name": "Article 20",
+          "url":  "/de/find-the-bug-retro/",
+          "tabName": "Find-the-Bug Retro | QualityMinds"
+        },
+        {
+          "name": "Article 21",
+          "url":  "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
+          "tabName": "QualityLearning als Wegbegleiter auf dem Weg zum agilen Lehr-Lernsetting | QualityMinds"
+        },
+        {
+          "name": "Article 22",
+          "url":  "/de/die-lange-des-lernsprints-2/",
+          "tabName": "Die Länge des Lernsprints. | QualityMinds"
+        },
+        {
+          "name": "Article 23",
+          "url":  "/de/nextgencollab-update/",
+          "tabName": "NextGenCollab Update | QualityMinds"
         }
+
       ]
 }
