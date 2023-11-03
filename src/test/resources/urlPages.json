@@ -430,8 +430,23 @@
         },
         {
           "name": "Article 31",
-          "url":  "/de/meet-the-tester-bastian//",
-          "tabName": "Meet the DevOps: Bastian | QualityMinds"
+          "url":  "/de/meet-the-tester-bastian/",
+          "tabName": "Meet the Tester: Bastian | QualityMinds"
+        },
+        {
+          "name": "Article 32",
+          "url":  "/de/meet-the-dev-namrata/",
+          "tabName": "Meet the Tester: Namrata | QualityMinds"
+        },
+        {
+          "name": "Article 33",
+          "url":  "/de/meet-the-tester-kinga/",
+          "tabName": "Meet the Tester: Kinga | QualityMinds"
+        },
+        {
+          "name": "Article 34",
+          "url":  "/de/wie-haben-wir-ohne-grose-schwierigkeiten-die-nachhaltigkeit-im-unternehmen-verankert/",
+          "tabName": "Wie haben wir ohne große Schwierigkeiten die Nachhaltigkeit im Unternehmen verankert? | QualityMinds"
         }
 
       ]

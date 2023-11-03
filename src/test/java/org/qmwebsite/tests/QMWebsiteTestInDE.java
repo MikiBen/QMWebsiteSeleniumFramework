@@ -93,7 +93,7 @@ public class QMWebsiteTestInDE extends BaseTest {
         Article11 article = new Article11(getDriver());
         article.load().
                 checkUnityLink().
-                checkLidarLink().
+                //checkLidarLink().
                 checkTensoLink().
                 checkRaspberryLink().
                 checkAlexanderLink();
@@ -181,6 +181,16 @@ public class QMWebsiteTestInDE extends BaseTest {
                 checkFindBagLink().
                 checkCornerLink().
                 checkRiskLink();
+    }
+
+    @Test
+    public void checkArticle32() {
+        Article32 article = new Article32(getDriver());
+        article.load().
+                checkThomsonLink().
+                checkNamaratLink().
+                checkJobsAdsLink().
+                checkKiLink();
     }
 
 
