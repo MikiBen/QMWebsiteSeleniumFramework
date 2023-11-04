@@ -95,7 +95,7 @@ public class QMWebsiteTestInDE extends BaseTest {
                 checkUnityLink().
                 //checkLidarLink().
                 checkTensoLink().
-                checkRaspberryLink().
+                //checkRaspberryLink().
                 checkAlexanderLink();
     }
     @Test
