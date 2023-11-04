@@ -23,7 +23,7 @@ public class Article17 extends BasePage {
         checkLink(kiXpath, kiPageTitle);
         return this;
     }
-    public Article17 checkAgilerLink() {
+    public Article17 checkBundesLink() {
         checkLink(bundesXpath, bundesPageTitle);
         return this;
     }
