@@ -30,7 +30,7 @@ public class Article40 extends BasePage {
     }
     public Article40 checkSustainableLink() {
         checkLink(sustainableXpath,sustainablePageTitle);
-
+//tesr
         return this;
     }
 }
