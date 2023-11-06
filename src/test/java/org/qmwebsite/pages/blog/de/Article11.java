@@ -10,13 +10,13 @@ public class Article11 extends BasePage {
     private final By raspberryXpath = By.xpath("//a[normalize-space()='Raspberry Pi']");
     private final String raspberryPageTitle = "Teach, learn, and make with the Raspberry Pi Foundation";
     private final By unityXpath = By.xpath("//a[normalize-space()='Unity']");
-   // private final String unityPageTitle = "Unity Echtzeit-Entwicklungsplattform | 3D-, 2D-, VR- und AR-Engine";
+    //private final String unityPageTitle = "Unity Echtzeit-Entwicklungsplattform | 3D-, 2D-, VR- und AR-Engine";
     private final String unityPageTitle = "Access Denied";
     private final By tensoXpath = By.xpath("//a[normalize-space()='Tensorflow']");
     private final String tensoPageTitle = "TensorFlow";
     private final By alexanderXpath = By.xpath("//a[normalize-space()='Alexander Pohl']");
     //private final String alexanderPageTitle = "Alexander Pohl - Greater Munich Metropolitan Area | Professional Profile | LinkedIn";
-    private final String alexanderPageTitle = "";
+    private final String alexanderPageTitle = "Zaloguj się | LinkedIn";
     public Article11(WebDriver driver) {
         super(driver);
     }

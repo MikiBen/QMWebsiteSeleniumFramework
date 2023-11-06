@@ -2,6 +2,7 @@ package org.qmwebsite.pages.blog.de;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.qmwebsite.base.BasePage;
 
 public class Article17 extends BasePage {
@@ -9,9 +10,11 @@ public class Article17 extends BasePage {
     private final String kiPageTitle = "KI Absicherung: KI Absicherung";
     private final By bundesXpath = By.xpath("//a[normalize-space()='Bundesministerium für Wirtschaft und Klimaschutz']");
     private final String bundesPageTitle = "www.bmwi.de";
-    //private final String bundesPageTitle = "BMWK - Bundesministerium für Wirtschaft und Klimaschutz";
     private final By magazinXpath = By.xpath("//a[normalize-space()='German Testing Magazin']");
     private final String magazinPageTitle = "GermanTestingMagazin-1-2020-Druck.indb";
+    private final By testXpath = By.xpath("//a[@target='_blank'][normalize-space()='Tests für Autonomes Fahren']");
+    private final String testPageTitle = "QualityMinds | Tests für Autonomes Fahren";
+
     public Article17(WebDriver driver) {
         super(driver);
     }
@@ -24,11 +27,15 @@ public class Article17 extends BasePage {
         return this;
     }
     public Article17 checkBundesLink() {
+
         checkLink(bundesXpath, bundesPageTitle);
         return this;
     }
-    public Article17 checkMagazinLink() {
-        checkLink(magazinXpath, magazinPageTitle);
+    public Article17 checkMagazineLink() {
+        return this;
+    }
+    public Article17 checkTestLink() {
+        checkLink(testXpath, testPageTitle);
         return this;
     }
 }

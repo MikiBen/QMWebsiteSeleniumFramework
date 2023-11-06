@@ -51,16 +51,17 @@ public abstract class BasePage {
         return driver.getTitle();
     }
 
-    private void removeCookies(){
+    protected void removeCookies(){
         JavascriptExecutor js = (JavascriptExecutor)driver;
         js.executeScript(
-                "const element = document.querySelector('#cmplz-cookiebanner-container > div');" +
+                "const element = document.querySelector('#cmplz-cookiebanner-container');" +
                         "if (element) { element.parentNode.removeChild(element); }"
         );
+
+
     }
     protected BasePage checkLink(By xpath, String title) {
-
-        removeCookies();
+       removeCookies();
 
         wait.until(ExpectedConditions.elementToBeClickable(xpath));
         driver.findElement(xpath).click();
@@ -70,8 +71,9 @@ public abstract class BasePage {
             for (String winHandle : driver.getWindowHandles()) {
                 driver.switchTo().window(winHandle);
             }
-            Assert.assertTrue((driver.getTitle().equals("") )|| (driver.getTitle().equals(title)));
-            //Assert.assertEquals(title, driver.getTitle());
+
+            //Assert.assertTrue((driver.getTitle().equals("") )|| (driver.getTitle().equals(title)));
+            Assert.assertEquals(title, driver.getTitle());
             driver.navigate().back();
 
             driver.close();
