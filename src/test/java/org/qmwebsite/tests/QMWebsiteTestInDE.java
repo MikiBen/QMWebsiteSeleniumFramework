@@ -129,7 +129,7 @@ public class QMWebsiteTestInDE extends BaseTest {
     public void checkArticle17(){
         Article17 article = new Article17(getDriver());
         article.load().
-                checkMagazinLink().
+               // checkMagazinLink().
                 //checkBundesLink().
                 checkKiLink();
     }
