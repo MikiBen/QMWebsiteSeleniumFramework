@@ -92,11 +92,12 @@ public class QMWebsiteTestInDE extends BaseTest {
     public void checkArticle11() {
         Article11 article = new Article11(getDriver());
         article.load().
+                checkLidarLink().
+                checkTensoLink().
                 checkUnityLink().
-                //checkLidarLink().
-                checkTensoLink();
-                //checkRaspberryLink().
-                //checkAlexanderLink();
+                load().
+                checkRaspberryLink().
+                checkAlexanderLink();
     }
     @Test
     public void checkArticle12(){
@@ -129,8 +130,9 @@ public class QMWebsiteTestInDE extends BaseTest {
     public void checkArticle17(){
         Article17 article = new Article17(getDriver());
         article.load().
-               // checkMagazinLink().
-                //checkBundesLink().
+                //heckMagazineLink();
+                checkBundesLink().
+                checkTestLink().
                 checkKiLink();
     }
 
@@ -145,11 +147,11 @@ public class QMWebsiteTestInDE extends BaseTest {
     public void checkArticle21(){
         Article21 article = new Article21(getDriver());
         article.load().
-                checkBeitragLink().
-               // checkExxellentLink().
-                checkHierLink().
-                checkQualityLearningLink();
-                //checkLearnCoachLink();
+                //checkBeitragLink().
+                //checkExxellentLink().
+                //checkHierLink().
+                checkQualityLearningLink().
+                checkLearnCoachLink();
     }
     @Test
     public void checkArticle22(){

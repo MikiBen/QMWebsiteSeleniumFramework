@@ -27,6 +27,7 @@ public class Article17 extends BasePage {
         return this;
     }
     public Article17 checkBundesLink() {
+
         checkLink(bundesXpath, bundesPageTitle);
         return this;
     }

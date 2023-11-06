@@ -16,7 +16,7 @@ public class Article11 extends BasePage {
     private final String tensoPageTitle = "TensorFlow";
     private final By alexanderXpath = By.xpath("//a[normalize-space()='Alexander Pohl']");
     //private final String alexanderPageTitle = "Alexander Pohl - Greater Munich Metropolitan Area | Professional Profile | LinkedIn";
-    private final String alexanderPageTitle = "[Sign In] | LinkedIn";
+    private final String alexanderPageTitle = "Zaloguj się | LinkedIn";
     public Article11(WebDriver driver) {
         super(driver);
     }
