@@ -62,7 +62,7 @@ public abstract class BasePage {
     }
     protected BasePage checkLink(By xpath, String title) {
        removeCookies();
-
+        String URL1 = driver.getCurrentUrl();
         wait.until(ExpectedConditions.elementToBeClickable(xpath));
         driver.findElement(xpath).click();
 
@@ -70,10 +70,12 @@ public abstract class BasePage {
         try {
             for (String winHandle : driver.getWindowHandles()) {
                 driver.switchTo().window(winHandle);
+                String URL2 = driver.getCurrentUrl();
             }
-
+            String URL3 = driver.getCurrentUrl();
             //Assert.assertTrue((driver.getTitle().equals("") )|| (driver.getTitle().equals(title)));
             Assert.assertEquals(title, driver.getTitle());
+            String URL4 = driver.getCurrentUrl();
             driver.navigate().back();
 
             driver.close();
