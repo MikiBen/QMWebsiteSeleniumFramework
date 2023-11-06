@@ -60,7 +60,7 @@ public abstract class BasePage {
 
 
     }
-    /*
+
     protected BasePage checkLink(By xpath, String title) {
         removeCookies();
         wait.until(ExpectedConditions.elementToBeClickable(xpath));
@@ -120,5 +120,5 @@ public abstract class BasePage {
         driver.navigate().back();
         return this;
     }
-*/
+
 }

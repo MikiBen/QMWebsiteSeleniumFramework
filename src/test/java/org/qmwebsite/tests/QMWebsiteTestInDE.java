@@ -34,7 +34,7 @@ public class QMWebsiteTestInDE extends BaseTest {
         eventsDE.load("/de/veranstaltungen/");
         eventsDE.checkExitsPage();
     }
-/*
+
 
     @Test
     public void checkArticle1() {
@@ -231,7 +231,7 @@ public class QMWebsiteTestInDE extends BaseTest {
     }
 
 
-*/
+
 
 
 /*
