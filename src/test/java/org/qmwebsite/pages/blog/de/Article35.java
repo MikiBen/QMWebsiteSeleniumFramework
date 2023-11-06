@@ -36,7 +36,7 @@ public class Article35 extends BasePage {
         return this;
     }
     public Article35 checkSciaraLink() {
-        checkLink(sciaraXpath,sciaraPageTitle);
+        checkLinkWithEmptyTitle(sciaraXpath,sciaraPageTitle);
         return this;
     }
 
