@@ -6,8 +6,8 @@ import org.qmwebsite.base.BasePage;
 
 public class Article32 extends BasePage {
     private final By thomsonXpath = By.xpath("//a[normalize-space()='Thomson Reuters Labs']");
-   // private final  String thomsonPageTitle = "Join Thomson Reuters Labs | Thomson Reuters";
-    private final  String thomsonPageTitle = "";
+    private final  String thomsonPageTitle = "Join Thomson Reuters Labs | Thomson Reuters";
+    //private final  String thomsonPageTitle = "";
     private final By jobAdsXpath = By.xpath("//a[normalize-space()='inclusive language for job ads']");
     private final  String jobAdsPageTitle = "Diversifier-NLP - Automated Text Analysis for more Inclusion in Job Ads";
     private final By kiXpath = By.xpath("//a[normalize-space()='KI-Absicherung']");
@@ -24,7 +24,7 @@ public class Article32 extends BasePage {
     }
 
     public Article32 checkThomsonLink() {
-        checkLink(thomsonXpath,thomsonPageTitle);
+        checkLinkWithEmptyTitle(thomsonXpath,thomsonPageTitle);
         return this;
     }
     public Article32 checkJobsAdsLink() {

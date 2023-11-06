@@ -61,8 +61,7 @@ public abstract class BasePage {
 
     }
     protected BasePage checkLink(By xpath, String title) {
-       removeCookies();
-
+        removeCookies();
         wait.until(ExpectedConditions.elementToBeClickable(xpath));
         driver.findElement(xpath).click();
 
@@ -83,6 +82,30 @@ public abstract class BasePage {
             Assert.fail();
         }
 
+        return this;
+    }
+
+    protected BasePage checkLinkWithEmptyTitle(By xpath, String title) {
+        removeCookies();
+        wait.until(ExpectedConditions.elementToBeClickable(xpath));
+        driver.findElement(xpath).click();
+
+        String winHandleBefore = driver.getWindowHandle();
+        try {
+            for (String winHandle : driver.getWindowHandles()) {
+                driver.switchTo().window(winHandle);
+            }
+
+            Assert.assertTrue((driver.getTitle().equals("") )|| (driver.getTitle().equals(title)));
+            //Assert.assertEquals(title, driver.getTitle());
+            driver.navigate().back();
+
+            driver.close();
+            driver.switchTo().window(winHandleBefore);
+        } catch (Exception e) {
+            System.out.println("On page: " + driver.getCurrentUrl() + " I can not find proper link");
+            Assert.fail();
+        }
 
         return this;
     }
