@@ -60,7 +60,7 @@ public abstract class BasePage {
 
 
     }
-    protected BasePage checkLink(By xpath, String title) {
+    protected void checkLink(By xpath, String title) {
         removeCookies();
         wait.until(ExpectedConditions.elementToBeClickable(xpath));
         driver.findElement(xpath).click();
@@ -82,10 +82,9 @@ public abstract class BasePage {
             Assert.fail();
         }
 
-        return this;
     }
 
-    protected BasePage checkLinkWithEmptyTitle(By xpath, String title) {
+    protected void checkLinkWithEmptyTitle(By xpath, String title) {
         removeCookies();
         wait.until(ExpectedConditions.elementToBeClickable(xpath));
         driver.findElement(xpath).click();
@@ -107,17 +106,14 @@ public abstract class BasePage {
             Assert.fail();
         }
 
-        return this;
     }
 
-    protected BasePage checkLinkOpensOnTheSamePage(By xpath, String title) {
-
+    protected void checkLinkOpensOnTheSamePage(By xpath, String title) {
         removeCookies();
         waitForElementToBeClickable(xpath);
         driver.findElement(xpath).click();
         Assert.assertEquals(title, driver.getTitle());
-        driver.navigate().back();
-        return this;
+
     }
 
 }

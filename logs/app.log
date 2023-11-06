@@ -674,3 +674,31 @@ java.net.SocketException: Connection reset
 2023-11-06 T 12:51:13.811+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->resolveDriverVersion Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
 2023-11-06 T 12:51:13.866+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->exportDriver Exporting webdriver.chrome.driver as drivers\chromedriver\win64\119.0.6045.105\chromedriver.exe
 2023-11-06 T 12:51:13.866+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->exportDriver Exporting webdriver.chrome.driver as drivers\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-06 T 22:27:18.248+0100 [1][INFO] org.testng.internal.Utils->info [TestNG] Running:
+  C:\Users\MikołajNarloch\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+2023-11-06 T 22:27:19.185+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->resolveDriverVersion Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-06 T 22:27:19.185+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->resolveDriverVersion Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-06 T 22:27:19.200+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->exportDriver Exporting webdriver.chrome.driver as drivers\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-06 T 22:27:19.200+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->exportDriver Exporting webdriver.chrome.driver as drivers\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-06 T 22:28:14.920+0100 [1][INFO] org.testng.internal.Utils->info [TestNG] Running:
+  C:\Users\MikołajNarloch\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+2023-11-06 T 22:28:15.469+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->resolveDriverVersion Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-06 T 22:28:15.469+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->resolveDriverVersion Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-06 T 22:28:15.504+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->exportDriver Exporting webdriver.chrome.driver as drivers\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-06 T 22:28:15.504+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->exportDriver Exporting webdriver.chrome.driver as drivers\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-06 T 22:29:13.781+0100 [1][INFO] org.testng.internal.Utils->info [TestNG] Running:
+  C:\Users\MikołajNarloch\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+2023-11-06 T 22:29:14.150+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->resolveDriverVersion Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-06 T 22:29:14.150+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->resolveDriverVersion Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-06 T 22:29:14.175+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->exportDriver Exporting webdriver.chrome.driver as drivers\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-06 T 22:29:14.175+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->exportDriver Exporting webdriver.chrome.driver as drivers\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-06 T 22:29:36.134+0100 [1][INFO] org.testng.internal.Utils->info [TestNG] Running:
+  C:\Users\MikołajNarloch\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+2023-11-06 T 22:29:36.683+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->resolveDriverVersion Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-06 T 22:29:36.683+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->resolveDriverVersion Using chromedriver 119.0.6045.105 (resolved driver for Chrome 119)
+2023-11-06 T 22:29:36.716+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->exportDriver Exporting webdriver.chrome.driver as drivers\chromedriver\win64\119.0.6045.105\chromedriver.exe
+2023-11-06 T 22:29:36.716+0100 [1][INFO] io.github.bonigarcia.wdm.WebDriverManager->exportDriver Exporting webdriver.chrome.driver as drivers\chromedriver\win64\119.0.6045.105\chromedriver.exe
