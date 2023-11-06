@@ -12,7 +12,7 @@ public class Article38 extends BasePage {
     private final  String potsdamerPageTitle = "Potsdam-Institut für Klimafolgenforschung";
     private final By quyenXpath = By.xpath("//a[normalize-space()='Quyen']");
     //private final  String quyenPageTitle = "(20) Quyen P. | LinkedIn";
-    private final  String quyenPageTitle = "Zaloguj się | LinkedIn";
+    private final  String quyenPageTitle = "Sign In | LinkedIn";
     private final By umweltXpath = By.xpath("//a[normalize-space()='Deutsche Bundesstiftung Umwelt']");
     private final  String umweltPageTitle = "DBU - Deutsche Bundesstiftung Umwelt";
     public Article38(WebDriver driver) {

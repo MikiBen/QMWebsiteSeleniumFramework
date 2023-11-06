@@ -21,15 +21,13 @@ public class Article4 extends BasePage {
         return this;
     }
 
-    public Article4 checkVereinLink()
-    {
-        checkLinkWithEmptyTitle(vereinXpath, vereinPageTitle);
+    public Article4 checkVereinLink() {
+        checkLink(vereinXpath, vereinPageTitle);
         return this;
     }
 
-    public Article4 checkHierLink()
-    {
-        checkLink(hierXpath, hierPageTitle);
+    public Article4 checkHierLink() {
+        checkLinkWithEmptyTitle(hierXpath, hierPageTitle);
         return this;
     }
 

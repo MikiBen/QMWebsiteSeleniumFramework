@@ -33,7 +33,7 @@ public class Article11 extends BasePage {
     }
     public Article11 checkRaspberryLink()
     {
-        checkLink(raspberryXpath, raspberryPageTitle);
+        checkLinkWithEmptyTitle(raspberryXpath, raspberryPageTitle);
         return this;
     }
 
