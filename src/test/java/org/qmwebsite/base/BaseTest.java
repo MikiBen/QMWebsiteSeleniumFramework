@@ -30,7 +30,7 @@ public class BaseTest {
 
     @Parameters({"browser", "headless"})
     @BeforeMethod
-    public void startDriver(@Optional String browser, @Optional String headless) throws IOException {
+    public void startDriver(@Optional String browser, @Optional String headless) throws IOException{
         // browser = System.getProperty("browser", browser); //testNg
 
         DriverType myBrowser = DriverType.valueOf(resolve(browser, "browser", DriverType.CHROME));

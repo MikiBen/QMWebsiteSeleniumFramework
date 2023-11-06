@@ -8,8 +8,8 @@ import org.qmwebsite.base.BasePage;
 
 public class Article4 extends BasePage {
     private final By vereinXpath = By.xpath("//a[normalize-space()='Verein Brückenhaus e.V.']");
-    private final String vereinPageTitle = "Brückenhaus e.V. Kirchheim unter Teck - Wir bauen Brücken!";
-
+    //private final String vereinPageTitle = "Brückenhaus e.V. Kirchheim unter Teck - Wir bauen Brücken!";
+    private final String vereinPageTitle = "[]";
     private final By hierXpath = By.xpath("//a[normalize-space()='hier']");
     private final String hierPageTitle = "Kinderferienprogramm - Brückenhaus e.V.";
 

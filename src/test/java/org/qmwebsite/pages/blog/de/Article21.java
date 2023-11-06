@@ -26,7 +26,7 @@ public class Article21 extends BasePage {
         return this;
     }
     public Article21 checkQualityLearningLink() {
-       // checkLink(qualityLearningXpath, qualityLearningPageTitle);
+        checkLink(qualityLearningXpath, qualityLearningPageTitle);
         return this;
     }
     public Article21 checkExxellentLink() {
