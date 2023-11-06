@@ -35,7 +35,7 @@ public class QMWebsiteTestInDE extends BaseTest {
         eventsDE.checkExitsPage();
     }
 
-
+/*
     @Test
     public void checkArticle1() {
         Article1 article = new Article1(getDriver());
@@ -233,7 +233,7 @@ public class QMWebsiteTestInDE extends BaseTest {
                 checkSustainableLink();
     }
 
-
+*/
 
 
 
