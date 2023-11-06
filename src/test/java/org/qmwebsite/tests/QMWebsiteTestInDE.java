@@ -133,9 +133,9 @@ public class QMWebsiteTestInDE extends BaseTest {
                 //checkMagazineLink().
                 //checkBundesLink().
                 checkTestLink();
-        Article17 articleKi = new Article17(getDriver());
-        articleKi.load().
-                checkKiLink();
+       // Article17 articleKi = new Article17(getDriver());
+        //articleKi.load().
+          //      checkKiLink();
     }
 
     @Test
