@@ -6,7 +6,8 @@ import org.qmwebsite.base.BasePage;
 
 public class Article38 extends BasePage {
     private final By sciaraXpath = By.xpath("//a[normalize-space()='SCIARA']");
-    private final  String sciaraPageTitle = "Wirksam gegen den Klimawandel - SCIARA";
+   // private final  String sciaraPageTitle = "Wirksam gegen den Klimawandel - SCIARA";
+    private final  String sciaraPageTitle = "";
     private final By potsdamerXpath = By.xpath("//a[normalize-space()='Potsdamer Instituts für Klimaforschung']");
     private final  String potsdamerPageTitle = "Potsdam-Institut für Klimafolgenforschung";
     private final By quyenXpath = By.xpath("//a[normalize-space()='Quyen']");
