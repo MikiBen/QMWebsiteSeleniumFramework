@@ -31,5 +31,4 @@ public class Article1 extends BasePage {
         return this;
     }
 
-
 }
