@@ -22,7 +22,7 @@ public class Article4 extends BasePage {
     }
 
     public Article4 checkVereinLink() {
-        checkLink(vereinXpath, vereinPageTitle);
+        checkLinkWithEmptyTitle(vereinXpath, vereinPageTitle);
         return this;
     }
 
