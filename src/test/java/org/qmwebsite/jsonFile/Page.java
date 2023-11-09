@@ -10,8 +10,10 @@ public class Page {
     private @JsonProperty("pages") List<UrlModel> urlModelList;
 
     public Page (List<UrlModel> urlModelList){
+
         this.urlModelList = urlModelList;
     }
+
 
     public Page(){}
 }

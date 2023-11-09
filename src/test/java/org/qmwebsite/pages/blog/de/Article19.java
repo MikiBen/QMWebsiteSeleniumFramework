@@ -9,7 +9,6 @@ public class Article19 extends BasePage {
     private final String facebookPageTitle = "Jamin Heppell - I RAN FOR ME and then it became WE. I did...";
     //private final String facebookPageTitle = "";
     private final By baliXpath = By.xpath("//a[normalize-space()='https://www.balichildrenfoundation.org/support-us']");
-
     private final String baliPageTitle = "Bali Children Foundation";
     public Article19(WebDriver driver) {
         super(driver);

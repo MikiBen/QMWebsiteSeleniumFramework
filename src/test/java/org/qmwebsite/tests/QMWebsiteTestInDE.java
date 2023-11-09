@@ -2,12 +2,11 @@ package org.qmwebsite.tests;
 
 import lombok.extern.java.Log;
 import lombok.extern.slf4j.Slf4j;
+import org.openqa.selenium.By;
+import org.qmwebsite.base.BasePage;
 import org.qmwebsite.pages.blog.de.*;
-import org.qmwebsite.pages.de.MainPage;
+import org.qmwebsite.pages.de.*;
 import org.qmwebsite.base.BaseTest;
-import org.qmwebsite.pages.de.EventsDE;
-import org.qmwebsite.pages.de.Footer;
-import org.qmwebsite.pages.de.MainMenu;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
@@ -35,7 +34,7 @@ public class QMWebsiteTestInDE extends BaseTest {
         eventsDE.checkExitsPage();
     }
 
-
+/*
     @Test
     public void checkArticle1() {
         Article1 article = new Article1(getDriver());
@@ -231,7 +230,7 @@ public class QMWebsiteTestInDE extends BaseTest {
     }
 
 
-
+*/
 
 
 /*
@@ -300,8 +299,7 @@ public class QMWebsiteTestInDE extends BaseTest {
     public void checkMainMenu(String pageName, String url, String tabName){
         MainMenu mainMenu = new MainMenu(getDriver());
             mainMenu.load(url);
-            mainMenu.checkQMStoreButton().
-                    checkQMStoreButton();
+            mainMenu.checkQMStoreButton();
 
     }
 /*
@@ -313,11 +311,44 @@ public class QMWebsiteTestInDE extends BaseTest {
     }
 */
     //This method will provide data to any test method that declares that its Data Provider
+
+   /*
+
     @Test(dataProvider="UrlList")
     public void studentRegistration(String pageName, String url, String tabName)
     {
         System.out.println(""+pageName+" "+url+" "+tabName);
     }
+
+    @Test(dataProvider="UrlListOnPages")
+    public void newUrlList(String pageName, String url, String xpath, String tabName)
+    {
+        System.out.println("Page Name: "+ pageName);
+        System.out.println("URL: : "+ url+" ");
+        System.out.println("Xpath: "+ xpath);
+        System.out.println("tabName: "+ tabName);
+    }
+*/
+    @Test(dataProvider="UrlListOnPages")
+    public void checkUrlLinkOnPages(String pageName, String url, String xpath, String tabName, Boolean getPageOpenInNewTab, Boolean getPageCanHaveEmptyTitle)
+    {
+        Article article = new Article(getDriver());
+        article.load(url);
+
+        if(!getPageOpenInNewTab) {
+            article.checkLinkOpensOnTheSamePage(By.xpath(xpath), tabName);
+
+        } else if (getPageCanHaveEmptyTitle) {
+            article.checkLinkWithEmptyTitle(By.xpath(xpath), tabName);
+        }
+
+        else {
+            article.checkLink(By.xpath(xpath), tabName);
+        }
+
+
+    }
+
 
     @DataProvider(name="UrlList")
     public Object[] myDataProvider() throws IOException {
@@ -334,6 +365,26 @@ public class QMWebsiteTestInDE extends BaseTest {
         });
         return data;
     }
+
+    @DataProvider(name="UrlListOnPages")
+    public Object[] myDataProvider2() throws IOException {
+        jsonFile.readFileWithUrlOnPages();
+
+        Object data[][]= new Object[jsonFile.getUrls().getUrlOnPagesModelList().size()][6];
+
+        IntStream.range(0,jsonFile.getUrls().getUrlOnPagesModelList().size()).forEach(i-> {
+
+            data[i][0] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getName();
+            data[i][1] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getPageAddress();
+            data[i][2] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getXpath();
+            data[i][3] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getTabName();
+            data[i][4] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getPageOpenInNewTab();
+            data[i][5] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getPageCanHaveEmptyTitle();
+
+        });
+        return data;
+    }
+
 
 
 }

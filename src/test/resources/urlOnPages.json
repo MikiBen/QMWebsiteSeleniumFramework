@@ -1,0 +1,271 @@
+{
+      "pages": [
+        {
+          "name": "Article 1",
+          "pageAddress": "/de/agilitat-ist-kopfsache/",
+          "xpath":  "//a[normalize-space()='hier']",
+          "tabName": "SQ-Magazin 44 by International Software Quality Institute - Issuu",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 1",
+          "pageAddress": "/de/agilitat-ist-kopfsache/",
+          "xpath":  "//a[normalize-space()='SQ-Magazin']",
+          "tabName": "Ihr Fachmagazin für Softwarequalität - SQ Magazin",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 3",
+          "pageAddress": "/de/agile-leadership-schon-wieder-ein-neuer-fuhrungsstil-oder-mehr-als-nur-ein-buzzword/",
+          "xpath":  "//a[normalize-space()='Stephan Merkel']",
+          "tabName": "Zaloguj się | LinkedIn",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 4",
+          "pageAddress": "/de/elemente-von-scrum-in-der-kinder-und-jugendarbeit/",
+          "xpath":  "//a[normalize-space()='Verein Brückenhaus e.V.']",
+          "tabName": "Brückenhaus e.V. Kirchheim unter Teck - Wir bauen Brücken!",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": true
+        },
+        {
+          "name": "Article 4",
+          "pageAddress": "/de/elemente-von-scrum-in-der-kinder-und-jugendarbeit/",
+          "xpath":  "//a[normalize-space()='Verein Brückenhaus e.V.']",
+          "tabName": "Brückenhaus e.V. Kirchheim unter Teck - Wir bauen Brücken!",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": true
+        },
+        {
+          "name": "Article 5",
+          "pageAddress": "/de/mit-lern-stories-zum-lernerfolg-in-agilen-teams-ein-beitrag-zum-internationalen-tag-der-bildung/",
+          "xpath":  "//a[contains(text(),'https://en.unesco.org/news/general-assembly-procla')]",
+          "tabName": "UNESCO : Building Peace through Education, Science and Culture, communication and information",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": true
+        },
+        {
+          "name": "Article 6",
+          "pageAddress": "/de/7-rahmenvertrag-mit-der-bundesagentur-fur-arbeit/",
+          "xpath":  "//a[normalize-space()='http://www.it-mittelstandsallianz.de/partner/']",
+          "tabName": "Unsere Allianz - RVSE-Mittelstandsallianz",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": true
+        },
+        {
+          "name": "Article 9",
+          "pageAddress": "/de/erste-einblicke-ausbildung-zum-agilen-lerncoach/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/quality-learning/weite')]",
+          "tabName": "QualityMinds | Ausbildung zum agilen Lerncoach",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 10",
+          "pageAddress": "/de/helden-news-qualityminds-auf-der-comic-con-2019/",
+          "xpath":  "//a[normalize-space()='Stuttgart (29.- 30. Juni)']",
+          "tabName": "Home - CCON | COMIC CON STUTTGART",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 11",
+          "pageAddress": "/de/building-a-simple-autonomous-mobile-robot/",
+          "xpath":  "//a[normalize-space()='LiDAR']",
+          "tabName": "Lidar - Wikipedia",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 11",
+          "pageAddress": "/de/building-a-simple-autonomous-mobile-robot/",
+          "xpath":  "//a[normalize-space()='Raspberry Pi']",
+          "tabName": "Teach, learn, and make with the Raspberry Pi Foundation",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": true
+        },
+        {
+          "name": "Article 11",
+          "pageAddress": "/de/building-a-simple-autonomous-mobile-robot/",
+          "xpath":  "//a[normalize-space()='Unity']",
+          "tabName": "Access Denied",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 11",
+          "pageAddress": "/de/building-a-simple-autonomous-mobile-robot/",
+          "xpath":  "//a[normalize-space()='Tensorflow']",
+          "tabName": "TensorFlow",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 11",
+          "pageAddress": "/de/building-a-simple-autonomous-mobile-robot/",
+          "xpath":  "//a[normalize-space()='Alexander Pohl']",
+          "tabName": "Zaloguj się | LinkedIn",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 12",
+          "pageAddress": "/de/das-neue-qualityminds-buch-zum-agilen-lernen-ist-erschienen/",
+          "xpath":  "//a[contains(text(),'“Lern doch, was Du willst')]",
+          "tabName": "QualityMinds | Lern doch, was Du willst!",
+          "PageOpenInNewTab": false,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 12",
+          "pageAddress": "/de/das-neue-qualityminds-buch-zum-agilen-lernen-ist-erschienen/",
+          "xpath":  "//a[normalize-space()='Buch-Homepage']",
+          "tabName": "QualityMinds | Lern doch, was Du willst!",
+          "PageOpenInNewTab": false,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 13",
+          "pageAddress": "/de/learntec-2020-das-lernen-wir-digital/",
+          "xpath":  "//a[normalize-space()='www.colearn.de']",
+          "tabName": "Corporate Learning Community – Beiträge zur Entwicklung von Learning & Development aus der Corporate Learning Community",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 15",
+          "pageAddress": "/de/der-remote-scrum-master-wie-die-empathie-nicht-auf-der-strecke-bleibt/",
+          "xpath":  "//a[normalize-space()='(http://kudobox.co/)']",
+          "tabName": "Kudobox",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 15",
+          "pageAddress": "/de/der-remote-scrum-master-wie-die-empathie-nicht-auf-der-strecke-bleibt/",
+          "xpath":  "//a[normalize-space()='https://www.agileteams.de/plus/agile-games/']",
+          "tabName": "Agile Games - AgileTeams.de: Das große Portal für agile Teams und agile Unternehmen | Agile Literatur | Agile Artikel | Agile Videos | Agile Studien | Agiler Blog",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 16",
+          "pageAddress": "/de/der-remote-scrum-master-wie-die-empathie-nicht-auf-der-strecke-bleibt/",
+          "xpath":  "//a[normalize-space()='(http://kudobox.co/)']",
+          "tabName": "Kudobox",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 16",
+          "pageAddress": "/de/der-remote-scrum-master-wie-die-empathie-nicht-auf-der-strecke-bleibt/",
+          "xpath":  "//a[normalize-space()='https://www.agileteams.de/plus/agile-games/']",
+          "tabName": "Agile Games - AgileTeams.de: Das große Portal für agile Teams und agile Unternehmen | Agile Literatur | Agile Artikel | Agile Videos | Agile Studien | Agiler Blog",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 17",
+          "pageAddress": "/de/qualitatssicherung-von-ki-die-gefahren-lauern-vor-allem-hinter-den-ecken/",
+          "xpath":  "//a[normalize-space()='KI-Absicherung']",
+          "tabName": "KI Absicherung: KI Absicherung",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 17",
+          "pageAddress": "/de/qualitatssicherung-von-ki-die-gefahren-lauern-vor-allem-hinter-den-ecken/",
+          "xpath":  "//a[normalize-space()='Bundesministerium für Wirtschaft und Klimaschutz']",
+          "tabName": "www.bmwi.de",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 17",
+          "pageAddress": "/de/qualitatssicherung-von-ki-die-gefahren-lauern-vor-allem-hinter-den-ecken/",
+          "xpath":  "//a[@target='_blank'][normalize-space()='Tests für Autonomes Fahren']",
+          "tabName": "QualityMinds | Tests für Autonomes Fahren",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 19",
+          "pageAddress": "/de/9k-for-90k-bali-children-foundation-campaign/",
+          "xpath":  "//a[contains(text(),'https://www.facebook.com/jamin.heppell/posts/10223')]",
+          "tabName": "Jamin Heppell - I RAN FOR ME and then it became WE. I did...",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": true
+        },
+        {
+          "name": "Article 19",
+          "pageAddress": "/de/9k-for-90k-bali-children-foundation-campaign/",
+          "xpath":  "//a[normalize-space()='https://www.balichildrenfoundation.org/support-us']",
+          "tabName": "Bali Children Foundation",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 21",
+          "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
+          "xpath":  "//a[normalize-space()='QualityLearning-Team']",
+          "tabName": "QualityMinds | QualityLearning",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 21",
+          "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
+          "xpath":  "//a[normalize-space()='eXXcellent solutions']",
+          "tabName": "Startseite - eXXcellent solutions",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 21",
+          "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
+          "xpath":  "//strong[normalize-space()='Link zum Beitrag']",
+          "tabName": "News - eXXcellent solutions",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 21",
+          "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
+          "xpath":  "//strong[normalize-space()='hier']",
+          "tabName": "News - eXXcellent solutions",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 21",
+          "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
+          "xpath":  "//strong[normalize-space()='hier']",
+          "tabName": "QualityMinds | Lerncoach Ausbildung bei QualityMinds - Werde agiler Lerncoach!",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        }
+
+      ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p
