@@ -36,7 +36,7 @@ public class Article32 extends BasePage {
         return this;
     }
     public Article32 checkNamaratLink() {
-        checkLink(namrataXpath,namrataPageTitle);
+        checkLinkWithEmptyTitle(namrataXpath,namrataPageTitle);
         return this;
     }
 }

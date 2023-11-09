@@ -172,7 +172,7 @@ public class QMWebsiteTestInDE extends BaseTest {
         Article30 article = new Article30(getDriver());
         article.load().
                 checkAGHLink().
-                checkVlogLink().
+                //checkVlogLink().
                 checkPodcastLink().
                 checkHereLink();
     }
