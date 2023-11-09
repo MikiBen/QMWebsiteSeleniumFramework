@@ -19,7 +19,7 @@ public class Article19 extends BasePage {
         return this;
     }
     public Article19 checkFacebookLink() {
-        checkLink(facebookXpath, facebookPageTitle);
+        checkLinkWithEmptyTitle(facebookXpath, facebookPageTitle);
         return this;
     }
     public Article19 checkBaliLink() {

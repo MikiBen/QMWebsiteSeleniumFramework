@@ -33,7 +33,7 @@ public class Article38 extends BasePage {
         return this;
     }
     public Article38 checkQuyenLink() {
-        checkLink(quyenXpath,quyenPageTitle);
+        checkLinkWithEmptyTitle(quyenXpath,quyenPageTitle);
         return this;
     }
     public Article38 checkUmweltLink() {
