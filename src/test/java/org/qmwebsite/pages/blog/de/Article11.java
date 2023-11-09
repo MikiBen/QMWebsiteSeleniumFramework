@@ -50,7 +50,7 @@ public class Article11 extends BasePage {
 
     public Article11 checkAlexanderLink()
     {
-        checkLink(alexanderXpath, alexanderPageTitle);
+        checkLinkWithEmptyTitle(alexanderXpath, alexanderPageTitle);
         return this;
     }
 }
