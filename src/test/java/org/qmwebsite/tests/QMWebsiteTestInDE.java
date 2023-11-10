@@ -3,8 +3,6 @@ package org.qmwebsite.tests;
 import lombok.extern.java.Log;
 import lombok.extern.slf4j.Slf4j;
 import org.openqa.selenium.By;
-import org.qmwebsite.base.BasePage;
-import org.qmwebsite.pages.blog.de.*;
 import org.qmwebsite.pages.de.*;
 import org.qmwebsite.base.BaseTest;
 import org.testng.Assert;
@@ -36,205 +34,6 @@ public class QMWebsiteTestInDE extends BaseTest {
 
 /*
     @Test
-    public void checkArticle1() {
-        Article1 article = new Article1(getDriver());
-        article.load()
-                .checkHierLink()
-                .checkMagazineLink();
-    }
-
-    @Test
-    public void checkArticle2() {
-    }
-    @Test
-    public void checkArticle3() {
-        Article3 article = new Article3(getDriver());
-        article.load().
-                checkStephanLink();
-    }
-
-    @Test
-    public void checkArticle4() {
-        Article4 article = new Article4(getDriver());
-        article.load().
-                checkVereinLink().
-                checkHierLink();
-    }
-    @Test
-    public void checkArticle5(){
-        Article5 article = new Article5(getDriver());
-        article.load().
-                checkUnsecoLink();
-    }
-
-    @Test
-    public void checkArticle6(){
-        Article6 article = new Article6(getDriver());
-        article.load().
-                checkAlianzLink();
-    }
-
-    @Test
-    public void checkArticle9(){
-        Article9 article = new Article9(getDriver());
-        article.load().
-                checkAgilenLink();
-    }
-
-    @Test
-    public void checkArticle10(){
-        Article10 article = new Article10(getDriver());
-        article.load().
-                checkStuttgartLink();
-    }
-    @Test
-    public void checkArticle11() {
-        Article11 article = new Article11(getDriver());
-        article.load().
-                checkLidarLink().
-                checkTensoLink().
-                checkUnityLink().
-                load().
-                checkRaspberryLink().
-                checkAlexanderLink();
-    }
-    @Test
-    public void checkArticle12(){
-        Article12 article = new Article12(getDriver());
-        article.load().
-                checkLearnDochLink().
-                checkLearnDochSecondLink();
-    }
-
-    @Test
-    public void checkArticle13(){
-        Article13 article = new Article13(getDriver());
-        article.load().
-                checkColearnLink();
-    }
-    @Test
-    public void checkArticle15(){
-        Article15 article = new Article15(getDriver());
-        article.load().
-                checkKudoboxLink().
-                checkAgilesLink();
-    }
-    @Test
-    public void checkArticle16(){
-        Article16 article = new Article16(getDriver());
-        article.load().
-                checkAgilerLink();
-    }
-    @Test
-    public void checkArticle17(){
-        Article17 article = new Article17(getDriver());
-        article.load().
-                //heckMagazineLink();
-                checkBundesLink().
-                checkTestLink();
-                //checkKiLink();
-    }
-
-    @Test
-    public void checkArticle19(){
-        Article19 article = new Article19(getDriver());
-        article.load().
-                checkFacebookLink().
-                checkBaliLink();
-    }
-    @Test
-    public void checkArticle21(){
-        Article21 article = new Article21(getDriver());
-        article.load().
-                //checkBeitragLink().
-                //checkExxellentLink().
-                //checkHierLink().
-                checkQualityLearningLink().
-                checkLearnCoachLink();
-    }
-    @Test
-    public void checkArticle22(){
-        Article22 article = new Article22(getDriver());
-        article.load().
-                checkGehlenLink();
-    }
-
-    @Test
-    public void checkArticle23(){
-        Article23 article = new Article23(getDriver());
-        article.load().
-                checkHTCLink().
-                checkOculusLink();
-    }
-    @Test
-    public void checkArticle30() {
-        Article30 article = new Article30(getDriver());
-        article.load().
-                checkAGHLink().
-                //checkVlogLink().
-                checkPodcastLink().
-                checkHereLink();
-    }
-    @Test
-    public void checkArticle31() {
-        Article31 article = new Article31(getDriver());
-        article.load().
-                checkFindBagLink().
-                checkCornerLink().
-                checkRiskLink();
-    }
-
-    @Test
-    public void checkArticle32() {
-        Article32 article = new Article32(getDriver());
-        article.load().
-                checkThomsonLink().
-                checkNamaratLink().
-                checkJobsAdsLink().
-                checkKiLink();
-    }
-    @Test
-    public void checkArticle35() {
-        Article35 article = new Article35(getDriver());
-        article.load().
-                checkBlogLink().
-                checkSFZLink().
-                checkAktionLink().
-                checkSciaraLink().
-                checkNextBlogLink();
-    }
-    @Test
-    public void checkArticle38() {
-        Article38 article = new Article38(getDriver());
-        article.load().
-                checkSciaraLink().
-                checkPotsdamLink().
-                checkQuyenLink().
-                checkUmweltLink();
-    }
-
-    @Test
-    public void checkArticle39() {
-        Article39 article = new Article39(getDriver());
-        article.load().
-                checkSoftwareLink();
-    }
-
-    @Test
-    public void checkArticle40() {
-        Article40 article = new Article40(getDriver());
-        article.load().
-                checkEnterproseLink().
-                checkInovationsLink().
-                checkSustainableLink();
-    }
-
-
-*/
-
-
-/*
-    @Test
     public void checkTabName(){
         MainPage mainPage = new MainPage(getDriver());
 
@@ -255,28 +54,6 @@ public class QMWebsiteTestInDE extends BaseTest {
 
     }
 
-/*    @Test
-    public void checkFooter(){
-        Footer footer = new Footer(getDriver());
-
-        IntStream.range(0,jsonFile.getPages().getUrlModelList().size()).forEach(i-> {
-                footer.load(jsonFile.getPages().getUrlModelList().get(i).getUrl());
-                log.info(footer.getCurrentAddress());
-                footer.checkQualityMindsLogoButton().
-                        checkImpessumButton().
-                        checkHinweisgebersystemButton().
-                        checkDatenschutzerklarungButton().
-                        checkKontakButton().
-                        checkTwitterButton().
-                        checkLinkedInButton().
-                        checkFacebookButton().
-                        checkXingButton().
-                        checkFeedButton();
-             }
-        );
-    }*/
-
-
     @Test (dataProvider = "UrlList")
     public void checkFooter(String pageName, String url, String tabName){
         Footer footer = new Footer(getDriver());
@@ -293,7 +70,6 @@ public class QMWebsiteTestInDE extends BaseTest {
                             checkXingButton().
                             checkFeedButton();
                 }
-
 
     @Test (dataProvider = "UrlList")
     public void checkMainMenu(String pageName, String url, String tabName){
@@ -312,23 +88,6 @@ public class QMWebsiteTestInDE extends BaseTest {
 */
     //This method will provide data to any test method that declares that its Data Provider
 
-   /*
-
-    @Test(dataProvider="UrlList")
-    public void studentRegistration(String pageName, String url, String tabName)
-    {
-        System.out.println(""+pageName+" "+url+" "+tabName);
-    }
-
-    @Test(dataProvider="UrlListOnPages")
-    public void newUrlList(String pageName, String url, String xpath, String tabName)
-    {
-        System.out.println("Page Name: "+ pageName);
-        System.out.println("URL: : "+ url+" ");
-        System.out.println("Xpath: "+ xpath);
-        System.out.println("tabName: "+ tabName);
-    }
-*/
     @Test(dataProvider="UrlListOnPages")
     public void checkUrlLinkOnPages(String pageName, String url, String xpath, String tabName, Boolean getPageOpenInNewTab, Boolean getPageCanHaveEmptyTitle)
     {
@@ -345,7 +104,6 @@ public class QMWebsiteTestInDE extends BaseTest {
         else {
             article.checkLink(By.xpath(xpath), tabName);
         }
-
 
     }
 
@@ -384,8 +142,6 @@ public class QMWebsiteTestInDE extends BaseTest {
         });
         return data;
     }
-
-
 
 }
 

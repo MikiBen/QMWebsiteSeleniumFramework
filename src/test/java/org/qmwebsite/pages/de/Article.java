@@ -1,11 +1,13 @@
 package org.qmwebsite.pages.de;
 
+import lombok.extern.java.Log;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.qmwebsite.base.BasePage;
 
+@Log
 public class Article extends BasePage {
     public Article(WebDriver driver) {
         super(driver);
@@ -30,16 +32,10 @@ public class Article extends BasePage {
             }
 
 
-
-
-
-
-            //Assert.assertTrue((driver.getTitle().equals("") )|| (driver.getTitle().equals(title)));
-            
             driver.navigate().back();
-
             driver.close();
             driver.switchTo().window(winHandleBefore);
+            log.info("Link: " + xpath + " on page: " + driver.getCurrentUrl() + " is OK");
         } catch (Exception e) {
             System.out.println("On page: " + driver.getCurrentUrl() + " I can not find proper link");
             Assert.fail();
