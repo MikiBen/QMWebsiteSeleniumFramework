@@ -180,7 +180,7 @@
           "name": "Article 17",
           "pageAddress": "/de/qualitatssicherung-von-ki-die-gefahren-lauern-vor-allem-hinter-den-ecken/",
           "xpath":  "//a[normalize-space()='Bundesministerium für Wirtschaft und Klimaschutz']",
-          "tabName": "www.bmwi.de",
+          "tabName": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
           "PageOpenInNewTab": true,
           "PageCanHaveEmptyTitle": false
         },
@@ -243,11 +243,228 @@
         {
           "name": "Article 21",
           "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
-          "xpath":  "//strong[normalize-space()='hier']",
+          "xpath":  "//*[@id=\"main-content\"]/div/div/div[2]/div[1]/div[1]/div[1]/p[15]/a",
           "tabName": "QualityMinds | Lerncoach Ausbildung bei QualityMinds - Werde agiler Lerncoach!",
           "PageOpenInNewTab": true,
           "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 22",
+          "pageAddress": "/de/die-lange-des-lernsprints-2/",
+          "xpath":  "//a[normalize-space()='vgl. Gehlen-Baum & Illi, 2019']",
+          "tabName": "QualityMinds | Lern doch, was Du willst!",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 23",
+          "pageAddress": "/de/nextgencollab-update/",
+          "xpath":  "//a[normalize-space()='HTC Vive Setting']",
+          "tabName": "VIVE Deutschland | Discover Virtual Reality Beyond Imagination",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 23",
+          "pageAddress": "/de/nextgencollab-update/",
+          "xpath":  "//a[normalize-space()='HTC Vive Setting']",
+          "tabName": "VIVE Deutschland | Discover Virtual Reality Beyond Imagination",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 30",
+          "pageAddress": "/de/meet-the-devops-jakub/",
+          "xpath":  "//a[normalize-space()='AGH Racing']",
+          "tabName": "AGH Racing – Zespół wyścigowy Formuły Student",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 30",
+          "pageAddress": "/de/meet-the-devops-jakub/",
+          "xpath":  "//a[normalize-space()='travel vlog']",
+          "tabName": "Zanim przejdziesz do YouTube",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 30",
+          "pageAddress": "/de/meet-the-devops-jakub/",
+          "xpath":  "//p[contains(text(),'Listen to the QualityHeroes Podcast episode “What ')]//strong[contains(text(),'here')]",
+          "tabName": "QualityHeroes Podcast Folge 32: What is DevOps? | QualityMinds",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 30",
+          "pageAddress": "/de/meet-the-devops-jakub/",
+          "xpath":  "//a[@href='https://qualityminds.com/de/services/softwareentwicklung/devops/']//strong[contains(text(),'here')]",
+          "tabName": "QualityMinds | DevOps",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 31",
+          "pageAddress": "/de/meet-the-tester-bastian/",
+          "xpath":  "//strong[normalize-space()='corner cases']",
+          "tabName": "Qualitätssicherung von KI – Die Gefahren lauern vor allem hinter den Ecken | QualityMinds",
+          "PageOpenInNewTab": false,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 31",
+          "pageAddress": "/de/meet-the-tester-bastian/",
+          "xpath":  "//strong[normalize-space()='Find the Bug Sessions']",
+          "tabName": "QualityHeroes Podcast Folge 21: Wie funktioniert eine Find-The-Bug-Session? | QualityMinds",
+          "PageOpenInNewTab": false,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 31",
+          "pageAddress": "/de/meet-the-tester-bastian/",
+          "xpath":  "//strong[normalize-space()='Risk Storming']",
+          "tabName": "QualityHeroes Podcast Folge 20: Was ist ein Risk-Storming-Workshop und wie kann er einem Projektteam helfen? | QualityMinds",
+          "PageOpenInNewTab": false,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 32",
+          "pageAddress": "/de/meet-the-dev-namrata/",
+          "xpath":  "//a[normalize-space()='Thomson Reuters Labs']",
+          "tabName": "Join Thomson Reuters Labs | Thomson Reuters",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 32",
+          "pageAddress": "/de/meet-the-dev-namrata/",
+          "xpath":  "//a[normalize-space()='inclusive language for job ads']",
+          "tabName": "Diversifier-NLP - Automated Text Analysis for more Inclusion in Job Ads",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 32",
+          "pageAddress": "/de/meet-the-dev-namrata/",
+          "xpath":  "//a[normalize-space()='KI-Absicherung']",
+          "tabName": "KI Absicherung: KI Absicherung",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 32",
+          "pageAddress": "/de/meet-the-dev-namrata/",
+          "xpath":  "//a[normalize-space()='https://www.namratagurung.com/']",
+          "tabName": "Home | Namrata Gurung",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 35",
+          "pageAddress": "/de/gelebte-nachhaltigkeit-und-csr-bei-qualityminds-erfolgsgeschichten-die-sich-sehen-lassen-koennen/",
+          "xpath":  "//a[normalize-space()='unserem erstem Blogbeitrag']",
+          "tabName": "Wie haben wir ohne große Schwierigkeiten die Nachhaltigkeit im Unternehmen verankert? | QualityMinds",
+          "PageOpenInNewTab": false,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 35",
+          "pageAddress": "/de/gelebte-nachhaltigkeit-und-csr-bei-qualityminds-erfolgsgeschichten-die-sich-sehen-lassen-koennen/",
+          "xpath":  "//a[normalize-space()='Unternehmen Ehrensache IN AKTION']",
+          "tabName": "\"Unternehmen Ehrensache IN AKTION\" - Einsatztag mal anders - Wir bleiben engagiert!",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 35",
+          "pageAddress": "/de/gelebte-nachhaltigkeit-und-csr-bei-qualityminds-erfolgsgeschichten-die-sich-sehen-lassen-koennen/",
+          "xpath":  "//a[normalize-space()='Sonderpädagogischen Förderzentrums Nürnberg']",
+          "tabName": "Sonderpädagogisches Förderzentrum Jean-Paul-Platz Nürnberg - Home",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 35",
+          "pageAddress": "/de/gelebte-nachhaltigkeit-und-csr-bei-qualityminds-erfolgsgeschichten-die-sich-sehen-lassen-koennen/",
+          "xpath":  "//a[normalize-space()='Homepage von SCIARA']",
+          "tabName": "Wirksam gegen den Klimawandel - SCIARA",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 35",
+          "pageAddress": "/de/gelebte-nachhaltigkeit-und-csr-bei-qualityminds-erfolgsgeschichten-die-sich-sehen-lassen-koennen/",
+          "xpath":  "//strong[normalize-space()='nächsten Blogbeitrag']",
+          "tabName": "Klimaschutz durch Digitale Technologien – Gelebtes CSR bei QualityMinds | QualityMinds",
+          "PageOpenInNewTab": false,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 38",
+          "pageAddress": "/de/klimaschutz-durch-digitale-technologien-gelebtes-csr-bei-qualityminds/",
+          "xpath":  "//a[normalize-space()='SCIARA']",
+          "tabName": "Wirksam gegen den Klimawandel - SCIARA",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 38",
+          "pageAddress": "/de/klimaschutz-durch-digitale-technologien-gelebtes-csr-bei-qualityminds/",
+          "xpath":  "//a[normalize-space()='Potsdamer Instituts für Klimaforschung']",
+          "tabName": "Potsdam-Institut für Klimafolgenforschung",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 38",
+          "pageAddress": "/de/klimaschutz-durch-digitale-technologien-gelebtes-csr-bei-qualityminds/",
+          "xpath":  "//a[normalize-space()='Quyen']",
+          "tabName": "Zaloguj się | LinkedIn",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 38",
+          "pageAddress": "/de/klimaschutz-durch-digitale-technologien-gelebtes-csr-bei-qualityminds/",
+          "xpath":  "//a[normalize-space()='Deutsche Bundesstiftung Umwelt']",
+          "tabName": "DBU - Deutsche Bundesstiftung Umwelt",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 39",
+          "pageAddress": "/de/meet-the-dev-ralph/",
+          "xpath":  "//a[normalize-space()='Software Bauhaus']",
+          "tabName": "QualityMinds | Agile Software-Entwicklungsteams",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 40",
+          "pageAddress": "/de/wie-innovativ-und-nachhaltig-ist-qualityminds-eigentlich/",
+          "xpath":  "//a[normalize-space()='Enterprise Europe Network der Bayern Innovativ']",
+          "tabName": "EEN - Enterprise Europe Network",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 40",
+          "pageAddress": "/de/wie-innovativ-und-nachhaltig-ist-qualityminds-eigentlich/",
+          "xpath":  "//a[normalize-space()='Innovations-Assessment']",
+          "tabName": "Assessments der Bayern Innovativ – Ihr Erfolgsplan für die Zukunft",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
+        },
+        {
+          "name": "Article 40",
+          "pageAddress": "/de/wie-innovativ-und-nachhaltig-ist-qualityminds-eigentlich/",
+          "xpath":  "//strong[normalize-space()='Sustainable Development Goals']",
+          "tabName": "THE 17 GOALS | Sustainable Development",
+          "PageOpenInNewTab": true,
+          "PageCanHaveEmptyTitle": false
         }
+
 
       ]
 }
