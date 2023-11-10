@@ -6,6 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.qmwebsite.base.BasePage;
+import org.qmwebsite.utils.ConfigLoader;
 
 @Log
 public class Article extends BasePage {
@@ -13,7 +14,8 @@ public class Article extends BasePage {
         super(driver);
     }
 
-    public Article checkLink(By xpath, String title) {
+    public void checkLink(By xpath, String title,String pageName,String url) {
+
         removeCookies();
         wait.until(ExpectedConditions.elementToBeClickable(xpath));
         driver.findElement(xpath).click();
@@ -23,59 +25,36 @@ public class Article extends BasePage {
             for (String winHandle : driver.getWindowHandles()) {
                 driver.switchTo().window(winHandle);
             }
-            if(driver.getTitle() == title){
-                Assert.assertEquals(title, driver.getTitle());
-            } else if (driver.getTitle() == "[Sign In] | LinkedIn") {
+
+            if (driver.getTitle() == "[Sign In] | LinkedIn") {
                 Assert.assertEquals("[Sign In] | LinkedIn", driver.getTitle());
             }else if (driver.getTitle() == "") {
                 Assert.assertEquals("", driver.getTitle());
+            }else{
+                Assert.assertEquals(title, driver.getTitle());
             }
-
-
             driver.navigate().back();
             driver.close();
             driver.switchTo().window(winHandleBefore);
-            log.info("Link: " + xpath + " on page: " + driver.getCurrentUrl() + " is OK");
-        } catch (Exception e) {
-            System.out.println("On page: " + driver.getCurrentUrl() + " I can not find proper link");
-            Assert.fail();
-        }
 
-        return this;
+        } catch (Exception e) {
+            Assert.fail("On page: " + pageName + " with address: " + url + " the link: " + xpath + " is wrong");
+        }
     }
 
-    public Article checkLinkWithEmptyTitle(By xpath, String title) {
-        removeCookies();
-        wait.until(ExpectedConditions.elementToBeClickable(xpath));
-        driver.findElement(xpath).click();
-
-        String winHandleBefore = driver.getWindowHandle();
-        try {
-            for (String winHandle : driver.getWindowHandles()) {
-                driver.switchTo().window(winHandle);
-            }
-
-            Assert.assertTrue((driver.getTitle().equals("") )|| (driver.getTitle().equals(title)));
-            //Assert.assertEquals(title, driver.getTitle());
-            driver.navigate().back();
-
-            driver.close();
-            driver.switchTo().window(winHandleBefore);
-        } catch (Exception e) {
-            System.out.println("On page: " + driver.getCurrentUrl() + " I can not find proper link");
-            Assert.fail();
-        }
-        return this;
-
-    }
-
-    public Article checkLinkOpensOnTheSamePage(By xpath, String title) {
+    public void checkLinkOpensOnTheSamePage(By xpath, String title, String  pageName, String url) {
 
         removeCookies();
         waitForElementToBeClickable(xpath);
         driver.findElement(xpath).click();
-        Assert.assertEquals(title, driver.getTitle());
-        driver.navigate().back();
-        return this;
+
+        try {
+            Assert.assertEquals(title, driver.getTitle());
+            driver.navigate().back();
+        }catch (Exception e) {
+            Assert.fail("On page: " + pageName + " with address: " + ConfigLoader.getInstance().getBaseUrl() + url +
+                    " the link: " + xpath + " is wrong");
+        }
+
     }
 }

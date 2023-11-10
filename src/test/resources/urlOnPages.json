@@ -5,484 +5,408 @@
           "pageAddress": "/de/agilitat-ist-kopfsache/",
           "xpath":  "//a[normalize-space()='hier']",
           "tabName": "SQ-Magazin 44 by International Software Quality Institute - Issuu",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 1",
           "pageAddress": "/de/agilitat-ist-kopfsache/",
           "xpath":  "//a[normalize-space()='SQ-Magazin']",
           "tabName": "Ihr Fachmagazin für Softwarequalität - SQ Magazin",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 3",
           "pageAddress": "/de/agile-leadership-schon-wieder-ein-neuer-fuhrungsstil-oder-mehr-als-nur-ein-buzzword/",
           "xpath":  "//a[normalize-space()='Stephan Merkel']",
           "tabName": "Zaloguj się | LinkedIn",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 4",
           "pageAddress": "/de/elemente-von-scrum-in-der-kinder-und-jugendarbeit/",
           "xpath":  "//a[normalize-space()='Verein Brückenhaus e.V.']",
           "tabName": "Brückenhaus e.V. Kirchheim unter Teck - Wir bauen Brücken!",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": true
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 4",
           "pageAddress": "/de/elemente-von-scrum-in-der-kinder-und-jugendarbeit/",
           "xpath":  "//a[normalize-space()='Verein Brückenhaus e.V.']",
           "tabName": "Brückenhaus e.V. Kirchheim unter Teck - Wir bauen Brücken!",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": true
+          "PageOpenInNewTab": true
+
         },
         {
           "name": "Article 5",
           "pageAddress": "/de/mit-lern-stories-zum-lernerfolg-in-agilen-teams-ein-beitrag-zum-internationalen-tag-der-bildung/",
           "xpath":  "//a[contains(text(),'https://en.unesco.org/news/general-assembly-procla')]",
           "tabName": "UNESCO : Building Peace through Education, Science and Culture, communication and information",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": true
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 6",
           "pageAddress": "/de/7-rahmenvertrag-mit-der-bundesagentur-fur-arbeit/",
           "xpath":  "//a[normalize-space()='http://www.it-mittelstandsallianz.de/partner/']",
           "tabName": "Unsere Allianz - RVSE-Mittelstandsallianz",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": true
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 9",
           "pageAddress": "/de/erste-einblicke-ausbildung-zum-agilen-lerncoach/",
           "xpath":  "//a[contains(text(),'https://qualityminds.com/de/quality-learning/weite')]",
           "tabName": "QualityMinds | Ausbildung zum agilen Lerncoach",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 10",
           "pageAddress": "/de/helden-news-qualityminds-auf-der-comic-con-2019/",
           "xpath":  "//a[normalize-space()='Stuttgart (29.- 30. Juni)']",
           "tabName": "Home - CCON | COMIC CON STUTTGART",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 11",
           "pageAddress": "/de/building-a-simple-autonomous-mobile-robot/",
           "xpath":  "//a[normalize-space()='LiDAR']",
           "tabName": "Lidar - Wikipedia",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 11",
           "pageAddress": "/de/building-a-simple-autonomous-mobile-robot/",
           "xpath":  "//a[normalize-space()='Raspberry Pi']",
           "tabName": "Teach, learn, and make with the Raspberry Pi Foundation",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": true
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 11",
           "pageAddress": "/de/building-a-simple-autonomous-mobile-robot/",
           "xpath":  "//a[normalize-space()='Unity']",
           "tabName": "Access Denied",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 11",
           "pageAddress": "/de/building-a-simple-autonomous-mobile-robot/",
           "xpath":  "//a[normalize-space()='Tensorflow']",
           "tabName": "TensorFlow",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 11",
           "pageAddress": "/de/building-a-simple-autonomous-mobile-robot/",
           "xpath":  "//a[normalize-space()='Alexander Pohl']",
           "tabName": "Zaloguj się | LinkedIn",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 12",
           "pageAddress": "/de/das-neue-qualityminds-buch-zum-agilen-lernen-ist-erschienen/",
           "xpath":  "//a[contains(text(),'“Lern doch, was Du willst')]",
           "tabName": "QualityMinds | Lern doch, was Du willst!",
-          "PageOpenInNewTab": false,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": false
         },
         {
           "name": "Article 12",
           "pageAddress": "/de/das-neue-qualityminds-buch-zum-agilen-lernen-ist-erschienen/",
           "xpath":  "//a[normalize-space()='Buch-Homepage']",
           "tabName": "QualityMinds | Lern doch, was Du willst!",
-          "PageOpenInNewTab": false,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": false
         },
         {
           "name": "Article 13",
           "pageAddress": "/de/learntec-2020-das-lernen-wir-digital/",
           "xpath":  "//a[normalize-space()='www.colearn.de']",
           "tabName": "Corporate Learning Community – Beiträge zur Entwicklung von Learning & Development aus der Corporate Learning Community",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 15",
           "pageAddress": "/de/der-remote-scrum-master-wie-die-empathie-nicht-auf-der-strecke-bleibt/",
           "xpath":  "//a[normalize-space()='(http://kudobox.co/)']",
           "tabName": "Kudobox",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 15",
           "pageAddress": "/de/der-remote-scrum-master-wie-die-empathie-nicht-auf-der-strecke-bleibt/",
           "xpath":  "//a[normalize-space()='https://www.agileteams.de/plus/agile-games/']",
           "tabName": "Agile Games - AgileTeams.de: Das große Portal für agile Teams und agile Unternehmen | Agile Literatur | Agile Artikel | Agile Videos | Agile Studien | Agiler Blog",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 16",
           "pageAddress": "/de/der-remote-scrum-master-wie-die-empathie-nicht-auf-der-strecke-bleibt/",
           "xpath":  "//a[normalize-space()='(http://kudobox.co/)']",
           "tabName": "Kudobox",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 16",
           "pageAddress": "/de/der-remote-scrum-master-wie-die-empathie-nicht-auf-der-strecke-bleibt/",
           "xpath":  "//a[normalize-space()='https://www.agileteams.de/plus/agile-games/']",
           "tabName": "Agile Games - AgileTeams.de: Das große Portal für agile Teams und agile Unternehmen | Agile Literatur | Agile Artikel | Agile Videos | Agile Studien | Agiler Blog",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 17",
           "pageAddress": "/de/qualitatssicherung-von-ki-die-gefahren-lauern-vor-allem-hinter-den-ecken/",
           "xpath":  "//a[normalize-space()='KI-Absicherung']",
           "tabName": "KI Absicherung: KI Absicherung",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 17",
           "pageAddress": "/de/qualitatssicherung-von-ki-die-gefahren-lauern-vor-allem-hinter-den-ecken/",
           "xpath":  "//a[normalize-space()='Bundesministerium für Wirtschaft und Klimaschutz']",
           "tabName": "BMWK - Bundesministerium für Wirtschaft und Klimaschutz",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 17",
           "pageAddress": "/de/qualitatssicherung-von-ki-die-gefahren-lauern-vor-allem-hinter-den-ecken/",
           "xpath":  "//a[@target='_blank'][normalize-space()='Tests für Autonomes Fahren']",
           "tabName": "QualityMinds | Tests für Autonomes Fahren",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 19",
           "pageAddress": "/de/9k-for-90k-bali-children-foundation-campaign/",
           "xpath":  "//a[contains(text(),'https://www.facebook.com/jamin.heppell/posts/10223')]",
-          "tabName": "Jamin Heppell - I RAN FOR ME and then it became WE. I did...",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": true
+          "tabName": "Jamin Heppell - I RAN FOR ME and then it became WE. I did... | Facebook",
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 19",
           "pageAddress": "/de/9k-for-90k-bali-children-foundation-campaign/",
           "xpath":  "//a[normalize-space()='https://www.balichildrenfoundation.org/support-us']",
           "tabName": "Bali Children Foundation",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 21",
           "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
           "xpath":  "//a[normalize-space()='QualityLearning-Team']",
           "tabName": "QualityMinds | QualityLearning",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 21",
           "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
           "xpath":  "//a[normalize-space()='eXXcellent solutions']",
           "tabName": "Startseite - eXXcellent solutions",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 21",
           "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
           "xpath":  "//strong[normalize-space()='Link zum Beitrag']",
           "tabName": "News - eXXcellent solutions",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 21",
           "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
           "xpath":  "//strong[normalize-space()='hier']",
           "tabName": "News - eXXcellent solutions",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 21",
           "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
           "xpath":  "//*[@id=\"main-content\"]/div/div/div[2]/div[1]/div[1]/div[1]/p[15]/a",
           "tabName": "QualityMinds | Lerncoach Ausbildung bei QualityMinds - Werde agiler Lerncoach!",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 22",
           "pageAddress": "/de/die-lange-des-lernsprints-2/",
           "xpath":  "//a[normalize-space()='vgl. Gehlen-Baum & Illi, 2019']",
           "tabName": "QualityMinds | Lern doch, was Du willst!",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 23",
           "pageAddress": "/de/nextgencollab-update/",
           "xpath":  "//a[normalize-space()='HTC Vive Setting']",
           "tabName": "VIVE Deutschland | Discover Virtual Reality Beyond Imagination",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 23",
           "pageAddress": "/de/nextgencollab-update/",
           "xpath":  "//a[normalize-space()='HTC Vive Setting']",
           "tabName": "VIVE Deutschland | Discover Virtual Reality Beyond Imagination",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 30",
           "pageAddress": "/de/meet-the-devops-jakub/",
           "xpath":  "//a[normalize-space()='AGH Racing']",
           "tabName": "AGH Racing – Zespół wyścigowy Formuły Student",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 30",
           "pageAddress": "/de/meet-the-devops-jakub/",
           "xpath":  "//a[normalize-space()='travel vlog']",
           "tabName": "Zanim przejdziesz do YouTube",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 30",
           "pageAddress": "/de/meet-the-devops-jakub/",
           "xpath":  "//p[contains(text(),'Listen to the QualityHeroes Podcast episode “What ')]//strong[contains(text(),'here')]",
           "tabName": "QualityHeroes Podcast Folge 32: What is DevOps? | QualityMinds",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 30",
           "pageAddress": "/de/meet-the-devops-jakub/",
           "xpath":  "//a[@href='https://qualityminds.com/de/services/softwareentwicklung/devops/']//strong[contains(text(),'here')]",
           "tabName": "QualityMinds | DevOps",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 31",
           "pageAddress": "/de/meet-the-tester-bastian/",
           "xpath":  "//strong[normalize-space()='corner cases']",
           "tabName": "Qualitätssicherung von KI – Die Gefahren lauern vor allem hinter den Ecken | QualityMinds",
-          "PageOpenInNewTab": false,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": false
         },
         {
           "name": "Article 31",
           "pageAddress": "/de/meet-the-tester-bastian/",
           "xpath":  "//strong[normalize-space()='Find the Bug Sessions']",
           "tabName": "QualityHeroes Podcast Folge 21: Wie funktioniert eine Find-The-Bug-Session? | QualityMinds",
-          "PageOpenInNewTab": false,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": false
         },
         {
           "name": "Article 31",
           "pageAddress": "/de/meet-the-tester-bastian/",
           "xpath":  "//strong[normalize-space()='Risk Storming']",
           "tabName": "QualityHeroes Podcast Folge 20: Was ist ein Risk-Storming-Workshop und wie kann er einem Projektteam helfen? | QualityMinds",
-          "PageOpenInNewTab": false,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": false
         },
         {
           "name": "Article 32",
           "pageAddress": "/de/meet-the-dev-namrata/",
           "xpath":  "//a[normalize-space()='Thomson Reuters Labs']",
           "tabName": "Join Thomson Reuters Labs | Thomson Reuters",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 32",
           "pageAddress": "/de/meet-the-dev-namrata/",
           "xpath":  "//a[normalize-space()='inclusive language for job ads']",
           "tabName": "Diversifier-NLP - Automated Text Analysis for more Inclusion in Job Ads",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 32",
           "pageAddress": "/de/meet-the-dev-namrata/",
           "xpath":  "//a[normalize-space()='KI-Absicherung']",
           "tabName": "KI Absicherung: KI Absicherung",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 32",
           "pageAddress": "/de/meet-the-dev-namrata/",
           "xpath":  "//a[normalize-space()='https://www.namratagurung.com/']",
           "tabName": "Home | Namrata Gurung",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 35",
           "pageAddress": "/de/gelebte-nachhaltigkeit-und-csr-bei-qualityminds-erfolgsgeschichten-die-sich-sehen-lassen-koennen/",
           "xpath":  "//a[normalize-space()='unserem erstem Blogbeitrag']",
           "tabName": "Wie haben wir ohne große Schwierigkeiten die Nachhaltigkeit im Unternehmen verankert? | QualityMinds",
-          "PageOpenInNewTab": false,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": false
         },
         {
           "name": "Article 35",
           "pageAddress": "/de/gelebte-nachhaltigkeit-und-csr-bei-qualityminds-erfolgsgeschichten-die-sich-sehen-lassen-koennen/",
           "xpath":  "//a[normalize-space()='Unternehmen Ehrensache IN AKTION']",
           "tabName": "\"Unternehmen Ehrensache IN AKTION\" - Einsatztag mal anders - Wir bleiben engagiert!",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 35",
           "pageAddress": "/de/gelebte-nachhaltigkeit-und-csr-bei-qualityminds-erfolgsgeschichten-die-sich-sehen-lassen-koennen/",
           "xpath":  "//a[normalize-space()='Sonderpädagogischen Förderzentrums Nürnberg']",
           "tabName": "Sonderpädagogisches Förderzentrum Jean-Paul-Platz Nürnberg - Home",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 35",
           "pageAddress": "/de/gelebte-nachhaltigkeit-und-csr-bei-qualityminds-erfolgsgeschichten-die-sich-sehen-lassen-koennen/",
           "xpath":  "//a[normalize-space()='Homepage von SCIARA']",
           "tabName": "Wirksam gegen den Klimawandel - SCIARA",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 35",
           "pageAddress": "/de/gelebte-nachhaltigkeit-und-csr-bei-qualityminds-erfolgsgeschichten-die-sich-sehen-lassen-koennen/",
           "xpath":  "//strong[normalize-space()='nächsten Blogbeitrag']",
           "tabName": "Klimaschutz durch Digitale Technologien – Gelebtes CSR bei QualityMinds | QualityMinds",
-          "PageOpenInNewTab": false,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": false
         },
         {
           "name": "Article 38",
           "pageAddress": "/de/klimaschutz-durch-digitale-technologien-gelebtes-csr-bei-qualityminds/",
           "xpath":  "//a[normalize-space()='SCIARA']",
           "tabName": "Wirksam gegen den Klimawandel - SCIARA",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 38",
           "pageAddress": "/de/klimaschutz-durch-digitale-technologien-gelebtes-csr-bei-qualityminds/",
           "xpath":  "//a[normalize-space()='Potsdamer Instituts für Klimaforschung']",
           "tabName": "Potsdam-Institut für Klimafolgenforschung",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 38",
           "pageAddress": "/de/klimaschutz-durch-digitale-technologien-gelebtes-csr-bei-qualityminds/",
           "xpath":  "//a[normalize-space()='Quyen']",
           "tabName": "Zaloguj się | LinkedIn",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 38",
           "pageAddress": "/de/klimaschutz-durch-digitale-technologien-gelebtes-csr-bei-qualityminds/",
           "xpath":  "//a[normalize-space()='Deutsche Bundesstiftung Umwelt']",
           "tabName": "DBU - Deutsche Bundesstiftung Umwelt",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 39",
           "pageAddress": "/de/meet-the-dev-ralph/",
           "xpath":  "//a[normalize-space()='Software Bauhaus']",
           "tabName": "QualityMinds | Agile Software-Entwicklungsteams",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 40",
           "pageAddress": "/de/wie-innovativ-und-nachhaltig-ist-qualityminds-eigentlich/",
           "xpath":  "//a[normalize-space()='Enterprise Europe Network der Bayern Innovativ']",
           "tabName": "EEN - Enterprise Europe Network",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 40",
           "pageAddress": "/de/wie-innovativ-und-nachhaltig-ist-qualityminds-eigentlich/",
           "xpath":  "//a[normalize-space()='Innovations-Assessment']",
           "tabName": "Assessments der Bayern Innovativ – Ihr Erfolgsplan für die Zukunft",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         },
         {
           "name": "Article 40",
           "pageAddress": "/de/wie-innovativ-und-nachhaltig-ist-qualityminds-eigentlich/",
           "xpath":  "//strong[normalize-space()='Sustainable Development Goals']",
           "tabName": "THE 17 GOALS | Sustainable Development",
-          "PageOpenInNewTab": true,
-          "PageCanHaveEmptyTitle": false
+          "PageOpenInNewTab": true
         }
-
-
       ]
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-p

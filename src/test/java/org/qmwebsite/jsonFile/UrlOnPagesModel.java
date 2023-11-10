@@ -22,7 +22,4 @@ public class UrlOnPagesModel {
     @JsonProperty("PageOpenInNewTab")
     private Boolean PageOpenInNewTab;
 
-    @JsonProperty("PageCanHaveEmptyTitle")
-    private Boolean PageCanHaveEmptyTitle;
-
 }

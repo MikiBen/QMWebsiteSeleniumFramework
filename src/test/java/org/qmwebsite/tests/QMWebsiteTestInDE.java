@@ -1,10 +1,14 @@
 package org.qmwebsite.tests;
 
+import com.beust.ah.A;
 import lombok.extern.java.Log;
 import lombok.extern.slf4j.Slf4j;
 import org.openqa.selenium.By;
+import org.openqa.selenium.InvalidSelectorException;
+import org.openqa.selenium.TimeoutException;
 import org.qmwebsite.pages.de.*;
 import org.qmwebsite.base.BaseTest;
+import org.qmwebsite.utils.ConfigLoader;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
@@ -89,21 +93,26 @@ public class QMWebsiteTestInDE extends BaseTest {
     //This method will provide data to any test method that declares that its Data Provider
 
     @Test(dataProvider="UrlListOnPages")
-    public void checkUrlLinkOnPages(String pageName, String url, String xpath, String tabName, Boolean getPageOpenInNewTab, Boolean getPageCanHaveEmptyTitle)
+    public void checkUrlLinkOnPages(String pageName, String url, String xpath, String tabName, Boolean getPageOpenInNewTab)
     {
         Article article = new Article(getDriver());
-        article.load(url);
 
-        if(!getPageOpenInNewTab) {
-            article.checkLinkOpensOnTheSamePage(By.xpath(xpath), tabName);
+        try {
+            article.load(url);
 
-        } else if (getPageCanHaveEmptyTitle) {
-            article.checkLinkWithEmptyTitle(By.xpath(xpath), tabName);
+            if (!getPageOpenInNewTab) {
+                article.checkLinkOpensOnTheSamePage(By.xpath(xpath), tabName, pageName, url);
+
+            } else {
+                article.checkLink(By.xpath(xpath), tabName, pageName, url);
+            }
+
+        }catch (TimeoutException | InvalidSelectorException e){
+            Assert.fail("Xpath: " + xpath + " is not available on page: " + ConfigLoader.getInstance().getBaseUrl() + url);
+        } catch (Exception e){
+            Assert.fail("An exception occured on page: " + url);
         }
 
-        else {
-            article.checkLink(By.xpath(xpath), tabName);
-        }
 
     }
 
@@ -128,7 +137,7 @@ public class QMWebsiteTestInDE extends BaseTest {
     public Object[] myDataProvider2() throws IOException {
         jsonFile.readFileWithUrlOnPages();
 
-        Object data[][]= new Object[jsonFile.getUrls().getUrlOnPagesModelList().size()][6];
+        Object data[][]= new Object[jsonFile.getUrls().getUrlOnPagesModelList().size()][5];
 
         IntStream.range(0,jsonFile.getUrls().getUrlOnPagesModelList().size()).forEach(i-> {
 
@@ -137,8 +146,6 @@ public class QMWebsiteTestInDE extends BaseTest {
             data[i][2] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getXpath();
             data[i][3] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getTabName();
             data[i][4] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getPageOpenInNewTab();
-            data[i][5] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getPageCanHaveEmptyTitle();
-
         });
         return data;
     }

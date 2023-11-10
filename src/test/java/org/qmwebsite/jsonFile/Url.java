@@ -13,8 +13,6 @@ public class Url {
 
         this.urlOnPagesModelList = urlOnPagesModelList;
     }
-
-
     public Url(){}
 }
 
