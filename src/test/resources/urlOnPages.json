@@ -406,6 +406,153 @@
           "xpath":  "//strong[normalize-space()='Sustainable Development Goals']",
           "tabName": ["THE 17 GOALS | Sustainable Development"],
           "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 41",
+          "pageAddress": "/de/wie-innovativ-und-nachhaltig-ist-qualityminds-eigentlich/",
+          "xpath":  "//a[normalize-space()='Softwareentwicklung']",
+          "tabName": ["QualityMinds | SOFTWAREENTWICKLUNG"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 41",
+          "pageAddress": "/de/wie-innovativ-und-nachhaltig-ist-qualityminds-eigentlich/",
+          "xpath":  "//a[normalize-space()='Software Bauhaus']",
+          "tabName": ["QualityMinds | Agile Software-Entwicklungsteams"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 41",
+          "pageAddress": "/de/wie-innovativ-und-nachhaltig-ist-qualityminds-eigentlich/",
+          "xpath":  "//a[normalize-space()='Requirements Engineering']",
+          "tabName": ["QualityMinds | Requirements Engineering Für Agile Teams"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 42",
+          "pageAddress": "/de/qualityminds-gmbh-unterstuetzt-das-attention-projekt/",
+          "xpath":  "//a[normalize-space()='CARLA']",
+          "tabName": ["\n    \n      \n        CARLA Simulator\n      \n    \n  "],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 42",
+          "pageAddress": "/de/qualityminds-gmbh-unterstuetzt-das-attention-projekt/",
+          "xpath":  "//a[normalize-space()='Bundesministerium für Wirtschaft und Klimaschutz']",
+          "tabName": ["BMWK  -        Bundesministerium für Wirtschaft und Klimaschutz "],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 42",
+          "pageAddress": "/de/qualityminds-gmbh-unterstuetzt-das-attention-projekt/",
+          "xpath":  "//a[contains(text(),'DYNAmore (Gesellschaft für FEM Ingenieurdienstleis')]",
+          "tabName": ["LS-DYNA - FEM Software und Dienstleistungen von DYNAmore"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 42",
+          "pageAddress": "/de/qualityminds-gmbh-unterstuetzt-das-attention-projekt/",
+          "xpath":  "//a[contains(text(),'Fraunhofer Gesellschaft – Ernst Mach Institut (EMI')]",
+          "tabName": ["Deutsch -  Fraunhofer EMI"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 42",
+          "pageAddress": "/de/qualityminds-gmbh-unterstuetzt-das-attention-projekt/",
+          "xpath":  "//a[normalize-space()='QualityMinds GmbH']",
+          "tabName": ["QualityMinds | Startseite"],
+          "PageOpenInNewTab": false
+        },
+        {
+          "name": "Article 42",
+          "pageAddress": "/de/qualityminds-gmbh-unterstuetzt-das-attention-projekt/",
+          "xpath":  "//a[normalize-space()='Robert Bosch GmbH']",
+          "tabName": ["Home | Bosch in Deutschland"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 42",
+          "pageAddress": "/de/qualityminds-gmbh-unterstuetzt-das-attention-projekt/",
+          "xpath":  "//a[contains(text(),'Institut für Modellierung und Simulation biomechan')]",
+          "tabName": ["Institute for Modelling and Simulation of Biomechanical Systems | Universität Stuttgart"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 42",
+          "pageAddress": "/de/qualityminds-gmbh-unterstuetzt-das-attention-projekt/",
+          "xpath":  "//a[normalize-space()='Mercedes Benz AG']",
+          "tabName": ["\u2063Mercedes-Benz Personenwagen"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 43",
+          "pageAddress": "/de/innovation-management-ohne-overhead-schnelle-lieferung-dank-eingespielter-teams/",
+          "xpath":  "//a[normalize-space()='Software Bauhaus']",
+          "tabName": ["QualityMinds | Agile Software-Entwicklungsteams"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 43",
+          "pageAddress": "/de/innovation-management-ohne-overhead-schnelle-lieferung-dank-eingespielter-teams/",
+          "xpath":  "//a[normalize-space()='Requirements Engineering']",
+          "tabName": ["QualityMinds | Requirements Engineering Für Agile Teams"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 43",
+          "pageAddress": "/de/innovation-management-ohne-overhead-schnelle-lieferung-dank-eingespielter-teams/",
+          "xpath":  "//a[normalize-space()='Testing']",
+          "tabName": ["QualityMinds | Test und Qualitätssicherung"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 44",
+          "pageAddress": "/de/meet-the-dev-martin/",
+          "xpath":  "//a[normalize-space()='SoftwareBauhaus']",
+          "tabName": ["QualityMinds | Agile Software-Entwicklungsteams"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 45",
+          "pageAddress": "/de/qualityminds-als-hauptsponsor-des-nuernberg-digital-festivals-2022/",
+          "xpath":  "//a[normalize-space()='Nürnberg Digital Festival']",
+          "tabName": ["Home"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 45",
+          "pageAddress": "/de/qualityminds-als-hauptsponsor-des-nuernberg-digital-festivals-2022/",
+          "xpath":  "//a[contains(text(),'Risk Storming in Softwareentwicklung & Software-Te')]",
+          "tabName": ["Risk Storming in der Softwareentwicklung / Test, 06.07.2022, Nürnberg Digital Festival"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 45",
+          "pageAddress": "/de/qualityminds-als-hauptsponsor-des-nuernberg-digital-festivals-2022/",
+          "xpath":  "//a[normalize-space()='Challenging DevOps in a real life environment']",
+          "tabName": ["Challenging DevOps in a real life environment, 07.07.2022, Nürnberg Digital Festival"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 45",
+          "pageAddress": "/de/qualityminds-als-hauptsponsor-des-nuernberg-digital-festivals-2022/",
+          "xpath":  "//a[normalize-space()='Diversity Day']",
+          "tabName": ["Diversity-Day, 09.07.2022, Nürnberg Digital Festival"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 45",
+          "pageAddress": "/de/qualityminds-als-hauptsponsor-des-nuernberg-digital-festivals-2022/",
+          "xpath":  "//a[normalize-space()='QualityLearning Learnathon']",
+          "tabName": ["QualityLearning Learnathon, 11.07.2022, Nürnberg Digital Festival"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 45",
+          "pageAddress": "/de/qualityminds-als-hauptsponsor-des-nuernberg-digital-festivals-2022/",
+          "xpath":  "//a[normalize-space()='Crowd Investing in Kunst']",
+          "tabName": ["Crowd Investing in Kunst, 12.07.2022, Nürnberg Digital Festival"],
+          "PageOpenInNewTab": true
         }
       ]
 }
