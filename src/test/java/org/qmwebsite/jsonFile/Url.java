@@ -7,7 +7,7 @@ import java.util.List;
 
 @Getter
 public class Url {
-    private @JsonProperty("pages") List<UrlOnPagesModel> urlOnPagesModelList;
+    private @JsonProperty("urls") List<UrlOnPagesModel> urlOnPagesModelList;
 
     public Url (List<UrlOnPagesModel> urlOnPagesModelList){
 

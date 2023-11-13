@@ -4,6 +4,8 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;
 import lombok.Setter;
 
+import java.util.List;
+
 @Getter
 @Setter
 public class UrlOnPagesModel {
@@ -17,7 +19,7 @@ public class UrlOnPagesModel {
     private String xpath;
 
     @JsonProperty("tabName")
-    private String tabName;
+    private List<String> tabName;
 
     @JsonProperty("PageOpenInNewTab")
     private Boolean PageOpenInNewTab;
