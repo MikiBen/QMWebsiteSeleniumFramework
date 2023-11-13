@@ -963,7 +963,7 @@
         {
           "name": "Article 68",
           "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
-          "xpath":  "///a[normalize-space()='https://www.unrealengine.com/en-US/metahuman']",
+          "xpath":  "//a[normalize-space()='https://www.unrealengine.com/en-US/metahuman']",
           "tabName": ["MetaHuman | Realistic Person Creator - Unreal Engine"],
           "PageOpenInNewTab": true
         },
@@ -1027,7 +1027,7 @@
           "name": "Article 70",
           "pageAddress": "/de/qualityminds-at-the-republica-2023/",
           "xpath":  "//a[normalize-space()='AI Act']",
-          "tabName": ["AI Act: a step closer to the first rules on Artificial Intelligence  | News | European Parliament"],
+          "tabName": ["AI Act: a step closer to the first rules on Artificial Intelligence | News | European Parliament"],
           "PageOpenInNewTab": true
         },
         {
@@ -1042,6 +1042,76 @@
           "pageAddress": "/de/qualityminds-at-the-republica-2023/",
           "xpath":  "//a[normalize-space()='Arena Berlin']",
           "tabName": ["Arena Berlin – multifunktionales Eventareal in Berlin an der Spree"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 71",
+          "pageAddress": "/de/ich-habe-waehrend-meiner-arbeitszeit-keine-zeit-um-etwas-zu-lernen-warum-eigentlich-nicht/",
+          "xpath":  "//a[contains(@href,'https://qualityminds.com/de/quality-learning/agiles-lernen/')][normalize-space()='Agiles Lernen']",
+          "tabName": ["QualityMinds | Agiles Lernen"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 71",
+          "pageAddress": "/de/ich-habe-waehrend-meiner-arbeitszeit-keine-zeit-um-etwas-zu-lernen-warum-eigentlich-nicht/",
+          "xpath":  "//a[@href='https://qualityminds.com/de/quality-learning/agile-lehre/']",
+          "tabName": ["QualityMinds | Agile Lehre"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 71",
+          "pageAddress": "/de/ich-habe-waehrend-meiner-arbeitszeit-keine-zeit-um-etwas-zu-lernen-warum-eigentlich-nicht/",
+          "xpath":  "//a[normalize-space()='agile Lerncoaches']",
+          "tabName": ["QualityMinds | Coaching für alle"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 72",
+          "pageAddress": "/de/thoughts-on-using-chatgpt-as-a-software-developer/",
+          "xpath":  "//a[normalize-space()='develop tailored software']",
+          "tabName": ["QualityMinds | SOFTWARE DEVELOPMENT"],
+          "PageOpenInNewTab": false
+        },
+        {
+          "name": "Article 73",
+          "pageAddress": "/de/lets-test-vending-machine/",
+          "xpath":  "//a[contains(text(),'https://www.testingchat.com/fundamentals/test-proc')]",
+          "tabName": ["How to write Test Cases for a Vending Machine in 2023 - FREE Test Cases"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 73",
+          "pageAddress": "/de/lets-test-vending-machine/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/lets-test-risk-stormin')]",
+          "tabName": ["Let's Test: Risk Storming | QualityMinds"],
+          "PageOpenInNewTab": false
+        },
+        {
+        "name": "Article 73",
+        "pageAddress": "/de/lets-test-vending-machine/",
+        "xpath":  "//a[contains(text(),'https://qualityminds.com/de/lets-test-testing-tour')]",
+        "tabName": ["Let's Test: Testing Touren | QualityMinds"],
+        "PageOpenInNewTab": false
+        },
+        {
+          "name": "Article 73",
+          "pageAddress": "/de/lets-test-vending-machine/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/portfolio/qa-kernkompe')]",
+          "tabName": ["QualityMinds | Funktionales Testen"],
+          "PageOpenInNewTab": false
+        },
+        {
+          "name": "Article 74",
+          "pageAddress": "/de/michael-mlynarski-zu-gast-im-behind-the-c-podcast/",
+          "xpath":  "//a[contains(text(),'https://open.spotify.com/episode/5EkYHGOormUgAa1xg')]",
+          "tabName": ["Episode 103 - „Kontakte schaden nur dem, der keine hat“ - mit Dr. Michael Mlynarski - Behind the C | Podcast on Spotify"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 74",
+          "pageAddress": "/de/michael-mlynarski-zu-gast-im-behind-the-c-podcast/",
+          "xpath":  "//a[contains(text(),'https://podcasts.apple.com/us/podcast/episode-103-')]",
+          "tabName": ["Behind the C: Episode 103 - „Kontakte schaden nur dem, der keine hat“ - mit Dr. Michael Mlynarski on Apple Podcasts"],
           "PageOpenInNewTab": true
         }
       ]
