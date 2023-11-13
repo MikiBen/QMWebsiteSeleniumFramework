@@ -439,7 +439,7 @@
           "name": "Article 42",
           "pageAddress": "/de/qualityminds-gmbh-unterstuetzt-das-attention-projekt/",
           "xpath":  "//a[normalize-space()='Bundesministerium für Wirtschaft und Klimaschutz']",
-          "tabName": ["BMWK  -        Bundesministerium für Wirtschaft und Klimaschutz ","www.bmwk.de"],
+          "tabName": ["BMWK  -        Bundesministerium für Wirtschaft und Klimaschutz ","www.bmwk.de","BMWK - Bundesministerium für Wirtschaft und Klimaschutz"],
           "PageOpenInNewTab": true
         },
         {
@@ -740,7 +740,7 @@
           "name": "Article 63",
           "pageAddress": "/de/lets-test-testing-touren/",
           "xpath":  "//a[normalize-space()='Testing Touren']",
-          "tabName": ["How to Use Tours to Ensure Complete and Thorough Exploratory Testing", "Just a moment..."],
+          "tabName": ["How to Use Tours to Ensure Complete and Thorough Exploratory Testing", "Just a moment...", "Cierpliwości..."],
           "PageOpenInNewTab": true
         },
         {
@@ -762,13 +762,6 @@
           "pageAddress": "/de/our-devops-team-at-the-kubecon-2023/",
           "xpath":  "//a[normalize-space()='Kubecon']",
           "tabName": ["KubeCon + CloudNativeCon | Cloud Native Computing Foundation"],
-          "PageOpenInNewTab": true
-        },
-        {
-          "name": "Article 65",
-          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-definition-of-ready/",
-          "xpath":  "//strong[normalize-space()='Andreas']",
-          "tabName": ["(24) Andreas (Harlacher) Krause | LinkedIn", "Profile Not Found | LinkedIn"],
           "PageOpenInNewTab": true
         },
         {
@@ -838,14 +831,14 @@
           "name": "Article 68",
           "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//strong[normalize-space()='Michael Mlynarski']",
-          "tabName": ["(24) Michael Mlynarski | LinkedIn", "Sign In | LinkedIn"],
+          "tabName": ["(24) Michael Mlynarski | LinkedIn", "Sign In | LinkedIn", "Zaloguj się | LinkedIn"],
           "PageOpenInNewTab": true
         },
         {
           "name": "Article 68",
           "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//strong[normalize-space()='Onlinekurs']",
-          "tabName": ["Stimmen klonen mit Deep Learning in Python | Udemy", "Just a moment..."],
+          "tabName": ["Stimmen klonen mit Deep Learning in Python | Udemy", "Just a moment...", "Cierpliwości..."],
           "PageOpenInNewTab": true
         },
         {
@@ -873,7 +866,7 @@
           "name": "Article 68",
           "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//a[normalize-space()='https://www.udemy.com/course/voice-cloning/']",
-          "tabName": ["Stimmen klonen mit Deep Learning in Python | Udemy","Just a moment..."],
+          "tabName": ["Stimmen klonen mit Deep Learning in Python | Udemy","Just a moment...", "Cierpliwości..."],
           "PageOpenInNewTab": true
         },
         {
