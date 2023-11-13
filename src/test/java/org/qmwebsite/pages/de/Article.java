@@ -63,5 +63,6 @@ public class Article extends BasePage {
                     " the opened page have wrong Tab Name. \nCurrent tabName: " + getTabName() +
                     "\nExpected Tab name is one of this: " + title);
         }
+        //TEST
     }
 }
