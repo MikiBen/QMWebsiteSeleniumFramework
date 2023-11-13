@@ -705,7 +705,7 @@
           "name": "Article 61",
           "pageAddress": "/de/herausforderungen-im-public-sector/",
           "xpath":  "//a[normalize-space()='Online Zugangsgesetz']",
-          "tabName": ["Digitale Verwaltung  -  Bundesministerium des Innern - Digitale Verwaltung"],
+          "tabName": ["Digitale Verwaltung  -  Bundesministerium des Innern - Digitale Verwaltung", "Digitale Verwaltung - Bundesministerium des Innern - Digitale Verwaltung"],
           "PageOpenInNewTab": true
         },
         {
@@ -719,7 +719,7 @@
           "name": "Article 62",
           "pageAddress": "/de/future-skills-fuer-mitarbeiter-mit-spielelementen-das-bewusstsein-fuer-nachhaltigkeit-staerken/",
           "xpath":  "//a[normalize-space()='ABB Deutschland']",
-          "tabName": ["ABB Deutschland"],
+          "tabName": ["ABB Deutschland","new.abb.com"],
           "PageOpenInNewTab": true
         },
         {
@@ -740,20 +740,20 @@
           "name": "Article 63",
           "pageAddress": "/de/lets-test-testing-touren/",
           "xpath":  "//a[normalize-space()='James A. Whittaker']",
-          "tabName": ["James Whittaker (@docjamesw) / X"],
+          "tabName": ["James Whittaker (@docjamesw) / X", "Profile / X"],
           "PageOpenInNewTab": true
         },
         {
           "name": "Article 63",
           "pageAddress": "/de/lets-test-testing-touren/",
           "xpath":  "//a[normalize-space()='Testing Touren']",
-          "tabName": ["How to Use Tours to Ensure Complete and Thorough Exploratory Testing"],
+          "tabName": ["How to Use Tours to Ensure Complete and Thorough Exploratory Testing", "Just a moment..."],
           "PageOpenInNewTab": true
         },
         {
           "name": "Article 63",
           "pageAddress": "/de/lets-test-testing-touren/",
-          "xpath":  "//a[normalize-space()='Testing Touren']",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/lets-test-risk-stormin')]",
           "tabName": ["Let's Test: Risk Storming | QualityMinds"],
           "PageOpenInNewTab": true
         },
@@ -769,6 +769,62 @@
           "pageAddress": "/de/our-devops-team-at-the-kubecon-2023/",
           "xpath":  "//a[normalize-space()='Kubecon']",
           "tabName": ["KubeCon + CloudNativeCon | Cloud Native Computing Foundation"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 65",
+          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-definition-of-ready/",
+          "xpath":  "//strong[normalize-space()='Andreas']",
+          "tabName": ["(24) Andreas (Harlacher) Krause | LinkedIn"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 65",
+          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-definition-of-ready/",
+          "xpath":  "//strong[normalize-space()='Scrum.org-Prüfung']",
+          "tabName": ["Home | Scrum.org"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 65",
+          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-definition-of-ready/",
+          "xpath":  "//a[normalize-space()='scrum.org']",
+          "tabName": ["Home | Scrum.org"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 66",
+          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-definition-of-ready/",
+          "xpath":  "//strong[normalize-space()='Michael Mlynarski']",
+          "tabName": ["(24) Michael Mlynarski | LinkedIn"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 66",
+          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-definition-of-ready/",
+          "xpath":  "//strong[normalize-space()='Onlinekurs']",
+          "tabName": ["Stimmen klonen mit Deep Learning in Python | Udemy"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 66",
+          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-definition-of-ready/",
+          "xpath":  "//strong[normalize-space()='resemble.ai']",
+          "tabName": ["AI Voice Generator with Text to Speech and Speech to Speech"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 66",
+          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-definition-of-ready/",
+          "xpath":  "//strong[normalize-space()='play.ht']",
+          "tabName": ["AI Voice Generator &amp; Realistic Text to Speech Online | PlayHT"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 66",
+          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-definition-of-ready/",
+          "xpath":  "//strong[normalize-space()='coqui.ai']",
+          "tabName": [">Coqui"],
           "PageOpenInNewTab": true
         }
       ]

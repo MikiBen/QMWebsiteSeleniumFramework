@@ -592,9 +592,17 @@
           "name": "Article 64",
           "url":  "/de/our-devops-team-at-the-kubecon-2023/",
           "tabName": "Our Devops team at the Kubecon 2023 | QualityMinds"
+        },
+        {
+          "name": "Article 65",
+          "url":  "/de/our-devops-team-at-the-kubecon-2023/",
+          "tabName": "Wovon der Scrum Guide NICHTS sagt: Definition of Ready | QualityMinds"
+        },
+        {
+          "name": "Article 66",
+          "url":  "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "tabName": "Ich habe meinen Chef mit freier KI geklont. | QualityMinds"
         }
-
-
 
 
       ]
