@@ -572,6 +572,26 @@
           "name": "Article 60",
           "url":  "/de/lets-test-risk-storming/",
           "tabName": "Let's Test: Risk Storming | QualityMinds"
+        },
+        {
+          "name": "Article 61",
+          "url":  "/de/herausforderungen-im-public-sector/",
+          "tabName": "Herausforderungen im Public Sector | QualityMinds"
+        },
+        {
+          "name": "Article 62",
+          "url":  "/de/future-skills-fuer-mitarbeiter-mit-spielelementen-das-bewusstsein-fuer-nachhaltigkeit-staerken/",
+          "tabName": "Future Skills für Mitarbeiter: Mit Spielelementen das Bewusstsein für Nachhaltigkeit stärken | QualityMinds"
+        },
+        {
+          "name": "Article 63",
+          "url":  "/de/lets-test-testing-touren/",
+          "tabName": "Let's Test: Testing Touren | QualityMinds"
+        },
+        {
+          "name": "Article 64",
+          "url":  "/de/our-devops-team-at-the-kubecon-2023/",
+          "tabName": "Our Devops team at the Kubecon 2023 | QualityMinds"
         }
 
 

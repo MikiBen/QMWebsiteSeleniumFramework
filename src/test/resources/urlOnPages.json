@@ -208,7 +208,7 @@
           "name": "Article 21",
           "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
           "xpath":  "//strong[normalize-space()='hier']",
-          "tabName": ["News - eXXcellent solutions","exxcellent.de"],
+          "tabName": ["News - eXXcellent solutions","exxcellent.de", "www.exxcellent.de"],
           "PageOpenInNewTab": true
         },
         {
@@ -692,6 +692,83 @@
           "pageAddress": "/de/lets-test-risk-storming/",
           "xpath":  "//a[contains(text(),'https://qualityminds.com/de/portfolio/qa-kernkompe')]",
           "tabName": ["QualityMinds | Funktionales Testen"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 61",
+          "pageAddress": "/de/herausforderungen-im-public-sector/",
+          "xpath":  "//a[normalize-space()='9. Zukunftskongress Bayern']",
+          "tabName": ["Home - Zukunftskongress “Bayern”"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 61",
+          "pageAddress": "/de/herausforderungen-im-public-sector/",
+          "xpath":  "//a[normalize-space()='Online Zugangsgesetz']",
+          "tabName": ["Digitale Verwaltung  -  Bundesministerium des Innern - Digitale Verwaltung"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 61",
+          "pageAddress": "/de/herausforderungen-im-public-sector/",
+          "xpath":  "//a[normalize-space()='https://qualityminds.com/de/branchen/e-government']",
+          "tabName": ["QualityMinds | E-Government"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 62",
+          "pageAddress": "/de/future-skills-fuer-mitarbeiter-mit-spielelementen-das-bewusstsein-fuer-nachhaltigkeit-staerken/",
+          "xpath":  "//a[normalize-space()='ABB Deutschland']",
+          "tabName": ["ABB Deutschland"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 62",
+          "pageAddress": "/de/future-skills-fuer-mitarbeiter-mit-spielelementen-das-bewusstsein-fuer-nachhaltigkeit-staerken/",
+          "xpath":  "//a[normalize-space()='https://qualityminds.com/de/quality-learning/']",
+          "tabName": ["QualityMinds | QUALITYLEARNING"],
+          "PageOpenInNewTab": false
+        },
+        {
+          "name": "Article 63",
+          "pageAddress": "/de/lets-test-testing-touren/",
+          "xpath":  "//a[normalize-space()='Let´s Test Session']",
+          "tabName": ["QualityHeroes Podcast Folge 31: Wie kann ein Testteam neue Testmethoden effektiv zusammen lernen? | QualityMinds"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 63",
+          "pageAddress": "/de/lets-test-testing-touren/",
+          "xpath":  "//a[normalize-space()='James A. Whittaker']",
+          "tabName": ["James Whittaker (@docjamesw) / X"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 63",
+          "pageAddress": "/de/lets-test-testing-touren/",
+          "xpath":  "//a[normalize-space()='Testing Touren']",
+          "tabName": ["How to Use Tours to Ensure Complete and Thorough Exploratory Testing"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 63",
+          "pageAddress": "/de/lets-test-testing-touren/",
+          "xpath":  "//a[normalize-space()='Testing Touren']",
+          "tabName": ["Let's Test: Risk Storming | QualityMinds"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 63",
+          "pageAddress": "/de/lets-test-testing-touren/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/portfolio/qa-kernkompe')]",
+          "tabName": ["QualityMinds | Funktionales Testen"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 64",
+          "pageAddress": "/de/our-devops-team-at-the-kubecon-2023/",
+          "xpath":  "//a[normalize-space()='Kubecon']",
+          "tabName": ["KubeCon + CloudNativeCon | Cloud Native Computing Foundation"],
           "PageOpenInNewTab": true
         }
       ]
