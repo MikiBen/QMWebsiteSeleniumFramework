@@ -201,14 +201,14 @@
           "name": "Article 21",
           "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
           "xpath":  "//strong[normalize-space()='Link zum Beitrag']",
-          "tabName": ["News - eXXcellent solutions"],
+          "tabName": ["News - eXXcellent solutions","exxcellent.de"],
           "PageOpenInNewTab": true
         },
         {
           "name": "Article 21",
           "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
           "xpath":  "//strong[normalize-space()='hier']",
-          "tabName": ["News - eXXcellent solutions"],
+          "tabName": ["News - eXXcellent solutions","exxcellent.de"],
           "PageOpenInNewTab": true
         },
         {
@@ -369,7 +369,7 @@
           "name": "Article 38",
           "pageAddress": "/de/klimaschutz-durch-digitale-technologien-gelebtes-csr-bei-qualityminds/",
           "xpath":  "//a[normalize-space()='Quyen']",
-          "tabName": ["Zaloguj się | LinkedIn","Quyen P. – Quality Assurance Engineer – zolar | LinkedIn"," Sign In | LinkedIn"],
+          "tabName": ["Zaloguj się | LinkedIn","Quyen P. – Quality Assurance Engineer – zolar | LinkedIn","Sign In | LinkedIn"],
           "PageOpenInNewTab": true
         },
         {
