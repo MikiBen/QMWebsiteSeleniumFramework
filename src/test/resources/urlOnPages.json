@@ -978,7 +978,70 @@
           "name": "Article 68",
           "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//a[normalize-space()='https://github.com/harlanhong/CVPR2022-DaGAN']",
-          "tabName": ["harlanhong/CVPR2022-DaGAN: Official code for CVPR2022 paper: Depth-Aware Generative Adversarial Network for Talking Head Video Generation"],
+          "tabName": ["GitHub - harlanhong/CVPR2022-DaGAN: Official code for CVPR2022 paper: Depth-Aware Generative Adversarial Network for Talking Head Video Generation"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 69",
+          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-estimations-und-story-points/",
+          "xpath":  "//strong[contains(text(),'warum die „Definition of Ready” in der aktuellsten')]",
+          "tabName": ["Wovon der Scrum Guide NICHTS sagt: Definition of Ready | QualityMinds"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 69",
+          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-estimations-und-story-points/",
+          "xpath":  "//a[normalize-space()='Scrum.org']",
+          "tabName": ["Home | Scrum.org"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 69",
+          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-estimations-und-story-points/",
+          "xpath":  "//a[normalize-space()='Function points']",
+          "tabName": ["SNAP! Die Function-Point-Analyse wird vervollständigt | Informatik Aktuell"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 70",
+          "pageAddress": "/de/qualityminds-at-the-republica-2023/",
+          "xpath":  "//strong[normalize-space()='re:publica']",
+          "tabName": ["Startseite - re:publica | republica"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 70",
+          "pageAddress": "/de/qualityminds-at-the-republica-2023/",
+          "xpath":  "//a[normalize-space()='Prof. Dr. Dirk Messner']",
+          "tabName": ["Präsident | Umweltbundesamt"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 70",
+          "pageAddress": "/de/qualityminds-at-the-republica-2023/",
+          "xpath":  "//a[normalize-space()='Barbara Wimmer']",
+          "tabName": ["9,99 Euro für magische Wichs-Avatare | republica"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 70",
+          "pageAddress": "/de/qualityminds-at-the-republica-2023/",
+          "xpath":  "//a[normalize-space()='AI Act']",
+          "tabName": ["AI Act: a step closer to the first rules on Artificial Intelligence  | News | European Parliament"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 70",
+          "pageAddress": "/de/qualityminds-at-the-republica-2023/",
+          "xpath":  "//a[normalize-space()='Human in the loop']",
+          "tabName": ["Human in the Loop: Wie können wir zukünftig mit KI unsere Arbeit erleichtern? | republica"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 70",
+          "pageAddress": "/de/qualityminds-at-the-republica-2023/",
+          "xpath":  "//a[normalize-space()='Arena Berlin']",
+          "tabName": ["Arena Berlin – multifunktionales Eventareal in Berlin an der Spree"],
           "PageOpenInNewTab": true
         }
       ]
