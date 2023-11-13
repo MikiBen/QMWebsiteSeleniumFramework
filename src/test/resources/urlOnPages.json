@@ -1113,6 +1113,48 @@
           "xpath":  "//a[contains(text(),'https://podcasts.apple.com/us/podcast/episode-103-')]",
           "tabName": ["Behind the C: Episode 103 - „Kontakte schaden nur dem, der keine hat“ - mit Dr. Michael Mlynarski on Apple Podcasts"],
           "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 75",
+          "pageAddress": "/de/lets-test-session-based-testing/",
+          "xpath":  "//a[normalize-space()='Let´s Test Session']",
+          "tabName": ["QualityHeroes Podcast Folge 31: Wie kann ein Testteam neue Testmethoden effektiv zusammen lernen? | QualityMinds"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 75",
+          "pageAddress": "/de/lets-test-session-based-testing/",
+          "xpath":  "//a[contains(text(),'Let’s Test: Risk Storming | QualityMinds')]",
+          "tabName": ["Let's Test: Risk Storming | QualityMinds"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 75",
+          "pageAddress": "/de/lets-test-session-based-testing/",
+          "xpath":  "//a[contains(text(),'Let’s Test: Testing Touren | QualityMinds')]",
+          "tabName": ["Let's Test: Testing Touren | QualityMinds"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 75",
+          "pageAddress": "/de/lets-test-session-based-testing/",
+          "xpath":  "//a[contains(text(),'Let’s Test: Vending Machine | QualityMinds')]",
+          "tabName": ["Let's Test: Vending Machine | QualityMinds"],
+          "PageOpenInNewTab": false
+        },
+        {
+          "name": "Article 75",
+          "pageAddress": "/de/lets-test-session-based-testing/",
+          "xpath":  "//a[normalize-space()='QualityMinds | Funktionales Testen']",
+          "tabName": ["QualityMinds | Funktionales Testen"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 76",
+          "pageAddress": "/de/eine-dosis-ux-fuer-den-produkterfolg-highlights-aus-unserer-anwendungspraxis/",
+          "xpath":  "//a[normalize-space()='Software Bauhaus']",
+          "tabName": ["QualityMinds | Agile Software-Entwicklungsteams"],
+          "PageOpenInNewTab": true
         }
       ]
 }
