@@ -793,6 +793,55 @@
           "PageOpenInNewTab": true
         },
         {
+          "name": "Article 66",
+          "pageAddress": "/de/qualityminds-wurde-mit-dem-siemens-digital-industries-factory-automation-supplier-award-2023-ausgezeichnet/",
+          "xpath":  "//a[normalize-space()='Siemens Digital Industries']",
+          "tabName": ["Digital Industries - Businesses - Siemens Global Website"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 66",
+          "pageAddress": "/de/qualityminds-wurde-mit-dem-siemens-digital-industries-factory-automation-supplier-award-2023-ausgezeichnet/",
+          "xpath":  "//a[contains(@href,'https://qualityminds.com/de/quality-learning/weiterbildung/ausbildung-zum-agilen-lerncoach/')][normalize-space()='Ausbildung zum agilen Lerncoach']",
+          "tabName": ["QualityMinds | Ausbildung zum agilen Lerncoach"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 66",
+          "pageAddress": "/de/qualityminds-wurde-mit-dem-siemens-digital-industries-factory-automation-supplier-award-2023-ausgezeichnet/",
+          "xpath":  "//a[normalize-space()='Impulse Siemens Visitor Center in Amberg']",
+          "tabName": ["The Impulse Visitor Center Amberg - Themenfelder - Siemens Deutschland"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 66",
+          "pageAddress": "/de/qualityminds-wurde-mit-dem-siemens-digital-industries-factory-automation-supplier-award-2023-ausgezeichnet/",
+          "xpath":  "//a[normalize-space()='Digitaler Zwilling/Digital Twin']",
+          "tabName": ["Digital Twin - Siemens Deutschland"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 66",
+          "pageAddress": "/de/qualityminds-wurde-mit-dem-siemens-digital-industries-factory-automation-supplier-award-2023-ausgezeichnet/",
+          "xpath":  "//a[normalize-space()='QualityLearning']",
+          "tabName": ["QualityMinds | Ausbildung zum agilen Lerncoach"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 67",
+          "pageAddress": "/de/morals-machines-2023-gemeinsam-fuer-eine-verantwortungsvolle-ki-zukunft/",
+          "xpath":  "//strong[normalize-space()='Morals & Machines Konferenz 2023']",
+          "tabName": ["Program – Morals &amp; Machines"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 67",
+          "pageAddress": "/de/morals-machines-2023-gemeinsam-fuer-eine-verantwortungsvolle-ki-zukunft/",
+          "xpath":  "//strong[normalize-space()='Hightech-Agenda des Freistaats Bayern']",
+          "tabName": ["Hightech Agenda Bayern - Hightech-Agenda Bayern"],
+          "PageOpenInNewTab": true
+        },
+        {
           "name": "Article 68",
           "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//strong[normalize-space()='Michael Mlynarski']",
@@ -916,6 +965,34 @@
           "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//a[normalize-space()='https://www.youtube.com/watch?v=x9POZqGO5B0']",
           "tabName": ["Omniverse Audio2face Metahuman Tutorial - YouTube"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "//a[normalize-space()='https://www.unrealengine.com/en-US/unreal-engine-5']",
+          "tabName": ["Unreal Engine 5"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "///a[normalize-space()='https://www.unrealengine.com/en-US/metahuman']",
+          "tabName": ["MetaHuman | Realistic Person Creator - Unreal Engine"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "//a[contains(text(),'https://docs.unrealengine.com/5.1/en-US/render-cin')]",
+          "tabName": ["Render Cinematics in Unreal Engine | Unreal Engine 5.1 Documentation"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "//a[normalize-space()='https://github.com/harlanhong/CVPR2022-DaGAN']",
+          "tabName": ["harlanhong/CVPR2022-DaGAN: Official code for CVPR2022 paper: Depth-Aware Generative Adversarial Network for Talking Head Video Generation"],
           "PageOpenInNewTab": true
         }
       ]
