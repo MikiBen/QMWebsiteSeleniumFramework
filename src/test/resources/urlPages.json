@@ -501,7 +501,7 @@
         {
           "name": "Article 45",
           "url":  "/de/qualityminds-als-hauptsponsor-des-nuernberg-digital-festivals-2022/",
-          "tabName": "Meet the Dev: Martin | QualityMinds"
+          "tabName": "QualityMinds als Hauptsponsor des Nürnberg Digital Festivals 2022 | QualityMinds"
         },
         {
           "name": "Article 46",
@@ -527,7 +527,38 @@
           "name": "Article 50",
           "url":  "/de/zwei-tage-testen-im-agilen-umfeld-mit-redi-school-und-qualityminds/",
           "tabName": "Zwei Tage „Testen im Agilen Umfeld“ mit ReDI School und QualityMinds | QualityMinds"
+        },
+        {
+          "name": "Article 51",
+          "url":  "/de/welches-technische-wissen-braucht-ein-scrum-master/",
+          "tabName": "Welches technische Wissen braucht ein Scrum Master? | QualityMinds"
+        },
+        {
+          "name": "Article 52",
+          "url":  "/de/lernen-am-bedarf-und-in-der-praxis/",
+          "tabName": "Lernen am Bedarf und in der Praxis | QualityMinds"
+        },
+        {
+          "name": "Article 53",
+          "url":  "/de/10-years-of-qualityminds/",
+          "tabName": "10 Jahre QualityMinds | QualityMinds"
+        },
+        {
+          "name": "Article 54",
+          "url":  "/de/charta-der-vielfalt/",
+          "tabName": "Charta der Vielfalt | QualityMinds"
+        },
+        {
+          "name": "Article 55",
+          "url":  "/de/10-gute-gruende-externe-scrum-masterinnen-zu-beauftragen/",
+          "tabName": "10 gute Gründe, externe Scrum Master:innen zu beauftragen | QualityMinds"
+        },
+        {
+          "name": "Article 56",
+          "url":  "/de/meet-the-minds-day/",
+          "tabName": "Meet the Minds Day | QualityMinds"
         }
+
 
 
       ]

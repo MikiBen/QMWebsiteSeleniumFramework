@@ -173,7 +173,7 @@
           "name": "Article 19",
           "pageAddress": "/de/9k-for-90k-bali-children-foundation-campaign/",
           "xpath":  "//a[contains(text(),'https://www.facebook.com/jamin.heppell/posts/10223')]",
-          "tabName": ["Jamin Heppell - I RAN FOR ME and then it became WE. I did... | Facebook"],
+          "tabName": ["Jamin Heppell - I RAN FOR ME and then it became WE. I did... | Facebook", "Jamin Heppell - I RAN FOR ME and then it became WE. I did..."],
           "PageOpenInNewTab": true
         },
         {
@@ -409,21 +409,21 @@
         },
         {
           "name": "Article 41",
-          "pageAddress": "/de/wie-innovativ-und-nachhaltig-ist-qualityminds-eigentlich/",
+          "pageAddress": "/de/minimales-investment-hoher-mehrwert-discovery-phase-im-software-bauhaus-schafft-vertrauen/",
           "xpath":  "//a[normalize-space()='Softwareentwicklung']",
           "tabName": ["QualityMinds | SOFTWAREENTWICKLUNG"],
           "PageOpenInNewTab": true
         },
         {
           "name": "Article 41",
-          "pageAddress": "/de/wie-innovativ-und-nachhaltig-ist-qualityminds-eigentlich/",
+          "pageAddress": "/de/minimales-investment-hoher-mehrwert-discovery-phase-im-software-bauhaus-schafft-vertrauen/",
           "xpath":  "//a[normalize-space()='Software Bauhaus']",
           "tabName": ["QualityMinds | Agile Software-Entwicklungsteams"],
           "PageOpenInNewTab": true
         },
         {
           "name": "Article 41",
-          "pageAddress": "/de/wie-innovativ-und-nachhaltig-ist-qualityminds-eigentlich/",
+          "pageAddress": "/de/minimales-investment-hoher-mehrwert-discovery-phase-im-software-bauhaus-schafft-vertrauen/",
           "xpath":  "//a[normalize-space()='Requirements Engineering']",
           "tabName": ["QualityMinds | Requirements Engineering Für Agile Teams"],
           "PageOpenInNewTab": true
@@ -432,14 +432,14 @@
           "name": "Article 42",
           "pageAddress": "/de/qualityminds-gmbh-unterstuetzt-das-attention-projekt/",
           "xpath":  "//a[normalize-space()='CARLA']",
-          "tabName": ["\n    \n      \n        CARLA Simulator\n      \n    \n  "],
+          "tabName": ["CARLA Simulator"],
           "PageOpenInNewTab": true
         },
         {
           "name": "Article 42",
           "pageAddress": "/de/qualityminds-gmbh-unterstuetzt-das-attention-projekt/",
           "xpath":  "//a[normalize-space()='Bundesministerium für Wirtschaft und Klimaschutz']",
-          "tabName": ["BMWK  -        Bundesministerium für Wirtschaft und Klimaschutz "],
+          "tabName": ["BMWK  -        Bundesministerium für Wirtschaft und Klimaschutz ","www.bmwk.de"],
           "PageOpenInNewTab": true
         },
         {
@@ -453,14 +453,14 @@
           "name": "Article 42",
           "pageAddress": "/de/qualityminds-gmbh-unterstuetzt-das-attention-projekt/",
           "xpath":  "//a[contains(text(),'Fraunhofer Gesellschaft – Ernst Mach Institut (EMI')]",
-          "tabName": ["Deutsch -  Fraunhofer EMI"],
+          "tabName": ["Deutsch -  Fraunhofer EMI", "Deutsch - Fraunhofer EMI"],
           "PageOpenInNewTab": true
         },
         {
           "name": "Article 42",
           "pageAddress": "/de/qualityminds-gmbh-unterstuetzt-das-attention-projekt/",
           "xpath":  "//a[normalize-space()='QualityMinds GmbH']",
-          "tabName": ["QualityMinds | Startseite"],
+          "tabName": ["QualityMinds | Homepage"],
           "PageOpenInNewTab": false
         },
         {
@@ -481,7 +481,7 @@
           "name": "Article 42",
           "pageAddress": "/de/qualityminds-gmbh-unterstuetzt-das-attention-projekt/",
           "xpath":  "//a[normalize-space()='Mercedes Benz AG']",
-          "tabName": ["\u2063Mercedes-Benz Personenwagen"],
+          "tabName": ["Mercedes-Benz Personenwagen"],
           "PageOpenInNewTab": true
         },
         {
@@ -615,6 +615,41 @@
           "pageAddress": "/de/zwei-tage-testen-im-agilen-umfeld-mit-redi-school-und-qualityminds/",
           "xpath":  "//a[normalize-space()='https://riskstorming.com/']",
           "tabName": ["Risk-storming"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 51",
+          "pageAddress": "/de/welches-technische-wissen-braucht-ein-scrum-master/",
+          "xpath":  "//a[normalize-space()='https://www.freecodecamp.org/']",
+          "tabName": ["Learn to Code — For Free — Coding Courses for Busy People"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 51",
+          "pageAddress": "/de/welches-technische-wissen-braucht-ein-scrum-master/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/services/agile-support')]",
+          "tabName": ["QualityMinds | Scrum Master"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 54",
+          "pageAddress": "/de/charta-der-vielfalt/",
+          "xpath":  "//a[normalize-space()='Charta der Vielfalt']",
+          "tabName": ["Charta der Vielfalt - Für Diversity in der Arbeitswelt"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 55",
+          "pageAddress": "/de/10-gute-gruende-externe-scrum-masterinnen-zu-beauftragen/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/services/agile-support')]",
+          "tabName": ["QualityMinds | Scrum Master"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 55",
+          "pageAddress": "/de/10-gute-gruende-externe-scrum-masterinnen-zu-beauftragen/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/services/agile-support')]",
+          "tabName": ["QualityMinds | Agiles Lernen"],
           "PageOpenInNewTab": true
         }
       ]
