@@ -18,7 +18,7 @@
           "name": "Article 3",
           "pageAddress": "/de/agile-leadership-schon-wieder-ein-neuer-fuhrungsstil-oder-mehr-als-nur-ein-buzzword/",
           "xpath":  "//a[normalize-space()='Stephan Merkel']",
-          "tabName": ["Zaloguj się | LinkedIn", "Stephan Merkel – Unternehmensinhaber – Valean Solutions GmbH | LinkedIn"],
+          "tabName": ["Zaloguj się | LinkedIn", "Stephan Merkel – Unternehmensinhaber – Valean Solutions GmbH | LinkedIn", "Sign In | LinkedIn"],
           "PageOpenInNewTab": true
         },
         {
@@ -250,7 +250,7 @@
           "name": "Article 30",
           "pageAddress": "/de/meet-the-devops-jakub/",
           "xpath":  "//a[normalize-space()='travel vlog']",
-          "tabName": ["Zanim przejdziesz do YouTube", "Ruchome Piaski - YouTubev"],
+          "tabName": ["Zanim przejdziesz do YouTube", "Ruchome Piaski - YouTube"],
           "PageOpenInNewTab": true
         },
         {

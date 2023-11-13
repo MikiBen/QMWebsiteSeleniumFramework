@@ -1,7 +1,5 @@
 package org.qmwebsite.tests;
 
-import com.beust.ah.A;
-import com.fasterxml.jackson.annotation.JsonTypeInfo;
 import lombok.extern.java.Log;
 import lombok.extern.slf4j.Slf4j;
 import org.openqa.selenium.By;
@@ -15,8 +13,6 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.stream.IntStream;
 
@@ -82,36 +78,11 @@ public class QMWebsiteTestInDE extends BaseTest {
             mainMenu.checkQMStoreButton();
     }
 
-    @Test
-    public void testForME(){
-
-        List<String> list = new ArrayList<>();
-        list.add("MM");
-        list.add("mik");
-        try {
-            org.junit.Assert.assertTrue(list.contains("miki"));
-        }catch (AssertionError e){
-            System.out.println("MIKI2");
-            org.junit.Assert.fail();
-        }
-
-        System.out.println("Wynik: " + list.contains("miki") );
-    }
-
 
     @Test(dataProvider="UrlListOnPages")
     public void checkUrlLinkOnPages(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab)
     {
-        /*
-        Boolean status = tabName.contains("Agilität ist Kopfsache | QualityMinds");
-        System.out.println(status);
-        System.out.println(tabName);
 
-        Article article = new Article(getDriver());
-        article.load(url);
-        System.out.println(getDriver().getTitle());
-
-        */
         Article article = new Article(getDriver());
         try {
             article.load(url);
@@ -125,7 +96,6 @@ public class QMWebsiteTestInDE extends BaseTest {
         } catch (Exception e){
             Assert.fail("An exception occured on page: " + url);
         }
-
 
     }
 
@@ -162,58 +132,6 @@ public class QMWebsiteTestInDE extends BaseTest {
         return data;
     }
 
-/*
-    @Test(dataProvider="UrlListOnPagesWithList")
-    public void CheckMyTest(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab)
-    {
-
-        System.out.println(pageName);
-        System.out.println(url);
-        System.out.println(xpath);
-        System.out.println(tabName);
-        System.out.println(tabName.size());
-        System.out.println(getPageOpenInNewTab);
-
-         try {
-             org.junit.Assert.assertTrue(tabName.contains("Miki"));
-         }catch (AssertionError e){
-             Assert.fail("WRONG TAb NAME");
-             System.out.println("NOK");
-         }
-    }
-
-    @Test(dataProvider="UrlListOnPagesWithList")
-    public void checkUrlLinkOnPageswithList(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab)
-    {
-        Article article = new Article(getDriver());
-        try {
-            article.load(url);
-                article.checkLink(By.xpath(xpath), tabName, pageName, url);
-
-        }catch (TimeoutException | InvalidSelectorException e){
-            Assert.fail("Xpath: " + xpath + " is not available on page: " + ConfigLoader.getInstance().getBaseUrl() + url);
-        } catch (Exception e){
-            Assert.fail("An exception occured on page: " + url);
-        }
-    }
-
-    @DataProvider(name="UrlListOnPagesWithList")
-    public Object[] myDataProvider3() throws IOException {
-        jsonFile.readFileWithUrlOnPagesWithList();
-
-        Object data[][]= new Object[jsonFile.getUrlsWithList().getUrlOnPagesModelListWithList().size()][5];
-
-        IntStream.range(0,jsonFile.getUrlsWithList().getUrlOnPagesModelListWithList().size()).forEach(i-> {
-
-            data[i][0] = jsonFile.getUrlsWithList().getUrlOnPagesModelListWithList().get(i).getName();
-            data[i][1] = jsonFile.getUrlsWithList().getUrlOnPagesModelListWithList().get(i).getPageAddress();
-            data[i][2] = jsonFile.getUrlsWithList().getUrlOnPagesModelListWithList().get(i).getXpath();
-            data[i][3] = jsonFile.getUrlsWithList().getUrlOnPagesModelListWithList().get(i).getTabName();
-            data[i][4] = jsonFile.getUrlsWithList().getUrlOnPagesModelListWithList().get(i).getPageOpenInNewTab();
-        });
-        return data;
-    }
-    */
 }
 
 

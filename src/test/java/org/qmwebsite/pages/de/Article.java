@@ -43,8 +43,6 @@ public class Article extends BasePage {
                     "\nExpected Tab name is one of this: " + title);
         }
 
-
-
     }
 
     public void checkLinkOpensOnTheSamePage(By xpath, List<String> title, String  pageName, String url) {
