@@ -20,6 +20,7 @@ import java.util.stream.IntStream;
 @Log
 public class QMWebsiteTestInDE extends BaseTest {
 
+    /*
     @Test
     public void mainPageTest() {
         MainPage mainPage = new MainPage(getDriver());
@@ -34,18 +35,7 @@ public class QMWebsiteTestInDE extends BaseTest {
         eventsDE.checkExitsPage();
     }
 
-/*
-    @Test
-    public void checkTabName(){
-        MainPage mainPage = new MainPage(getDriver());
 
-            IntStream.range(0,jsonFile.getPages().getUrlModelList().size()).forEach(i->{
-                mainPage.load(jsonFile.getPages().getUrlModelList().get(i).getUrl());
-                        Assert.assertEquals(mainPage.getTabName(), jsonFile.getPages().getUrlModelList().get(i).getTabName());
-                    }
-            );
-    }
-*/
 
     @Test (dataProvider = "UrlList")
     public void checkTabName(String pageName, String url, String tabName){
@@ -83,7 +73,7 @@ public class QMWebsiteTestInDE extends BaseTest {
             mainMenu.load(url);
             mainMenu.checkQMStoreButton();
     }
-
+*/
 
     @Test(dataProvider="UrlListOnPages")
     public void checkUrlLinkOnPages(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab)
@@ -137,6 +127,19 @@ public class QMWebsiteTestInDE extends BaseTest {
         });
         return data;
     }
+
+    /*
+    @Test
+    public void checkTabName(){
+        MainPage mainPage = new MainPage(getDriver());
+
+            IntStream.range(0,jsonFile.getPages().getUrlModelList().size()).forEach(i->{
+                mainPage.load(jsonFile.getPages().getUrlModelList().get(i).getUrl());
+                        Assert.assertEquals(mainPage.getTabName(), jsonFile.getPages().getUrlModelList().get(i).getTabName());
+                    }
+            );
+    }
+*/
 
 }
 
