@@ -43,8 +43,11 @@ public abstract class BasePage {
         return  wait.until(ExpectedConditions.elementToBeClickable(element));
     }
 
-    protected String getTabName(){
+    public String getTabName(){
         return driver.getTitle();
+    }
+    public String getCurrentAddress(){
+        return driver.getCurrentUrl();
     }
 
     protected void removeCookies(){

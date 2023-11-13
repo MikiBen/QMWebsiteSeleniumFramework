@@ -20,7 +20,7 @@ import java.util.stream.IntStream;
 @Log
 public class QMWebsiteTestInDE extends BaseTest {
 
-    /*
+
     @Test
     public void mainPageTest() {
         MainPage mainPage = new MainPage(getDriver());
@@ -73,7 +73,7 @@ public class QMWebsiteTestInDE extends BaseTest {
             mainMenu.load(url);
             mainMenu.checkQMStoreButton();
     }
-*/
+
 
     @Test(dataProvider="UrlListOnPages")
     public void checkUrlLinkOnPages(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab)
