@@ -793,38 +793,129 @@
           "PageOpenInNewTab": true
         },
         {
-          "name": "Article 66",
-          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-definition-of-ready/",
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//strong[normalize-space()='Michael Mlynarski']",
           "tabName": ["(24) Michael Mlynarski | LinkedIn"],
           "PageOpenInNewTab": true
         },
         {
-          "name": "Article 66",
-          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-definition-of-ready/",
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//strong[normalize-space()='Onlinekurs']",
           "tabName": ["Stimmen klonen mit Deep Learning in Python | Udemy"],
           "PageOpenInNewTab": true
         },
         {
-          "name": "Article 66",
-          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-definition-of-ready/",
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//strong[normalize-space()='resemble.ai']",
           "tabName": ["AI Voice Generator with Text to Speech and Speech to Speech"],
           "PageOpenInNewTab": true
         },
         {
-          "name": "Article 66",
-          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-definition-of-ready/",
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//strong[normalize-space()='play.ht']",
           "tabName": ["AI Voice Generator &amp; Realistic Text to Speech Online | PlayHT"],
           "PageOpenInNewTab": true
         },
         {
-          "name": "Article 66",
-          "pageAddress": "/de/wovon-der-scrum-guide-nichts-sagt-definition-of-ready/",
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//strong[normalize-space()='coqui.ai']",
-          "tabName": [">Coqui"],
+          "tabName": ["Coqui"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "//a[normalize-space()='https://www.udemy.com/course/voice-cloning/']",
+          "tabName": ["Stimmen klonen mit Deep Learning in Python | Udemy"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "//a[contains(text(),'https://github.com/CorentinJ/Real-Time-Voice-Cloni')]",
+          "tabName": ["CorentinJ/Real-Time-Voice-Cloning: Clone a voice in 5 seconds to generate arbitrary speech in real-time"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "//a[contains(text(),'https://github.com/padmalcom/Real-Time-Voice-Cloni')]",
+          "tabName": ["padmalcom/Real-Time-Voice-Cloning-German: German model for https://github.com/CorentinJ/Real-Time-Voice-Cloning"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "//a[normalize-space()='https://github.com/imdatsolak/m-ailabs-dataset']",
+          "tabName": ["imdatsolak/m-ailabs-dataset: This is the M-AILABS Speech Dataset"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "//a[normalize-space()='https://github.com/imdatsolak/m-ailabs-dataset']",
+          "tabName": ["imdatsolak/m-ailabs-dataset: This is the M-AILABS Speech Dataset"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "//a[contains(text(),'https://github.com/iisys-hof/HUI-Audio-Corpus-Germ')]",
+          "tabName": ["iisys-hof/HUI-Audio-Corpus-German: This is the official repository for the HUI-Audio-Corpus-German. The corresponding paper is in the process of publication.  With the repository it is possible to automatically recreate the dataset. It is also possible to add more speakers to the processing pipeline."],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "//a[normalize-space()='https://www.thorsten-voice.de/']",
+          "tabName": ["Motivation &amp; Vision - Thorsten Voice"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "//a[normalize-space()='https://github.com/padmalcom/ttsdatasetcreator']",
+          "tabName": ["padmalcom/ttsdatasetcreator"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "//a[normalize-space()='https://github.com/openai/whisper']",
+          "tabName": ["openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "//a[normalize-space()='https://www.audacityteam.org/']",
+          "tabName": ["Audacity ® | Free, open source, cross-platform audio software for multi-track recording and editing."],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "//a[contains(text(),'https://www.nvidia.com/en-us/omniverse/apps/audio2')]",
+          "tabName": ["Omniverse Audio2Face AI Powered Application | NVIDIA"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "//a[normalize-space()='https://www.youtube.com/watch?v=x9POZqGO5B0']",
+          "tabName": ["Omniverse Audio2face Metahuman Tutorial - YouTube"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 68",
+          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
+          "xpath":  "//a[normalize-space()='https://www.youtube.com/watch?v=x9POZqGO5B0']",
+          "tabName": ["Omniverse Audio2face Metahuman Tutorial - YouTube"],
           "PageOpenInNewTab": true
         }
       ]
