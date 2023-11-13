@@ -51,7 +51,13 @@ public class QMWebsiteTestInDE extends BaseTest {
     public void checkTabName(String pageName, String url, String tabName){
         MainPage mainPage = new MainPage(getDriver());
                     mainPage.load(url);
-                    Assert.assertEquals(mainPage.getTabName(), tabName);
+                    try {
+                        Assert.assertEquals(mainPage.getTabName(), tabName);
+                    } catch (AssertionError e) {
+                    org.junit.Assert.fail("On page: " + pageName + " with address: " + ConfigLoader.getInstance().getBaseUrl() + url +
+                            " the opened page have wrong Tab Name. \nCurrent tabName: " + mainPage.getTabName() +
+                    "\nExpected Tab name is one of this: " + tabName);
+        }
     }
 
     @Test (dataProvider = "UrlList")

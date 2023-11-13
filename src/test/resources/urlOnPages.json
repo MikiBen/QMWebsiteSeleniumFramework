@@ -621,7 +621,7 @@
           "name": "Article 51",
           "pageAddress": "/de/welches-technische-wissen-braucht-ein-scrum-master/",
           "xpath":  "//a[normalize-space()='https://www.freecodecamp.org/']",
-          "tabName": ["Learn to Code — For Free — Coding Courses for Busy People"],
+          "tabName": ["Learn to Code — For Free — Coding Courses for Busy People", ""],
           "PageOpenInNewTab": true
         },
         {
@@ -648,7 +648,7 @@
         {
           "name": "Article 55",
           "pageAddress": "/de/10-gute-gruende-externe-scrum-masterinnen-zu-beauftragen/",
-          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/services/agile-support')]",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/quality-learning/agile')]",
           "tabName": ["QualityMinds | Agiles Lernen"],
           "PageOpenInNewTab": true
         },
