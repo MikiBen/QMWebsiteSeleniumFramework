@@ -651,6 +651,48 @@
           "xpath":  "//a[contains(text(),'https://qualityminds.com/de/services/agile-support')]",
           "tabName": ["QualityMinds | Agiles Lernen"],
           "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 57",
+          "pageAddress": "/de/zehn-jahre-der-innovation-offenheit-und-des-nachhaltigen-wachstums/",
+          "xpath":  "//a[normalize-space()='RSVE Mittelstandsallianz']",
+          "tabName": ["RVSE-Mittelstandsallianz - Ihr Partner für den öffentlichen Sektor"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 60",
+          "pageAddress": "/de/lets-test-risk-storming/",
+          "xpath":  "//a[normalize-space()='QualityHeroes Podcast']",
+          "tabName": ["QualityHeroes Podcast Folge 31: Wie kann ein Testteam neue Testmethoden effektiv zusammen lernen? | QualityMinds"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 60",
+          "pageAddress": "/de/lets-test-risk-storming/",
+          "xpath":  "//a[normalize-space()='Risk Storming']",
+          "tabName": ["Risk-storming"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 60",
+          "pageAddress": "/de/lets-test-risk-storming/",
+          "xpath":  "//a[normalize-space()='Kartenset']",
+          "tabName": ["RiskStorming | Ministry of Testing"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 60",
+          "pageAddress": "/de/lets-test-risk-storming/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/qualityheroes-podcast-')]",
+          "tabName": ["QualityHeroes Podcast Folge 20: Was ist ein Risk-Storming-Workshop und wie kann er einem Projektteam helfen? | QualityMinds"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 60",
+          "pageAddress": "/de/lets-test-risk-storming/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/portfolio/qa-kernkompe')]",
+          "tabName": ["QualityMinds | Funktionales Testen"],
+          "PageOpenInNewTab": true
         }
       ]
 }
