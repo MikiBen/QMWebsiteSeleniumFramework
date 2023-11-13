@@ -96,7 +96,7 @@
           "name": "Article 11",
           "pageAddress": "/de/building-a-simple-autonomous-mobile-robot/",
           "xpath":  "//a[normalize-space()='Alexander Pohl']",
-          "tabName": ["Zaloguj się | LinkedIn", "Alexander Pohl – Monachium i okolice | Profil zawodowy | LinkedIn"],
+          "tabName": ["Zaloguj się | LinkedIn", "Alexander Pohl – Monachium i okolice | Profil zawodowy | LinkedIn", "Sign In | LinkedIn"],
           "PageOpenInNewTab": true
         },
         {
@@ -159,7 +159,7 @@
           "name": "Article 17",
           "pageAddress": "/de/qualitatssicherung-von-ki-die-gefahren-lauern-vor-allem-hinter-den-ecken/",
           "xpath":  "//a[normalize-space()='Bundesministerium für Wirtschaft und Klimaschutz']",
-          "tabName": ["BMWK - Bundesministerium für Wirtschaft und Klimaschutz"],
+          "tabName": ["BMWK - Bundesministerium für Wirtschaft und Klimaschutz", "www.bmwi.de"],
           "PageOpenInNewTab": true
         },
         {
@@ -194,7 +194,7 @@
           "name": "Article 21",
           "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
           "xpath":  "//a[normalize-space()='eXXcellent solutions']",
-          "tabName": ["Startseite - eXXcellent solutions"],
+          "tabName": ["Startseite - eXXcellent solutions", "exxcellent.de"],
           "PageOpenInNewTab": true
         },
         {
@@ -250,7 +250,7 @@
           "name": "Article 30",
           "pageAddress": "/de/meet-the-devops-jakub/",
           "xpath":  "//a[normalize-space()='travel vlog']",
-          "tabName": ["Zanim przejdziesz do YouTube"],
+          "tabName": ["Zanim przejdziesz do YouTube", "Ruchome Piaski - YouTubev"],
           "PageOpenInNewTab": true
         },
         {
@@ -369,7 +369,7 @@
           "name": "Article 38",
           "pageAddress": "/de/klimaschutz-durch-digitale-technologien-gelebtes-csr-bei-qualityminds/",
           "xpath":  "//a[normalize-space()='Quyen']",
-          "tabName": ["Zaloguj się | LinkedIn","Quyen P. – Quality Assurance Engineer – zolar | LinkedIn"],
+          "tabName": ["Zaloguj się | LinkedIn","Quyen P. – Quality Assurance Engineer – zolar | LinkedIn"," Sign In | LinkedIn"],
           "PageOpenInNewTab": true
         },
         {

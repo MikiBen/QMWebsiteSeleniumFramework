@@ -27,8 +27,8 @@ public class Article extends BasePage {
                 for (String winHandle : driver.getWindowHandles()) {
                     driver.switchTo().window(winHandle);
                 }
-
-                Boolean status = title.contains(driver.getTitle());
+                getTabName();
+                Boolean status = title.contains(getTabName());
                 Assert.assertTrue(status);
 
                 driver.navigate().back();
@@ -39,7 +39,7 @@ public class Article extends BasePage {
             }catch (AssertionError e){
             Assert.fail("On page: " + pageName + " with address: " + ConfigLoader.getInstance().getBaseUrl() + url +
                     ". After click on link with xpath: " + xpath +
-                    " the opened page have wrong Tab Name. \nCurrent tabName: " + driver.getTitle() +
+                    " the opened page have wrong Tab Name. \nCurrent tabName: " + getTabName() +
                     "\nExpected Tab name is one of this: " + title);
         }
 
@@ -54,7 +54,7 @@ public class Article extends BasePage {
         driver.findElement(xpath).click();
 
         try {
-            org.junit.Assert.assertTrue(title.contains(driver.getTitle()));
+            org.junit.Assert.assertTrue(title.contains(getTabName()));
             driver.navigate().back();
         } catch (Exception e) {
             Assert.fail("On page: " + pageName + " with address: " + ConfigLoader.getInstance().getBaseUrl() + url +
@@ -62,7 +62,7 @@ public class Article extends BasePage {
         } catch (AssertionError e) {
             Assert.fail("On page: " + pageName + " with address: " + ConfigLoader.getInstance().getBaseUrl() + url +
                     ". After click on link with xpath: " + xpath +
-                    " the opened page have wrong Tab Name. \nCurrent tabName: " + driver.getTitle() +
+                    " the opened page have wrong Tab Name. \nCurrent tabName: " + getTabName() +
                     "\nExpected Tab name is one of this: " + title);
         }
     }
