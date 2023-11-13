@@ -26,7 +26,7 @@ public abstract class BasePage {
         driver.get(ConfigLoader.getInstance().getBaseUrl() + endPoint);
     }
 
-    public void wairForIverlaysToDisappear(By overlay) {
+    protected void waitForIverlaysToDisappear(By overlay) {
         List<WebElement> overlays = driver.findElements(overlay);
         if (!overlays.isEmpty()) {
             wait.until(ExpectedConditions.invisibilityOfAllElements(overlays));
@@ -35,19 +35,15 @@ public abstract class BasePage {
         }
     }
 
-    public WebElement waitForElementToBeVisible(By element){
+    protected WebElement waitForElementToBeVisible(By element){
         return  wait.until(ExpectedConditions.visibilityOfElementLocated(element));
     }
 
-    public WebElement waitForElementToBeClickable(By element){
+    protected WebElement waitForElementToBeClickable(By element){
         return  wait.until(ExpectedConditions.elementToBeClickable(element));
     }
 
-    public String getCurrentAddress(){
-        return driver.getCurrentUrl();
-    }
-
-    public String getTabName(){
+    protected String getTabName(){
         return driver.getTitle();
     }
 

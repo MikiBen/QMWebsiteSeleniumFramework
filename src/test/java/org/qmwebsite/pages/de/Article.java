@@ -48,12 +48,11 @@ public class Article extends BasePage {
     public void checkLinkOpensOnTheSamePage(By xpath, List<String> title, String  pageName, String url) {
 
         removeCookies();
-        waitForElementToBeClickable(xpath);
-        driver.findElement(xpath).click();
+        waitForElementToBeClickable(xpath).click();
 
         try {
-            org.junit.Assert.assertTrue(title.contains(getTabName()));
-            driver.navigate().back();
+            Assert.assertTrue("Comment", title.contains(getTabName())); // dodać tutaj i usuna try catch
+            driver.navigate().back(); // dodać url
         } catch (Exception e) {
             Assert.fail("On page: " + pageName + " with address: " + ConfigLoader.getInstance().getBaseUrl() + url +
                     " the link: " + xpath + " is wrong");
@@ -64,7 +63,5 @@ public class Article extends BasePage {
                     "\nExpected Tab name is one of this: " + title);
         }
 
-        //Comment
-        //Test
     }
 }

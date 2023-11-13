@@ -824,7 +824,7 @@
           "name": "Article 67",
           "pageAddress": "/de/morals-machines-2023-gemeinsam-fuer-eine-verantwortungsvolle-ki-zukunft/",
           "xpath":  "//strong[normalize-space()='Morals & Machines Konferenz 2023']",
-          "tabName": ["Program – Morals &amp; Machines"],
+          "tabName": ["Program – Morals & Machines"],
           "PageOpenInNewTab": true
         },
         {
@@ -944,13 +944,6 @@
           "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//a[contains(text(),'https://www.nvidia.com/en-us/omniverse/apps/audio2')]",
           "tabName": ["Omniverse Audio2Face AI Powered Application | NVIDIA"],
-          "PageOpenInNewTab": true
-        },
-        {
-          "name": "Article 68",
-          "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
-          "xpath":  "//a[normalize-space()='https://www.youtube.com/watch?v=x9POZqGO5B0']",
-          "tabName": ["Omniverse Audio2face Metahuman Tutorial - YouTube"],
           "PageOpenInNewTab": true
         },
         {
