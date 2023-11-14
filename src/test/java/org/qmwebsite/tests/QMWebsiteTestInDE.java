@@ -37,7 +37,7 @@ public class QMWebsiteTestInDE extends BaseTest {
 
 
 
-    @Test (dataProvider = "UrlList")
+    @Test (dataProvider = "AllUrlListDE")
     public void checkTabName(String pageName, String url, String tabName){
         MainPage mainPage = new MainPage(getDriver());
                     mainPage.load(url);
@@ -50,7 +50,7 @@ public class QMWebsiteTestInDE extends BaseTest {
         }
     }
 
-    @Test (dataProvider = "UrlList")
+    @Test (dataProvider = "AllUrlListDE")
     public void checkFooter(String pageName, String url, String tabName){
         Footer footer = new Footer(getDriver());
                     footer.load(url);
@@ -67,7 +67,7 @@ public class QMWebsiteTestInDE extends BaseTest {
                             checkFeedButton();
                 }
 
-    @Test (dataProvider = "UrlList")
+    @Test (dataProvider = "AllUrlListDE")
     public void checkMainMenu(String pageName, String url, String tabName){
         MainMenu mainMenu = new MainMenu(getDriver());
             mainMenu.load(url);
@@ -75,7 +75,7 @@ public class QMWebsiteTestInDE extends BaseTest {
     }
 
 
-    @Test(dataProvider="UrlListOnPages")
+    @Test(dataProvider="UrlListOnArticlesDE")
     public void checkUrlLinkOnPages(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab)
     {
 
@@ -92,12 +92,11 @@ public class QMWebsiteTestInDE extends BaseTest {
         } catch (Exception e){
             Assert.fail("An exception occured on page: " + url);
         }
-
     }
 
-    @DataProvider(name="UrlList")
+    @DataProvider(name="AllUrlListDE")
     public Object[] myDataProvider() throws IOException {
-        jsonFile.readFile();
+        jsonFile.readFileWithAllUrlPagesAddressDE();
 
         Object data[][]= new Object[jsonFile.getPages().getUrlModelList().size()][3];
 
@@ -111,9 +110,46 @@ public class QMWebsiteTestInDE extends BaseTest {
         return data;
     }
 
-    @DataProvider(name="UrlListOnPages")
-    public Object[] myDataProviderWithUrliLikOnPages() throws IOException {
-        jsonFile.readFileWithUrlOnPages();
+    @DataProvider(name="UrlListOnArticlesDE")
+    public Object[] myDataProviderWithUrliLikOnArticlesDE() throws IOException {
+        jsonFile.readFileWithLinkOnArticlesDE();
+
+        Object data[][]= new Object[jsonFile.getUrls().getUrlOnPagesModelList().size()][5];
+
+        IntStream.range(0,jsonFile.getUrls().getUrlOnPagesModelList().size()).forEach(i-> {
+
+            data[i][0] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getName();
+            data[i][1] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getPageAddress();
+            data[i][2] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getXpath();
+            data[i][3] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getTabName();
+            data[i][4] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getPageOpenInNewTab();
+        });
+        return data;
+    }
+
+
+    @Test(dataProvider="UrlListOnBlogQualityHereosDE")
+    public void checkUrlLinkOnBlogsQualityHeroesDE(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab)
+    {
+
+        Article article = new Article(getDriver());
+        try {
+            article.load(url);
+            if (!getPageOpenInNewTab) {
+                article.checkLinkOpensOnTheSamePage(By.xpath(xpath), tabName, pageName, url);
+            } else {
+                article.checkLink(By.xpath(xpath), tabName, pageName, url);
+            }
+        }catch (TimeoutException | InvalidSelectorException e){
+            Assert.fail("Xpath: " + xpath + " is not available on page: " + ConfigLoader.getInstance().getBaseUrl() + url);
+        } catch (Exception e){
+            Assert.fail("An exception occured on page: " + url);
+        }
+    }
+
+    @DataProvider(name="UrlListOnBlogQualityHereosDE")
+    public Object[] myDataProviderWithUrliLikOnBlogQualityHeroesDE() throws IOException {
+        jsonFile.readFileWithLinkOnBlogQualityHeroesDE();
 
         Object data[][]= new Object[jsonFile.getUrls().getUrlOnPagesModelList().size()][5];
 

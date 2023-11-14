@@ -1,0 +1,368 @@
+{
+  "urls": [
+    {
+      "name": "Blog 1_0",
+      "pageAddress": "/de/qualityheroes-podcast-ist-da-folge-1-wo-und-wie-konnen-testentwurfsmethoden-helfen/",
+      "xpath": "//a[normalize-space()='Peter Hartauer']",
+      "tabName": ["(24) Peter Hartauer | LinkedIn", "Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 1_1",
+      "pageAddress": "/de/qualityheroes-podcast-ist-da-folge-1-wo-und-wie-konnen-testentwurfsmethoden-helfen/",
+      "xpath": "//a[normalize-space()='Peter Hartauer']",
+      "tabName": ["(24) Dr. Christian Brandes | LinkedIn","Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 1_2",
+      "pageAddress": "/de/qualityheroes-podcast-ist-da-folge-1-wo-und-wie-konnen-testentwurfsmethoden-helfen/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh001-wo-und')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH001 Wo und wie können Testentwurfsmethoden helfen? auf Apple Podcasts"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 1_3",
+      "pageAddress": "/de/qualityheroes-podcast-ist-da-folge-1-wo-und-wie-konnen-testentwurfsmethoden-helfen/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/6Xy2umBye6hERrFsM')]",
+      "tabName": ["QH001 Wo und wie können Testentwurfsmethoden helfen? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 1_4",
+      "pageAddress": "/de/qualityheroes-podcast-ist-da-folge-1-wo-und-wie-konnen-testentwurfsmethoden-helfen/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125352/qh001-wo-')]",
+      "tabName": ["QH001 Wo und wie können Testentwurfsmethoden helfen? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 2_0",
+      "pageAddress": "/de/qualityheroes-podcast-folge-2-wie-starte-ich-als-einsteiger-im-mobile-testing-durch/",
+      "xpath": "//a[normalize-space()='Ron Werner']",
+      "tabName": ["(24) Ron Werner | LinkedIn","Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 2_1",
+      "pageAddress": "/de/qualityheroes-podcast-folge-2-wie-starte-ich-als-einsteiger-im-mobile-testing-durch/",
+      "xpath": "//a[normalize-space()='Daniel Knott']",
+      "tabName": ["(24) Daniel Knott | LinkedIn", "Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 2_2",
+      "pageAddress": "/de/qualityheroes-podcast-folge-2-wie-starte-ich-als-einsteiger-im-mobile-testing-durch/",
+      "xpath": "//a[normalize-space()='https://dojo.ministryoftesting.com']",
+      "tabName": ["Ministry of Testing | Ministry of Testing"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 2_3",
+      "pageAddress": "/de/qualityheroes-podcast-folge-2-wie-starte-ich-als-einsteiger-im-mobile-testing-durch/",
+      "xpath": "//a[normalize-space()='http://adventuresinqa.com/']",
+      "tabName": ["Adventures in QA - Software Testing, Agile Development and Product Management by Daniel Knott"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 2_4",
+      "pageAddress": "/de/qualityheroes-podcast-folge-2-wie-starte-ich-als-einsteiger-im-mobile-testing-durch/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh002-wie-st')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH002 Wie starte ich als Einsteiger im Mobile Testing durch? auf Apple Podcasts"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 2_5",
+      "pageAddress": "/de/qualityheroes-podcast-folge-2-wie-starte-ich-als-einsteiger-im-mobile-testing-durch/",
+      "xpath": "//a[contains(text(),'https://player.fm/series/qualityheroes-der-podcast')]",
+      "tabName": ["QH002 Wie Starte Ich Als Einsteiger Im Mobile Testing Durch? QualityHeroes - Der Podcast Über Softwarequalität Für Agile Köpfe podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 2_6",
+      "pageAddress": "/de/qualityheroes-podcast-folge-2-wie-starte-ich-als-einsteiger-im-mobile-testing-durch/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/27POzN6h0NyxiynOi')]",
+      "tabName": ["QH002 Wie starte ich als Einsteiger im Mobile Testing durch? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 2_7",
+      "pageAddress": "/de/qualityheroes-podcast-folge-2-wie-starte-ich-als-einsteiger-im-mobile-testing-durch/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125351/qh002-wie')]",
+      "tabName": ["QH002 Wie starte ich als Einsteiger im Mobile Testing durch? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 3_0",
+      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
+      "xpath": "//a[contains(text(),'https://www.amazon.de/Mobile-App-Testing-Praxislei')]",
+      "tabName": ["qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/", "Mobile App Testing: Praxisleitfaden für Softwaretester und Entwickler mobiler Anwendungen : Knott, Daniel, Röttger, Nils: Amazon.de: Książki"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 3_1",
+      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
+      "xpath": "//a[normalize-space()='https://leanpub.com/testmobileapps']",
+      "tabName": ["Tap Into Mobile Application… by Jonathan Kohl [PDF/iPad/Kindle]"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 3_2",
+      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
+      "xpath": "//a[normalize-space()='http://adventuresinqa.com/']",
+      "tabName": ["Adventures in QA - Software Testing, Agile Development and Product Management by Daniel Knott"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 3_3",
+      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
+      "xpath": "//a[contains(text(),'http://adventuresinqa.com/2015/08/24/rotation-tour')]",
+      "tabName": ["Rotation Tour in Mobile Testing | Adventures in QA"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 3_4",
+      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
+      "xpath": "//a[normalize-space()='Ron']",
+      "tabName": ["(24) Ron Werner | LinkedIn","Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 3_5",
+      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
+      "xpath": "//a[normalize-space()='Daniel']",
+      "tabName": ["(24) Daniel Knott | LinkedIn","Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 3_6",
+      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
+      "xpath": "//a[contains(text(),'https://www.utest.com/articles/testing-your-mobile')]",
+      "tabName": ["uTest - 401"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 3_7",
+      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
+      "xpath": "//a[normalize-space()='https://stackoverflow.com/a/2415377']",
+      "tabName": ["android - adb update a non-market apk? - Stack Overflow"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 3_8",
+      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
+      "xpath": "//a[contains(text(),'https://www.owasp.org/index.php/Mobile_Top_10_2016')]",
+      "tabName": ["OWASP Mobile Top 10 | OWASP Foundation"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 3_9",
+      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
+      "xpath": "//a[normalize-space()='https://www.getpostman.com/']",
+      "tabName": ["Postman API Platform | Sign Up for Free"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 3_10",
+      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
+      "xpath": "//a[normalize-space()='https://www.charlesproxy.com/']",
+      "tabName": ["Charles Web Debugging Proxy • HTTP Monitor / HTTP Proxy / HTTPS & SSL Proxy / Reverse Proxy"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 3_11",
+      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
+      "xpath": "//a[contains(text(),'https://developer.android.com/studio/command-line/')]",
+      "tabName": ["Logcat command-line tool  |  Android Studio  |  Android Developers"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 3_12",
+      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
+      "xpath": "//a[contains(text(),'https://medium.com/@DanielKnott/mobile-testing-che')]",
+      "tabName": ["Mobile Testing Cheat Sheet. This is the first post in 2016 related… | by Daniel Knott | Medium"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 3_13",
+      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh003-welche')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH003 Welche Spielarten im Mobile Testing gibt es? auf Apple Podcasts"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 3_14",
+      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/4gph2AWqZ77CVpWO9')]",
+      "tabName": ["QH003 Welche Spielarten im Mobile Testing gibt es? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 3_15",
+      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125350/qh003-wel')]",
+      "tabName": ["QH003 Welche Spielarten im Mobile Testing gibt es? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 4_0",
+      "pageAddress": "/de/qualityheroes-podcast-folge-4-iot-testing-grose-herausforderung-oder-kein-ding/",
+      "xpath": "//a[normalize-space()='Ron']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 4_1",
+      "pageAddress": "/de/qualityheroes-podcast-folge-4-iot-testing-grose-herausforderung-oder-kein-ding/",
+      "xpath": "//a[normalize-space()='Nils Röttger']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 4_2",
+      "pageAddress": "/de/qualityheroes-podcast-folge-4-iot-testing-grose-herausforderung-oder-kein-ding/",
+      "xpath": "//a[normalize-space()='https://www.youtube.com/watch?v=yZn0r4ik0fI']",
+      "tabName": ["Leben im Smart Home und Internet der Dinge | extra 3 | NDR - YouTube"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 4_3",
+      "pageAddress": "/de/qualityheroes-podcast-folge-4-iot-testing-grose-herausforderung-oder-kein-ding/",
+      "xpath": "//a[normalize-space()='https://rfcx.org/']",
+      "tabName": ["Rainforest Connection | Home"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 4_4",
+      "pageAddress": "/de/qualityheroes-podcast-folge-4-iot-testing-grose-herausforderung-oder-kein-ding/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh004-iot-te')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH004 IoT Testing - große Herausforderung oder kein Ding? auf Apple Podcasts"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 4_5",
+      "pageAddress": "/de/qualityheroes-podcast-folge-4-iot-testing-grose-herausforderung-oder-kein-ding/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/1bbNAL3rqlUSxYIqD')]",
+      "tabName": ["QH004 IoT Testing - große Herausforderung oder kein Ding? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 4_6",
+      "pageAddress": "/de/qualityheroes-podcast-folge-4-iot-testing-grose-herausforderung-oder-kein-ding/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125349/qh004-iot')]",
+      "tabName": ["QH004 IoT Testing - große Herausforderung oder kein Ding? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 5_0",
+      "pageAddress": "/de/qualityheroes-podcast-folge-5-wie-kann-quality-from-the-beginning-in-agilen-projekten-erreicht-werden/",
+      "xpath": "//a[normalize-space()='Christian Brandes']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 5_1",
+      "pageAddress": "/de/qualityheroes-podcast-folge-5-wie-kann-quality-from-the-beginning-in-agilen-projekten-erreicht-werden/",
+      "xpath": "//a[normalize-space()='Alex Schladebeck']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 5_2",
+      "pageAddress": "/de/qualityheroes-podcast-folge-5-wie-kann-quality-from-the-beginning-in-agilen-projekten-erreicht-werden/",
+      "xpath": "//a[contains(text(),'https://janetgregory.ca/the-whole-team-approach-to')]",
+      "tabName": ["Agile Testing Courses - DragonFire Inc."],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 5_3",
+      "pageAddress": "/de/qualityheroes-podcast-folge-5-wie-kann-quality-from-the-beginning-in-agilen-projekten-erreicht-werden/",
+      "xpath": "//a[normalize-space()='https://www.architecture4testability.com/']",
+      "tabName": ["Architektur und Testbarkeit"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 5_4",
+      "pageAddress": "/de/qualityheroes-podcast-folge-5-wie-kann-quality-from-the-beginning-in-agilen-projekten-erreicht-werden/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh005-wie-ka')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH005 Wie kann „Quality From The Beginning“ in agilen Projekten erreicht werden? auf Apple Podcasts"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 5_5",
+      "pageAddress": "/de/qualityheroes-podcast-folge-5-wie-kann-quality-from-the-beginning-in-agilen-projekten-erreicht-werden/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/0CN42IrYcdJC2SRFv')]",
+      "tabName": ["QH005 Wie kann „Quality From The Beginning“ in agilen Projekten erreicht werden? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 5_6",
+      "pageAddress": "/de/qualityheroes-podcast-folge-5-wie-kann-quality-from-the-beginning-in-agilen-projekten-erreicht-werden/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125348/qh005-wie')]",
+      "tabName": ["QH005 Wie kann „Quality From The Beginning“ in agilen Projekten erreicht werden? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 6_0",
+      "pageAddress": "/de/qualityheroes-podcast-folge-6-testautomation-fur-mobile-apps-was-und-wie-automatisiere-ich-am-besten/",
+      "xpath": "//a[normalize-space()='Daniel']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 6_1",
+      "pageAddress": "/de/qualityheroes-podcast-folge-6-testautomation-fur-mobile-apps-was-und-wie-automatisiere-ich-am-besten/",
+      "xpath": "//a[normalize-space()='Ron']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 6_2",
+      "pageAddress": "/de/qualityheroes-podcast-folge-6-testautomation-fur-mobile-apps-was-und-wie-automatisiere-ich-am-besten/",
+      "xpath": "//a[contains(text(),'http://adventuresinqa.com/2015/10/19/mobile-test-p')]",
+      "tabName": ["Mobile Test Pyramid | Adventures in QA"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 6_3",
+      "pageAddress": "/de/qualityheroes-podcast-folge-6-testautomation-fur-mobile-apps-was-und-wie-automatisiere-ich-am-besten/",
+      "xpath": "//a[normalize-space()='https://github.com/xing/calabash-launcher']",
+      "tabName": ["xing/calabash-launcher: iOS Calabash Launcher is a macOS app that helps you run and manage Calabash tests on your Mac."],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 6_4",
+      "pageAddress": "/de/qualityheroes-podcast-folge-6-testautomation-fur-mobile-apps-was-und-wie-automatisiere-ich-am-besten/",
+      "xpath": "//a[contains(text(),'http://adventuresinqa.com/2016/06/06/build-android')]",
+      "tabName": ["How to Build Your Own Android Device Cloud - Adventures in QA"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 6_5",
+      "pageAddress": "/de/qualityheroes-podcast-folge-6-testautomation-fur-mobile-apps-was-und-wie-automatisiere-ich-am-besten/",
+      "xpath": "//a[contains(text(),'https://developer.android.com/studio/test/other-te')]",
+      "tabName": ["UI/Application Exerciser Monkey &nbsp;|&nbsp; Android Studio &nbsp;|&nbsp; Android Developers"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 6_6",
+      "pageAddress": "/de/qualityheroes-podcast-folge-6-testautomation-fur-mobile-apps-was-und-wie-automatisiere-ich-am-besten/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh006-testau')]",
+      "tabName": ["<title>UI/Application Exerciser Monkey &nbsp;|&nbsp; Android Studio &nbsp;|&nbsp; Android Developers</title>"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 6_6",
+      "pageAddress": "/de/qualityheroes-podcast-folge-6-testautomation-fur-mobile-apps-was-und-wie-automatisiere-ich-am-besten/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/7DiOgUO9TPmJFTD4f')]",
+      "tabName": ["<title>UI/Application Exerciser Monkey &nbsp;|&nbsp; Android Studio &nbsp;|&nbsp; Android Developers</title>"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 6_6",
+      "pageAddress": "/de/qualityheroes-podcast-folge-6-testautomation-fur-mobile-apps-was-und-wie-automatisiere-ich-am-besten/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125347/qh006-tes')]",
+      "tabName": ["<title>UI/Application Exerciser Monkey &nbsp;|&nbsp; Android Studio &nbsp;|&nbsp; Android Developers</title>"],
+      "PageOpenInNewTab": true
+    }
+  ]
+}
