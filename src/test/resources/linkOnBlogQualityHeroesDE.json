@@ -4,7 +4,7 @@
       "name": "Blog 1_0 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-ist-da-folge-1-wo-und-wie-konnen-testentwurfsmethoden-helfen/",
       "xpath": "//a[normalize-space()='Peter Hartauer']",
-      "tabName": ["(24) Peter Hartauer | LinkedIn", "Zaloguj się | LinkedIn"],
+      "tabName": ["(24) Peter Hartauer | LinkedIn", "Zaloguj się | LinkedIn","Peter Hartauer – Principal Test Consultant – QualityMinds GmbH | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -526,13 +526,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 9_2 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
-      "xpath": "//a[@href='https://qualityminds.com/de/portfolio/requirements-engineering/']",
-      "tabName": ["QualityMinds | Requirements Engineering Für Agile Teams"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 9_3 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
       "xpath": "//a[@href='https://qualityminds.com/de/portfolio/requirements-engineering/requirements-engineering-fur-agile-teams/']",
@@ -809,21 +802,21 @@
       "name": "Blog 14_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-14-wie-passen-nicht-funktionale-requirements-und-technische-stories-in-ein-agiles-backlog/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh014-wie-pa')]",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH014 Wie passen nicht-funktionale Requirements und technische Stories in ein agiles Backlog? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 14_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-14-wie-passen-nicht-funktionale-requirements-und-technische-stories-in-ein-agiles-backlog/",
       "xpath": "//a[contains(text(),'https://open.spotify.com/episode/0oXQ6bIwKvTLSCcIl')]",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["QH014 Wie passen nicht-funktionale Requirements und technische Stories in ein agiles Backlog? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 14_3 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-14-wie-passen-nicht-funktionale-requirements-und-technische-stories-in-ein-agiles-backlog/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125339/qh014-wie')]",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["QH014 Wie passen nicht-funktionale Requirements und technische Stories in ein agiles Backlog? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
       "PageOpenInNewTab": true
     },
     {
@@ -851,35 +844,35 @@
       "name": "Blog 15_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
       "xpath": "//a[normalize-space()='Katja']",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["Zaloguj się | LinkedIn","Katja Meyer | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 15_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
       "xpath": "//a[normalize-space()='Basti']",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["Zaloguj się | LinkedIn", "Bastian Baumgartner – Head of Testing – QualityMinds GmbH | LinkedIn","Bastian Baumgartner | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 15_3 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh015-der-te')]",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH015 Der TestMaster hebt ab - was gibt’s Neues? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 15_4 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
       "xpath": "//a[contains(text(),'https://open.spotify.com/episode/3AgYukKpvyOWCUKMx')]",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["QH015 Der TestMaster hebt ab - was gibt’s Neues? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 15_5 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125338/qh015-der')]",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["QH015 Der TestMaster hebt ab - was gibt’s Neues? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
       "PageOpenInNewTab": true
     },
     {
@@ -907,21 +900,21 @@
       "name": "Blog 16_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-16-sind-job-stories-eine-echte-alternative-zu-user-stories/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh016-zwisch')]",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH016 ZWISCHENFRAGE: Sind Job Stories eine echte Alternative zu User Stories? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 16_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-16-sind-job-stories-eine-echte-alternative-zu-user-stories/",
       "xpath": "//a[contains(text(),'https://open.spotify.com/episode/1K1Lmz4EOVqWN2Ywo')]",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["QH016 ZWISCHENFRAGE: Sind Job Stories eine echte Alternative zu User Stories? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 16_3 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-16-sind-job-stories-eine-echte-alternative-zu-user-stories/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125337/qh016-zwi')]",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["QH016 ZWISCHENFRAGE: Sind Job Stories eine echte Alternative zu User Stories? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
       "PageOpenInNewTab": true
     },
     {
@@ -935,7 +928,7 @@
       "name": "Blog 16_5 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-16-sind-job-stories-eine-echte-alternative-zu-user-stories/",
       "xpath": "//a[normalize-space()='http://www.whencoffeeandkalecompete.com']",
-      "tabName": ["When Coffee &amp; Kale Compete | Jobs to be Done Book — Revealed"],
+      "tabName": ["When Coffee & Kale Compete | Jobs to be Done Book — Revealed"],
       "PageOpenInNewTab": true
     },
     {
@@ -963,21 +956,21 @@
       "name": "Blog 17_3 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-17-wie-gelingt-ein-quereinstieg-ins-softwaretesten-am-besten/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh017-wie-ge')]",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH017 Wie gelingt ein Quereinstieg ins Softwaretesten am besten? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 17_4 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-17-wie-gelingt-ein-quereinstieg-ins-softwaretesten-am-besten/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh017-wie-ge')]",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH017 Wie gelingt ein Quereinstieg ins Softwaretesten am besten? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 17_5 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-17-wie-gelingt-ein-quereinstieg-ins-softwaretesten-am-besten/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125336/qh017-wie')]",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["QH017 Wie gelingt ein Quereinstieg ins Softwaretesten am besten? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
       "PageOpenInNewTab": true
     },
     {
@@ -1019,21 +1012,21 @@
       "name": "Blog 18_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-18-mit-welchen-daten-kann-man-eine-ki-testen-und-absichern/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh018-mit-we')]",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH018 Mit welchen Daten kann man eine KI testen und absichern? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 18_3 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-18-mit-welchen-daten-kann-man-eine-ki-testen-und-absichern/",
       "xpath": "//a[contains(text(),'https://open.spotify.com/episode/7oYM0x7czbled9Hmv')]",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["QH018 Mit welchen Daten kann man eine KI testen und absichern? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 18_4 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-18-mit-welchen-daten-kann-man-eine-ki-testen-und-absichern/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125335/qh018-mit')]",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["QH018 Mit welchen Daten kann man eine KI testen und absichern? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
       "PageOpenInNewTab": true
     },
     {
@@ -1070,7 +1063,519 @@
       "xpath": "//a[contains(text(),'https://de.wikipedia.org/wiki/Morphologische_Analy')]",
       "tabName": ["Morphologische Analyse (Kreativitätstechnik) – Wikipedia"],
       "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 19_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-19-zwischenfrage-akzeptanzkriterien-als-konkrete-beispiele-wie-geht-das-genau-2/",
+      "xpath": "//a[normalize-space()='Christian']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 19_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-19-zwischenfrage-akzeptanzkriterien-als-konkrete-beispiele-wie-geht-das-genau-2/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh019-zwisch')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH019 ZWISCHENFRAGE: Akzeptanzkriterien als konkrete Beispiele - wie geht das genau? auf Apple Podcasts"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 19_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-19-zwischenfrage-akzeptanzkriterien-als-konkrete-beispiele-wie-geht-das-genau-2/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/3VLk6lrkNZfLgH6by')]",
+      "tabName": ["QH019 ZWISCHENFRAGE: Akzeptanzkriterien als konkrete Beispiele - wie geht das genau? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 19_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-19-zwischenfrage-akzeptanzkriterien-als-konkrete-beispiele-wie-geht-das-genau-2/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125334/qh019-zwi')]",
+      "tabName": ["QH019 ZWISCHENFRAGE: Akzeptanzkriterien als konkrete Beispiele - wie geht das genau? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 19_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-19-zwischenfrage-akzeptanzkriterien-als-konkrete-beispiele-wie-geht-das-genau-2/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/portfolio/requirements')]",
+      "tabName": ["QualityMinds | Requirements Engineering Für Agile Teams"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 19_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-19-zwischenfrage-akzeptanzkriterien-als-konkrete-beispiele-wie-geht-das-genau-2/",
+      "xpath": "//a[normalize-space()='https://gojko.net/books/specification-by-example/']",
+      "tabName": ["Specification by Example"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 19_6 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-19-zwischenfrage-akzeptanzkriterien-als-konkrete-beispiele-wie-geht-das-genau-2/",
+      "xpath": "//a[normalize-space()='https://youtu.be/-K3t7mAitkQ']",
+      "tabName": ["FG-Treffen \"Agiles Requirements Engineering und seine Auswirkungen auf das Testen” - YouTube"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 19_6 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-19-zwischenfrage-akzeptanzkriterien-als-konkrete-beispiele-wie-geht-das-genau-2/",
+      "xpath": "//a[normalize-space()='https://www.architecture4testability.com']",
+      "tabName": ["Architektur und Testbarkeit"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 20_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-20-was-ist-ein-risk-storming-workshop-und-wie-kann-er-einem-projektteam-helfen-2/",
+      "xpath": "//a[normalize-space()='Peter Hartauer']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 20_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-20-was-ist-ein-risk-storming-workshop-und-wie-kann-er-einem-projektteam-helfen-2/",
+      "xpath": "//a[normalize-space()='RiskStorming']",
+      "tabName": ["Risk-storming"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 20_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-20-was-ist-ein-risk-storming-workshop-und-wie-kann-er-einem-projektteam-helfen-2/",
+      "xpath": "//a[normalize-space()='https://qualityminds.com/de/meet-the-tester-peter/']",
+      "tabName": ["Meet the Tester: Peter | QualityMinds"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 20_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-20-was-ist-ein-risk-storming-workshop-und-wie-kann-er-einem-projektteam-helfen-2/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/lets-test-risk-stormin')]",
+      "tabName": ["Let's Test: Risk Storming | QualityMinds"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 20_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-20-was-ist-ein-risk-storming-workshop-und-wie-kann-er-einem-projektteam-helfen-2/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh020-was-is')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH020 Was ist ein Risk-Storming-Workshop und wie kann er einem Projektteam helfen? auf Apple Podcasts"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 20_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-20-was-ist-ein-risk-storming-workshop-und-wie-kann-er-einem-projektteam-helfen-2/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/2vfvY8UvcqKQx7FFU')]",
+      "tabName": ["QH020 Was ist ein Risk-Storming-Workshop und wie kann er einem Projektteam helfen? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 20_6 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-20-was-ist-ein-risk-storming-workshop-und-wie-kann-er-einem-projektteam-helfen-2/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125333/qh020-was')]",
+      "tabName": ["QH020 Was ist ein Risk-Storming-Workshop und wie kann er einem Projektteam helfen? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 21_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-21-wie-funktioniert-eine-find-the-bug-session-2/",
+      "xpath": "//a[normalize-space()='Christian']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 21_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-21-wie-funktioniert-eine-find-the-bug-session-2/",
+      "xpath": "//a[normalize-space()='Basti']",
+      "tabName": ["Zaloguj się | LinkedIn","Bastian Baumgartner – Head of Testing – QualityMinds GmbH | LinkedIn", "Bastian Baumgartner | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 21_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-21-wie-funktioniert-eine-find-the-bug-session-2/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh021-wie-fu')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH021 Wie funktioniert eine Find-The-Bug-Session? auf Apple Podcasts"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 21_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-21-wie-funktioniert-eine-find-the-bug-session-2/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/6lXIhjxmiqhfcS1z2')]",
+      "tabName": ["QH021 Wie funktioniert eine Find-The-Bug-Session? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 21_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-21-wie-funktioniert-eine-find-the-bug-session-2/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125332/qh021-wie')]",
+      "tabName": ["QH021 Wie funktioniert eine Find-The-Bug-Session? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 21_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-21-wie-funktioniert-eine-find-the-bug-session-2/",
+      "xpath": "//a[normalize-space()='https://qualityminds.com/de/find-the-bug-retro/']",
+      "tabName": ["Find-the-Bug Retro | QualityMinds"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 22_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-22-testbarkeit-von-requirements-was-ist-das-genau-2/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh022-zwisch')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH022 ZWISCHENFRAGE: Testbarkeit von Requirements - was ist das genau? auf Apple Podcasts"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 22_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-22-testbarkeit-von-requirements-was-ist-das-genau-2/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/2HQK76UEDjN96Kl95')]",
+      "tabName": ["QH022 ZWISCHENFRAGE: Testbarkeit von Requirements - was ist das genau? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 22_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-22-testbarkeit-von-requirements-was-ist-das-genau-2/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125331/qh022-zwi')]",
+      "tabName": ["QH022 ZWISCHENFRAGE: Testbarkeit von Requirements - was ist das genau? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 22_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-22-testbarkeit-von-requirements-was-ist-das-genau-2/",
+      "xpath": "//a[normalize-space()='https://www.architecture4testability.com']",
+      "tabName": ["Architektur und Testbarkeit"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 22_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-22-testbarkeit-von-requirements-was-ist-das-genau-2/",
+      "xpath": "(//a[contains(text(),'https://qualityminds.com/de/qualityheroes-podcast-')])[1]",
+      "tabName": ["QualityHeroes Podcast Folge 19: ZWISCHENFRAGE: Akzeptanzkriterien als konkrete Beispiele – wie geht das genau? | QualityMinds"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 22_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-22-testbarkeit-von-requirements-was-ist-das-genau-2/",
+      "xpath": "(//a[contains(text(),'https://qualityminds.com/de/qualityheroes-podcast-')])[2]",
+      "tabName": ["QualityHeroes Podcast Folge 9: Agiles Requirements Engineering – wie geht das? | QualityMinds"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 23_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-23-wo-und-wie-konnen-storymaps-agilen-teams-helfen/",
+      "xpath": "//a[normalize-space()='Eva']",
+      "tabName": ["Zaloguj się | LinkedIn", "Eva Dirr-Bubik - Bavaria, Niemcy | Profil zawodowy | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 23_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-23-wo-und-wie-konnen-storymaps-agilen-teams-helfen/",
+      "xpath": "//a[normalize-space()='Manuel']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 23_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-23-wo-und-wie-konnen-storymaps-agilen-teams-helfen/",
+      "xpath": "//a[normalize-space()='Christian']",
+      "tabName": ["Zaloguj się | LinkedIn","Dr. Christian Brandes – Lehrbeauftragter Informatik – Technische Hochschule Nürnberg Georg Simon Ohm | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 23_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-23-wo-und-wie-konnen-storymaps-agilen-teams-helfen/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh023-wo-und')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH023 Wo und wie können StoryMaps agilen Teams helfen? auf Apple Podcasts"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 23_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-23-wo-und-wie-konnen-storymaps-agilen-teams-helfen/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/1w5YREuT2nYRlXU3q')]",
+      "tabName": ["QH023 Wo und wie können StoryMaps agilen Teams helfen? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 23_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-23-wo-und-wie-konnen-storymaps-agilen-teams-helfen/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125330/qh023-wo-')]",
+      "tabName": ["QH023 Wo und wie können StoryMaps agilen Teams helfen? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 23_6 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-23-wo-und-wie-konnen-storymaps-agilen-teams-helfen/",
+      "xpath": "//a[contains(text(),'https://t2informatik.de/blog/prozesse-methoden/boo')]",
+      "tabName": ["Boost your Backlog - Teil 1- Blog - t2informatik"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 23_7 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-23-wo-und-wie-konnen-storymaps-agilen-teams-helfen/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/qualitylearning-als-we')]",
+      "tabName": ["QualityLearning als Wegbegleiter auf dem Weg zum agilen Lehr-Lernsetting | QualityMinds"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 23_8 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-23-wo-und-wie-konnen-storymaps-agilen-teams-helfen/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/quality-learning/weite')]",
+      "tabName": ["QualityMinds | Agile Lehr-Lernsettings mit Lehrstorys gestalten"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 23_9 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-23-wo-und-wie-konnen-storymaps-agilen-teams-helfen/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/qualityheroes-podcast-')]",
+      "tabName": ["QualityHeroes Podcast Folge 9: Agiles Requirements Engineering – wie geht das? | QualityMinds"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 24_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-24-was-sind-communities-of-practice-und-welchen-beitrag-konnen-sie-zur-softwarequalitat-leisten/",
+      "xpath": "//a[normalize-space()='Adina']",
+      "tabName": ["Zaloguj się | LinkedIn", "Meet the Tester: Adina | QualityMinds"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 24_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-24-was-sind-communities-of-practice-und-welchen-beitrag-konnen-sie-zur-softwarequalitat-leisten/",
+      "xpath": "//a[normalize-space()='Manuel']",
+      "tabName": ["Zaloguj się | LinkedIn","Manuel Illi – Learning Consultant – QualityMinds GmbH | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 24_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-24-was-sind-communities-of-practice-und-welchen-beitrag-konnen-sie-zur-softwarequalitat-leisten/",
+      "xpath": "//a[normalize-space()='Christian']",
+      "tabName": ["Zaloguj się | LinkedIn","Dr. Christian Brandes – Lehrbeauftragter Informatik – Technische Hochschule Nürnberg Georg Simon Ohm | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 24_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-24-was-sind-communities-of-practice-und-welchen-beitrag-konnen-sie-zur-softwarequalitat-leisten/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh024-was-si')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH024 Was sind Communities of Practice und welchen Beitrag können sie zur Softwarequalität leisten? auf Apple Podcasts"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 24_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-24-was-sind-communities-of-practice-und-welchen-beitrag-konnen-sie-zur-softwarequalitat-leisten/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/3dmsKrJTzX6IS32z8')]",
+      "tabName": ["QH024 Was sind Communities of Practice und welchen Beitrag können sie zur Softwarequalität leisten? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 24_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-24-was-sind-communities-of-practice-und-welchen-beitrag-konnen-sie-zur-softwarequalitat-leisten/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125329/qh024-was')]",
+      "tabName": ["QH024 Was sind Communities of Practice und welchen Beitrag können sie zur Softwarequalität leisten? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 24_6 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-24-was-sind-communities-of-practice-und-welchen-beitrag-konnen-sie-zur-softwarequalitat-leisten/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/qm-portfolio/quality-l')]",
+      "tabName": ["Community of Practice Workshop: TOP 5 Lernziele"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 25_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-25-was-versteht-man-unter-der-produktionsnahe-einer-testumgebung/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh025-zwisch')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH025 ZWISCHENFRAGE: Was versteht man unter der Produktionsnähe einer Testumgebung? auf Apple Podcasts"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 25_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-25-was-versteht-man-unter-der-produktionsnahe-einer-testumgebung/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/7sOHr3EzxXRLV2YzX')]",
+      "tabName": ["QH025 ZWISCHENFRAGE: Was versteht man unter der Produktionsnähe einer Testumgebung? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 25_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-25-was-versteht-man-unter-der-produktionsnahe-einer-testumgebung/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125328/qh025-zwi')]",
+      "tabName": ["QH025 ZWISCHENFRAGE: Was versteht man unter der Produktionsnähe einer Testumgebung? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 26_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-26-was-bedeutet-qualitat-als-wert-fur-teams-und-unternehmen/",
+      "xpath": "//a[contains(text(),'„der große Basti“')]",
+      "tabName": ["Zaloguj się | LinkedIn", "Bastian Knerr – Teamlead Testing - Software Test Consultant – QualityMinds GmbH | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 26_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-26-was-bedeutet-qualitat-als-wert-fur-teams-und-unternehmen/",
+      "xpath": "//a[normalize-space()='Christian']",
+      "tabName": ["Zaloguj się | LinkedIn", "Dr. Christian Brandes – Lehrbeauftragter Informatik – Technische Hochschule Nürnberg Georg Simon Ohm | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 26_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-26-was-bedeutet-qualitat-als-wert-fur-teams-und-unternehmen/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh026-was-be')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH026 Was bedeutet Qualität als Wert für Teams und Unternehmen? auf Apple Podcasts"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 26_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-26-was-bedeutet-qualitat-als-wert-fur-teams-und-unternehmen/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/3DAqJEdjDmMeeTOst')]",
+      "tabName": ["QH026 Was bedeutet Qualität als Wert für Teams und Unternehmen? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 26_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-26-was-bedeutet-qualitat-als-wert-fur-teams-und-unternehmen/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125327/qh026-was')]",
+      "tabName": ["QH026 Was bedeutet Qualität als Wert für Teams und Unternehmen? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 26_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-26-was-bedeutet-qualitat-als-wert-fur-teams-und-unternehmen/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/qualityheroes-podcast-')]",
+      "tabName": ["QualityHeroes Podcast Folge 5: Wie kann „Quality From The Beginning“ in agilen Projekten erreicht werden? | QualityMinds"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 27_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-27-wie-kann-ich-mit-geringem-aufwand-mein-testvorgehen-spuerbar-verbessern/",
+      "xpath": "//a[normalize-space()='Peter Hartauer']",
+      "tabName": ["Zaloguj się | LinkedIn", "Peter Hartauer – Principal Test Consultant – QualityMinds GmbH | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 27_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-27-wie-kann-ich-mit-geringem-aufwand-mein-testvorgehen-spuerbar-verbessern/",
+      "xpath": "//a[normalize-space()='Basti Baumgartner']",
+      "tabName": ["Zaloguj się | LinkedIn" ,"Bastian Baumgartner | LinkedIn","Bastian Baumgartner – Head of Testing – QualityMinds GmbH | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 27_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-27-wie-kann-ich-mit-geringem-aufwand-mein-testvorgehen-spuerbar-verbessern/",
+      "xpath": "//a[normalize-space()='Christian Brandes']",
+      "tabName": ["Zaloguj się | LinkedIn", "Dr. Christian Brandes – Lehrbeauftragter Informatik – Technische Hochschule Nürnberg Georg Simon Ohm | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 27_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-27-wie-kann-ich-mit-geringem-aufwand-mein-testvorgehen-spuerbar-verbessern/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh027-wie-ka')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH027 Wie kann ich mit geringem Aufwand mein Testvorgehen spürbar verbessern? auf Apple Podcasts"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 27_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-27-wie-kann-ich-mit-geringem-aufwand-mein-testvorgehen-spuerbar-verbessern/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/4EYtutTUFHiEFYMHD')]",
+      "tabName": ["QH027 Wie kann ich mit geringem Aufwand mein Testvorgehen spürbar verbessern? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 27_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-27-wie-kann-ich-mit-geringem-aufwand-mein-testvorgehen-spuerbar-verbessern/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125326/qh027-wie')]",
+      "tabName": ["QH027 Wie kann ich mit geringem Aufwand mein Testvorgehen spürbar verbessern? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 27_6 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-27-wie-kann-ich-mit-geringem-aufwand-mein-testvorgehen-spuerbar-verbessern/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/portfolio/qa-kernkompe')]",
+      "tabName": ["QualityMinds | Testmanagement"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 27_7 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-27-wie-kann-ich-mit-geringem-aufwand-mein-testvorgehen-spuerbar-verbessern/",
+      "xpath": "//a[normalize-space()='https://riskstormingonline.com']",
+      "tabName": ["RiskStorming Online | A Quality Strategy Created Together"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 27_8 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-27-wie-kann-ich-mit-geringem-aufwand-mein-testvorgehen-spuerbar-verbessern/",
+      "xpath": "//a[contains(text(),'https://www.agilealliance.org/glossary/three-amigo')]",
+      "tabName": ["What are the Three Amigos in Agile? | Agile Alliance"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 27_9 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-27-wie-kann-ich-mit-geringem-aufwand-mein-testvorgehen-spuerbar-verbessern/",
+      "xpath": "//a[contains(text(),'https://produkt-manager.net/2011/exploratory-testi')]",
+      "tabName": ["Exploratory Testing - Weitere Testtouren | Der Produktmanager"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 28_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-28-what-is-machine-learning-and-why-should-we-have-a-closer-look-at-it/",
+      "xpath": "//a[normalize-space()='Namrata']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 28_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-28-what-is-machine-learning-and-why-should-we-have-a-closer-look-at-it/",
+      "xpath": "//a[normalize-space()='here']",
+      "tabName": ["Meet the Dev: Namrata | QualityMinds"],
+      "PageOpenInNewTab": false
+    },
+    {
+      "name": "Blog 28_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-28-what-is-machine-learning-and-why-should-we-have-a-closer-look-at-it/",
+      "xpath": "//a[normalize-space()='https://buff.ly/3JQJcFR']",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH028 What is Machine Learning and why should we have a closer look at it? on Apple Podcasts"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 28_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-28-what-is-machine-learning-and-why-should-we-have-a-closer-look-at-it/",
+      "xpath": "//a[normalize-space()='https://buff.ly/3hasB3O']",
+      "tabName": ["QH028 What is Machine Learning and why should we have a closer look at it? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 28_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-28-what-is-machine-learning-and-why-should-we-have-a-closer-look-at-it/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125325/qh028-wha')]",
+      "tabName": ["QH028 What is Machine Learning and why should we have a closer look at it? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 28_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-28-what-is-machine-learning-and-why-should-we-have-a-closer-look-at-it/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/portfolio/kuenstliche-')]",
+      "tabName": ["QualityMinds | Künstliche Intelligenz"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 28_6 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-28-what-is-machine-learning-and-why-should-we-have-a-closer-look-at-it/",
+      "xpath": "//a[normalize-space()='https://towardsdatascience.com/']",
+      "tabName": ["Towards Data Science"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 28_7 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-28-what-is-machine-learning-and-why-should-we-have-a-closer-look-at-it/",
+      "xpath": "//a[normalize-space()='https://www.kdnuggets.com/']",
+      "tabName": ["Data Science, Machine Learning, AI & Analytics - KDnuggets"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 28_8 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-28-what-is-machine-learning-and-why-should-we-have-a-closer-look-at-it/",
+      "xpath": "//a[normalize-space()='https://www.uber.com/us/en/uberai/']",
+      "tabName": ["Uber AI Home | Uber AI"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 28_9 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-28-what-is-machine-learning-and-why-should-we-have-a-closer-look-at-it/",
+      "xpath": "//a[normalize-space()='https://ai.googleblog.com/']",
+      "tabName": ["Google Research Blog"],
+      "PageOpenInNewTab": true
     }
+
 
   ]
 }
