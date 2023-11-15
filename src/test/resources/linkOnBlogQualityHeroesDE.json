@@ -494,21 +494,21 @@
       "name": "Blog 8_5 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-8-agiles-lernen-was-ist-das-nun-schon-wieder/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh008-agiles')]",
-      "tabName": ["RSA ANIMATE: Drive: The surprising truth about what motivates us - YouTube"],
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH008 Agiles Lernen - was ist das nun schon wieder? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 8_6 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-8-agiles-lernen-was-ist-das-nun-schon-wieder/",
       "xpath": "//a[contains(text(),'https://open.spotify.com/episode/5knbwNYyFCJHKYtXR')]",
-      "tabName": ["RSA ANIMATE: Drive: The surprising truth about what motivates us - YouTube"],
+      "tabName": ["QH008 Agiles Lernen - was ist das nun schon wieder? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 8_7 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-8-agiles-lernen-was-ist-das-nun-schon-wieder/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125345/qh008-agi')]",
-      "tabName": ["RSA ANIMATE: Drive: The surprising truth about what motivates us - YouTube"],
+      "tabName": ["QH008 Agiles Lernen - was ist das nun schon wieder? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
       "PageOpenInNewTab": true
     },
     {
@@ -550,21 +550,21 @@
       "name": "Blog 9_5 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh009-agiles')]",
-      "tabName": ["Essential XP: Card, Conversation, Confirmation"],
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH009 Agiles Requirements Engineering - wie geht das? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 9_6 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
       "xpath": "//a[contains(text(),'https://open.spotify.com/episode/0MTAu6GzGSHih2MGF')]",
-      "tabName": ["Essential XP: Card, Conversation, Confirmation"],
+      "tabName": ["QH009 Agiles Requirements Engineering - wie geht das? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 9_7 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125344/qh009-agi')]",
-      "tabName": ["Essential XP: Card, Conversation, Confirmation"],
+      "tabName": ["QH009 Agiles Requirements Engineering - wie geht das? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
       "PageOpenInNewTab": true
     },
     {
@@ -598,15 +598,15 @@
     {
       "name": "Blog 10_4 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-10-wie-werde-ich-zum-experten-zur-expertin/",
-      "xpath": "//a[contains(text(),'https://de.wikipedia.org/wiki/Der_Schockwellenreit')]",
-      "tabName": ["Der Schockwellenreiter – Wikipedia"],
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh010-wie-we')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH010 Wie werde ich zum Experten/zur Expertin? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 10_5 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-10-wie-werde-ich-zum-experten-zur-expertin/",
-      "xpath": "//a[contains(text(),'https://de.wikipedia.org/wiki/Der_Schockwellenreit')]",
-      "tabName": ["Der Schockwellenreiter – Wikipedia"],
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/6XHHEktEirMwWtkFT')]",
+      "tabName": ["QH010 Wie werde ich zum Experten/zur Expertin? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
       "PageOpenInNewTab": true
     },
     {
@@ -655,21 +655,21 @@
       "name": "Blog 11_5 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-11-wie-werde-ich-zum-agilen-lerncoach/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh011-wie-we')]",
-      "tabName": ["QualityMinds | Lern doch, was Du willst!"],
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH011 Wie werde ich zum agilen Lerncoach? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 11_6 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-11-wie-werde-ich-zum-agilen-lerncoach/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh011-wie-we')]",
-      "tabName": ["QualityMinds | Lern doch, was Du willst!"],
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH011 Wie werde ich zum agilen Lerncoach? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 11_7 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-11-wie-werde-ich-zum-agilen-lerncoach/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125342/qh011-wie')]",
-      "tabName": ["QualityMinds | Lern doch, was Du willst!"],
+      "tabName": ["QH011 Wie werde ich zum agilen Lerncoach? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
       "PageOpenInNewTab": true
     },
     {
@@ -683,7 +683,7 @@
       "name": "Blog 12_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-12-wie-sieht-die-rolle-des-agilen-testmasters-aus/",
       "xpath": "//a[normalize-space()='Bastian Baumgartner']",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["Zaloguj się | LinkedIn", "Bastian Baumgartner | LinkedIn","Bastian Baumgartner – Head of Testing – QualityMinds GmbH | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -697,28 +697,28 @@
       "name": "Blog 12_3 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-12-wie-sieht-die-rolle-des-agilen-testmasters-aus/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh012-wie-si')]",
-      "tabName": ["QualityMinds | TestMaster"],
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH012 Wie sieht die Rolle des agilen TestMasters aus? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 12_4 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-12-wie-sieht-die-rolle-des-agilen-testmasters-aus/",
       "xpath": "//a[contains(text(),'https://open.spotify.com/episode/1YFxAYaIZlxZX5BLo')]",
-      "tabName": ["QualityMinds | TestMaster"],
+      "tabName": ["QH012 Wie sieht die Rolle des agilen TestMasters aus? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 12_5 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-12-wie-sieht-die-rolle-des-agilen-testmasters-aus/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125341/qh012-wie')]",
-      "tabName": ["QualityMinds | TestMaster"],
+      "tabName": ["QH012 Wie sieht die Rolle des agilen TestMasters aus? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 13_0 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
       "xpath": "//a[normalize-space()='Vera Baum']",
-      "tabName": ["Zaloguj się | LinkedIn"],
+      "tabName": ["Zaloguj się | LinkedIn" ,"Vera Baum – Geschäftsführerin – QualityMinds GmbH | LinkedIn","Vera Baum | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -746,7 +746,7 @@
       "name": "Blog 13_4 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
       "xpath": "//a[normalize-space()='https://groupmap.com']",
-      "tabName": ["GroupMap | Collaborative Brainstorming &amp; Group Decision-Making"],
+      "tabName": ["GroupMap | Collaborative Brainstorming & Group Decision-Making"],
       "PageOpenInNewTab": true
     },
     {
@@ -781,21 +781,294 @@
       "name": "Blog 13_9 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh013-agiles')]",
-      "tabName": ["Language Learning with Netflix"],
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH013 Agiles Lernen im HomeOffice - geht das? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 13_10 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
       "xpath": "//a[contains(text(),'https://open.spotify.com/episode/2pfdjt3cJmneo5vTc')]",
-      "tabName": ["Language Learning with Netflix"],
+      "tabName": ["QH013 Agiles Lernen im HomeOffice - geht das? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 13_11 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125340/qh013-agi')]",
-      "tabName": ["Language Learning with Netflix"],
+      "tabName": ["QH013 Agiles Lernen im HomeOffice - geht das? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 14_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-14-wie-passen-nicht-funktionale-requirements-und-technische-stories-in-ein-agiles-backlog/",
+      "xpath": "//a[normalize-space()='Christian']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 14_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-14-wie-passen-nicht-funktionale-requirements-und-technische-stories-in-ein-agiles-backlog/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh014-wie-pa')]",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 14_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-14-wie-passen-nicht-funktionale-requirements-und-technische-stories-in-ein-agiles-backlog/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/0oXQ6bIwKvTLSCcIl')]",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 14_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-14-wie-passen-nicht-funktionale-requirements-und-technische-stories-in-ein-agiles-backlog/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125339/qh014-wie')]",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 14_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-14-wie-passen-nicht-funktionale-requirements-und-technische-stories-in-ein-agiles-backlog/",
+      "xpath": "//a[contains(text(),'https://www.extremeuncertainty.com/why-technical-u')]",
+      "tabName": ["Why technical user stories are bad | Extreme Uncertainty"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 14_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-14-wie-passen-nicht-funktionale-requirements-und-technische-stories-in-ein-agiles-backlog/",
+      "xpath": "//a[contains(text(),'https://ronjeffries.com/xprog/articles/technical-s')]",
+      "tabName": ["Technical Stories: We don't need 'em."],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 15_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
+      "xpath": "//a[normalize-space()='Christian']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 15_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
+      "xpath": "//a[normalize-space()='Katja']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 15_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
+      "xpath": "//a[normalize-space()='Basti']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 15_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh015-der-te')]",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 15_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/3AgYukKpvyOWCUKMx')]",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 15_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125338/qh015-der')]",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 15_6 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/portfolio/spezialisier')]",
+      "tabName": ["QualityMinds | TestMaster"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 15_7 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/qualityheroes-podcast-')]",
+      "tabName": ["QualityHeroes Podcast Folge 12: Wie sieht die Rolle des agilen TestMasters aus? | QualityMinds"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 16_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-16-sind-job-stories-eine-echte-alternative-zu-user-stories/",
+      "xpath": "//a[normalize-space()='Christian Brandes']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 16_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-16-sind-job-stories-eine-echte-alternative-zu-user-stories/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh016-zwisch')]",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 16_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-16-sind-job-stories-eine-echte-alternative-zu-user-stories/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/1K1Lmz4EOVqWN2Ywo')]",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 16_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-16-sind-job-stories-eine-echte-alternative-zu-user-stories/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125337/qh016-zwi')]",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 16_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-16-sind-job-stories-eine-echte-alternative-zu-user-stories/",
+      "xpath": "//a[contains(text(),'https://www.mountaingoatsoftware.com/blog/job-stor')]",
+      "tabName": ["Job Stories: A Viable Alternative to User Stories"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 16_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-16-sind-job-stories-eine-echte-alternative-zu-user-stories/",
+      "xpath": "//a[normalize-space()='http://www.whencoffeeandkalecompete.com']",
+      "tabName": ["When Coffee &amp; Kale Compete | Jobs to be Done Book — Revealed"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 17_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-17-wie-gelingt-ein-quereinstieg-ins-softwaretesten-am-besten/",
+      "xpath": "//a[normalize-space()='Christian']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 17_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-17-wie-gelingt-ein-quereinstieg-ins-softwaretesten-am-besten/",
+      "xpath": "//a[normalize-space()='Yasemin']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 17_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-17-wie-gelingt-ein-quereinstieg-ins-softwaretesten-am-besten/",
+      "xpath": "//a[normalize-space()='Adina']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 17_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-17-wie-gelingt-ein-quereinstieg-ins-softwaretesten-am-besten/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh017-wie-ge')]",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 17_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-17-wie-gelingt-ein-quereinstieg-ins-softwaretesten-am-besten/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh017-wie-ge')]",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 17_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-17-wie-gelingt-ein-quereinstieg-ins-softwaretesten-am-besten/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125336/qh017-wie')]",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 17_6 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-17-wie-gelingt-ein-quereinstieg-ins-softwaretesten-am-besten/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/testing-for-non-tester')]",
+      "tabName": ["Testing for non-testers: Ein Quereinstieg mit Plan | QualityMinds"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 17_7 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-17-wie-gelingt-ein-quereinstieg-ins-softwaretesten-am-besten/",
+      "xpath": "//a[normalize-space()='https://womenintesting.slack.com']",
+      "tabName": ["Slack"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 17_8 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-17-wie-gelingt-ein-quereinstieg-ins-softwaretesten-am-besten/",
+      "xpath": "//a[normalize-space()='https://testautomationu.applitools.com/']",
+      "tabName": ["Test Automation University | Applitools"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 18_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-18-mit-welchen-daten-kann-man-eine-ki-testen-und-absichern/",
+      "xpath": "//a[normalize-space()='Christian']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 18_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-18-mit-welchen-daten-kann-man-eine-ki-testen-und-absichern/",
+      "xpath": "//a[normalize-space()='Bettina']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 18_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-18-mit-welchen-daten-kann-man-eine-ki-testen-und-absichern/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh018-mit-we')]",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 18_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-18-mit-welchen-daten-kann-man-eine-ki-testen-und-absichern/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/7oYM0x7czbled9Hmv')]",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 18_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-18-mit-welchen-daten-kann-man-eine-ki-testen-und-absichern/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125335/qh018-mit')]",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 18_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-18-mit-welchen-daten-kann-man-eine-ki-testen-und-absichern/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/portfolio/kuenstliche-')]",
+      "tabName": ["QualityMinds | Künstliche Intelligenz"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 18_6 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-18-mit-welchen-daten-kann-man-eine-ki-testen-und-absichern/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/qualitatssicherung-von')]",
+      "tabName": ["Qualitätssicherung von KI – Die Gefahren lauern vor allem hinter den Ecken | QualityMinds"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 18_7 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-18-mit-welchen-daten-kann-man-eine-ki-testen-und-absichern/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/abschluss-des-projekte')]",
+      "tabName": ["Abschluss des Projektes: KI-Absicherung – Sicherheitsargumentation für autonomes Fahren in Berlin | QualityMinds"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 18_8 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-18-mit-welchen-daten-kann-man-eine-ki-testen-und-absichern/",
+      "xpath": "//a[contains(text(),'https://derletztefuehrerscheinneuling.com/2020/01/')]",
+      "tabName": ["Waymo erreicht 32 Millionen Kilometer (20 Mio Meilen) Meilenstein – Der letzte Führerscheinneuling…"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 18_9 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-18-mit-welchen-daten-kann-man-eine-ki-testen-und-absichern/",
+      "xpath": "//a[contains(text(),'https://de.wikipedia.org/wiki/Morphologische_Analy')]",
+      "tabName": ["Morphologische Analyse (Kreativitätstechnik) – Wikipedia"],
       "PageOpenInNewTab": true
     }
 
