@@ -654,34 +654,49 @@
           "tabName": "Eine Dosis UX für den Produkterfolg: Highlights aus unserer Anwendungspraxis | QualityMinds"
         },
         {
-          "name": "Blog 1",
+          "name": "Blog 1 Quality Heroes",
           "url":  "/de/qualityheroes-podcast-ist-da-folge-1-wo-und-wie-konnen-testentwurfsmethoden-helfen/",
           "tabName": "QualityHeroes Podcast ist da! – Folge 1: Wo und wie können Testentwurfsmethoden helfen? | QualityMinds"
         },
         {
-          "name": "Blog 2",
+          "name": "Blog 2 Quality Heroes",
           "url":  "/de/qualityheroes-podcast-folge-2-wie-starte-ich-als-einsteiger-im-mobile-testing-durch/",
           "tabName": "QualityHeroes Podcast Folge 2: Wie starte ich als Einsteiger im Mobile Testing durch? | QualityMinds"
         },
         {
-          "name": "Blog 3",
+          "name": "Blog 3 Quality Heroes",
           "url":  "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
           "tabName": "QualityHeroes Podcast Folge 3: Welche Spielarten im Mobile Testing gibt es? | QualityMinds"
         },
         {
-          "name": "Blog 4",
+          "name": "Blog 4 Quality Heroes",
           "url":  "/de/qualityheroes-podcast-folge-4-iot-testing-grose-herausforderung-oder-kein-ding/",
           "tabName": "QualityHeroes Podcast Folge 4: IoT Testing – große Herausforderung oder kein Ding? | QualityMinds"
         },
         {
-          "name": "Blog 5",
+          "name": "Blog 5 Quality Heroes",
           "url":  "/de/qualityheroes-podcast-folge-5-wie-kann-quality-from-the-beginning-in-agilen-projekten-erreicht-werden/",
           "tabName": "QualityHeroes Podcast Folge 5: Wie kann „Quality From The Beginning“ in agilen Projekten erreicht werden? | QualityMinds"
         },
         {
-          "name": "Blog 6",
+          "name": "Blog 6 Quality Heroes",
           "url":  "/de/qualityheroes-podcast-folge-6-testautomation-fur-mobile-apps-was-und-wie-automatisiere-ich-am-besten/",
           "tabName": "QualityHeroes Podcast Folge 6: Testautomation für Mobile Apps – was und wie automatisiere ich am besten? | QualityMinds"
+        },
+        {
+          "name": "Blog 7 Quality Heroes",
+          "url":  "/de/qualityheroes-podcast-folge-7-app-development-wie-funktionieren-continuous-delivery-pipelines/",
+          "tabName": "QualityHeroes Podcast Folge 7: App Development – wie funktionieren Continuous Delivery Pipelines? | QualityMinds"
+        },
+        {
+          "name": "Blog 8 Quality Heroes",
+          "url":  "/de/qualityheroes-podcast-folge-8-agiles-lernen-was-ist-das-nun-schon-wieder/",
+          "tabName": "QualityHeroes Podcast Folge 8: Agiles Lernen – was ist das nun schon wieder? | QualityMinds"
+        },
+        {
+          "name": "Blog 9 Quality Heroes",
+          "url":  "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
+          "tabName": "QualityHeroes Podcast Folge 9: Agiles Requirements Engineering – wie geht das? | QualityMinds"
         }
 
 
