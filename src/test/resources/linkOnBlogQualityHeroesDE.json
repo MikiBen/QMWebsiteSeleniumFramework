@@ -713,6 +713,90 @@
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125341/qh012-wie')]",
       "tabName": ["QualityMinds | TestMaster"],
       "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 13_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
+      "xpath": "//a[normalize-space()='Vera Baum']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 13_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
+      "xpath": "//a[normalize-space()='Manuel Illi']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 13_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
+      "xpath": "//a[normalize-space()='https://qualityminds.com/de/quality-learning/']",
+      "tabName": ["QualityMinds | QUALITYLEARNING"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 13_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
+      "xpath": "//a[normalize-space()='https://mural.co/']",
+      "tabName": ["Work better together with Mural's visual work platform | Mural"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 13_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
+      "xpath": "//a[normalize-space()='https://groupmap.com']",
+      "tabName": ["GroupMap | Collaborative Brainstorming &amp; Group Decision-Making"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 13_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
+      "xpath": "//a[normalize-space()='https://funretro.io/']",
+      "tabName": ["EasyRetro former FunRetro | Improve your team with fun sprint retrospectives"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 13_6 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
+      "xpath": "//a[normalize-space()='https://app.retrium.com/']",
+      "tabName": ["Retrium"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 13_7 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
+      "xpath": "//a[normalize-space()='https://www.webwhiteboard.com/']",
+      "tabName": ["Whiteboard for Online Collaboration | Web Whiteboard"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 13_8 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
+      "xpath": "//a[normalize-space()='https://languagelearningwithnetflix.com/']",
+      "tabName": ["Language Learning with Netflix"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 13_9 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh013-agiles')]",
+      "tabName": ["Language Learning with Netflix"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 13_10 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/2pfdjt3cJmneo5vTc')]",
+      "tabName": ["Language Learning with Netflix"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 13_11 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125340/qh013-agi')]",
+      "tabName": ["Language Learning with Netflix"],
+      "PageOpenInNewTab": true
     }
 
   ]
