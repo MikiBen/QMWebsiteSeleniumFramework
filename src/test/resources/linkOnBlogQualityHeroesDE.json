@@ -514,9 +514,206 @@
     {
       "name": "Blog 9_0 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
-      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125345/qh008-agi')]",
-      "tabName": ["RSA ANIMATE: Drive: The surprising truth about what motivates us - YouTube"],
+      "xpath": "//a[normalize-space()='Rebecca Schönberger']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 9_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
+      "xpath": "//a[normalize-space()='Christian Brandes']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 9_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
+      "xpath": "//a[@href='https://qualityminds.com/de/portfolio/requirements-engineering/']",
+      "tabName": ["QualityMinds | Requirements Engineering Für Agile Teams"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 9_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
+      "xpath": "//a[@href='https://qualityminds.com/de/portfolio/requirements-engineering/requirements-engineering-fur-agile-teams/']",
+      "tabName": ["QualityMinds | Requirements Engineering Für Agile Teams"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 9_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
+      "xpath": "//a[contains(text(),'https://ronjeffries.com/xprog/articles/expcardconv')]",
+      "tabName": ["Essential XP: Card, Conversation, Confirmation"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 9_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh009-agiles')]",
+      "tabName": ["Essential XP: Card, Conversation, Confirmation"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 9_6 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/0MTAu6GzGSHih2MGF')]",
+      "tabName": ["Essential XP: Card, Conversation, Confirmation"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 9_7 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125344/qh009-agi')]",
+      "tabName": ["Essential XP: Card, Conversation, Confirmation"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 10_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-10-wie-werde-ich-zum-experten-zur-expertin/",
+      "xpath": "//a[normalize-space()='Christian Brandes']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 10_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-10-wie-werde-ich-zum-experten-zur-expertin/",
+      "xpath": "//a[normalize-space()='https://qualityminds.com/de/quality-learning/']",
+      "tabName": ["QualityMinds | QUALITYLEARNING"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 10_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-10-wie-werde-ich-zum-experten-zur-expertin/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/quality-learning/agile')]",
+      "tabName": ["QualityMinds | Agiles Lernen"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 10_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-10-wie-werde-ich-zum-experten-zur-expertin/",
+      "xpath": "//a[contains(text(),'https://de.wikipedia.org/wiki/Der_Schockwellenreit')]",
+      "tabName": ["Der Schockwellenreiter – Wikipedia"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 10_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-10-wie-werde-ich-zum-experten-zur-expertin/",
+      "xpath": "//a[contains(text(),'https://de.wikipedia.org/wiki/Der_Schockwellenreit')]",
+      "tabName": ["Der Schockwellenreiter – Wikipedia"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 10_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-10-wie-werde-ich-zum-experten-zur-expertin/",
+      "xpath": "//a[contains(text(),'https://de.wikipedia.org/wiki/Der_Schockwellenreit')]",
+      "tabName": ["Der Schockwellenreiter – Wikipedia"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 10_6 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-10-wie-werde-ich-zum-experten-zur-expertin/",
+      "xpath": "//a[contains(text(),'https://de.wikipedia.org/wiki/Der_Schockwellenreit')]",
+      "tabName": ["Der Schockwellenreiter – Wikipedia"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 11_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-11-wie-werde-ich-zum-agilen-lerncoach/",
+      "xpath": "//a[normalize-space()='Christian Brandes']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 11_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-11-wie-werde-ich-zum-agilen-lerncoach/",
+      "xpath": "//a[normalize-space()='Manuel Illi']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 11_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-11-wie-werde-ich-zum-agilen-lerncoach/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/quality-learning/weite')]",
+      "tabName": ["QualityMinds | Ausbildung zum agilen Lerncoach"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 11_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-11-wie-werde-ich-zum-agilen-lerncoach/",
+      "xpath": "//a[normalize-space()='https://qualityminds.com/de/quality-learning/']",
+      "tabName": ["QualityMinds | QUALITYLEARNING"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 11_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-11-wie-werde-ich-zum-agilen-lerncoach/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/quality-learning/publi')]",
+      "tabName": ["QualityMinds | Lern doch, was Du willst!"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 11_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-11-wie-werde-ich-zum-agilen-lerncoach/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh011-wie-we')]",
+      "tabName": ["QualityMinds | Lern doch, was Du willst!"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 11_6 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-11-wie-werde-ich-zum-agilen-lerncoach/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh011-wie-we')]",
+      "tabName": ["QualityMinds | Lern doch, was Du willst!"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 11_7 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-11-wie-werde-ich-zum-agilen-lerncoach/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125342/qh011-wie')]",
+      "tabName": ["QualityMinds | Lern doch, was Du willst!"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 12_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-12-wie-sieht-die-rolle-des-agilen-testmasters-aus/",
+      "xpath": "//a[normalize-space()='Christian Brandes']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 12_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-12-wie-sieht-die-rolle-des-agilen-testmasters-aus/",
+      "xpath": "//a[normalize-space()='Bastian Baumgartner']",
+      "tabName": ["Zaloguj się | LinkedIn"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 12_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-12-wie-sieht-die-rolle-des-agilen-testmasters-aus/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/portfolio/spezialisier')]",
+      "tabName": ["QualityMinds | TestMaster"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 12_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-12-wie-sieht-die-rolle-des-agilen-testmasters-aus/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh012-wie-si')]",
+      "tabName": ["QualityMinds | TestMaster"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 12_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-12-wie-sieht-die-rolle-des-agilen-testmasters-aus/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/1YFxAYaIZlxZX5BLo')]",
+      "tabName": ["QualityMinds | TestMaster"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 12_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-12-wie-sieht-die-rolle-des-agilen-testmasters-aus/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125341/qh012-wie')]",
+      "tabName": ["QualityMinds | TestMaster"],
       "PageOpenInNewTab": true
     }
+
   ]
 }
