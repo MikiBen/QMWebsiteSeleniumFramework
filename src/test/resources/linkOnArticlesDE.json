@@ -18,7 +18,7 @@
           "name": "Article 3",
           "pageAddress": "/de/agile-leadership-schon-wieder-ein-neuer-fuhrungsstil-oder-mehr-als-nur-ein-buzzword/",
           "xpath":  "//a[normalize-space()='Stephan Merkel']",
-          "tabName": ["Zaloguj się | LinkedIn", "Stephan Merkel – Unternehmensinhaber – Valean Solutions GmbH | LinkedIn", "Sign In | LinkedIn"],
+          "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Stephan Merkel – Unternehmensinhaber – Valean Solutions GmbH | LinkedIn", "Sign In | LinkedIn"],
           "PageOpenInNewTab": true
         },
         {
@@ -96,7 +96,7 @@
           "name": "Article 11",
           "pageAddress": "/de/building-a-simple-autonomous-mobile-robot/",
           "xpath":  "//a[normalize-space()='Alexander Pohl']",
-          "tabName": ["Zaloguj się | LinkedIn", "Alexander Pohl – Monachium i okolice | Profil zawodowy | LinkedIn", "Sign In | LinkedIn"],
+          "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Alexander Pohl – Monachium i okolice | Profil zawodowy | LinkedIn", "Sign In | LinkedIn"],
           "PageOpenInNewTab": true
         },
         {
@@ -369,7 +369,7 @@
           "name": "Article 38",
           "pageAddress": "/de/klimaschutz-durch-digitale-technologien-gelebtes-csr-bei-qualityminds/",
           "xpath":  "//a[normalize-space()='Quyen']",
-          "tabName": ["Zaloguj się | LinkedIn","Quyen P. – Quality Assurance Engineer – zolar | LinkedIn","Sign In | LinkedIn"],
+          "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Quyen P. – Quality Assurance Engineer – zolar | LinkedIn","Sign In | LinkedIn"],
           "PageOpenInNewTab": true
         },
         {
@@ -831,7 +831,7 @@
           "name": "Article 68",
           "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//strong[normalize-space()='Michael Mlynarski']",
-          "tabName": ["(24) Michael Mlynarski | LinkedIn", "Sign In | LinkedIn", "Zaloguj się | LinkedIn"],
+          "tabName": ["(24) Michael Mlynarski | LinkedIn", "Sign In | LinkedIn", "Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
           "PageOpenInNewTab": true
         },
         {
