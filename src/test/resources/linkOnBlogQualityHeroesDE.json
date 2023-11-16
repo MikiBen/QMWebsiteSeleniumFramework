@@ -1593,42 +1593,42 @@
       "name": "Blog 29_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-29-wie-lagere-ich-meine-softwareentwicklung-an-ein-externes-agiles-team-aus/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh029-wie-la')]",
-      "tabName": ["Innovation Management ohne Overhead: Schnelle Lieferung dank eingespielter Teams | QualityMinds"],
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH029 Wie lagere ich meine Softwareentwicklung an ein externes agiles Team aus? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 29_3 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-29-wie-lagere-ich-meine-softwareentwicklung-an-ein-externes-agiles-team-aus/",
-      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/66YK3QX4JT36paH8l')]]",
-      "tabName": ["Innovation Management ohne Overhead: Schnelle Lieferung dank eingespielter Teams | QualityMinds"],
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/66YK3QX4JT36paH8l')]",
+      "tabName": ["QH029 Wie lagere ich meine Softwareentwicklung an ein externes agiles Team aus? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 29_4 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-29-wie-lagere-ich-meine-softwareentwicklung-an-ein-externes-agiles-team-aus/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125324/qh029-wie')]",
-      "tabName": ["Innovation Management ohne Overhead: Schnelle Lieferung dank eingespielter Teams | QualityMinds"],
+      "tabName": ["QH029 Wie lagere ich meine Softwareentwicklung an ein externes agiles Team aus? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 30_0 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-30-zwischenfrage-was-sind-impact-maps-und-wie-koennen-sie-in-agilen-teams-zur-quality-beitragen/",
       "xpath": "//p[3]//a[1]",
-      "tabName": ["Ins"],
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH030 ZWISCHENFRAGE: Was sind Impact Maps, und wie können sie in agilen Teams zur Quality beitragen? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 30_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-30-zwischenfrage-was-sind-impact-maps-und-wie-koennen-sie-in-agilen-teams-zur-quality-beitragen/",
       "xpath": "//a[contains(text(),'https://open.spotify.com/episode/7q85Ihmvb6K0Umhjj')]",
-      "tabName": [""],
+      "tabName": ["QH030 ZWISCHENFRAGE: Was sind Impact Maps, und wie können sie in agilen Teams zur Quality beitragen? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 30_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-30-zwischenfrage-was-sind-impact-maps-und-wie-koennen-sie-in-agilen-teams-zur-quality-beitragen/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125323/qh030-zwi')]",
-      "tabName": ["Innlter Teams | QualityMinds"],
+      "tabName": ["QH030 ZWISCHENFRAGE: Was sind Impact Maps, und wie können sie in agilen Teams zur Quality beitragen? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
       "PageOpenInNewTab": true
     },
     {
@@ -1663,21 +1663,21 @@
       "name": "Blog 31_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-31-wie-kann-ein-testteam-neue-testmethoden-effektiv-zusammen-lernen/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh031-wie-ka')]",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH031 Wie kann ein Testteam neue Testmethoden effektiv zusammen lernen? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 31_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-31-wie-kann-ein-testteam-neue-testmethoden-effektiv-zusammen-lernen/",
       "xpath": "//a[contains(text(),'https://open.spotify.com/episode/4TErYryRY1qmuHNmo')]",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
+      "tabName": ["QH031 Wie kann ein Testteam neue Testmethoden effektiv zusammen lernen? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 31_3 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-31-wie-kann-ein-testteam-neue-testmethoden-effektiv-zusammen-lernen/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125322/qh031-wie')]",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
+      "tabName": ["QH031 Wie kann ein Testteam neue Testmethoden effektiv zusammen lernen? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
       "PageOpenInNewTab": true
     },
     {
@@ -1705,21 +1705,21 @@
       "name": "Blog 32_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-32-what-is-devops/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh032-what-i')]",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH032 What is DevOps? auf Apple Podcasts"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 32_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-32-what-is-devops/",
       "xpath": "//a[contains(text(),'https://open.spotify.com/episode/15xbApNZmqiMLVzTz')]",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
+      "tabName": ["QH032 What is DevOps? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
       "PageOpenInNewTab": true
     },
     {
       "name": "Blog 32_3 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-32-what-is-devops/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125321/qh032-wha')]",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
+      "tabName": ["QH032 What is DevOps? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
       "PageOpenInNewTab": true
     },
     {
