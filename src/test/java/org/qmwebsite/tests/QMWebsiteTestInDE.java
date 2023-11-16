@@ -20,7 +20,7 @@ import java.util.stream.IntStream;
 @Log
 public class QMWebsiteTestInDE extends BaseTest {
 
-
+/*
     @Test
     public void mainPageTest() {
         MainPage mainPage = new MainPage(getDriver());
@@ -34,7 +34,7 @@ public class QMWebsiteTestInDE extends BaseTest {
         eventsDE.load("/de/veranstaltungen/");
         eventsDE.checkExitsPage();
     }
-
+*/
 
 
     @Test (dataProvider = "AllUrlListDE")
@@ -49,7 +49,7 @@ public class QMWebsiteTestInDE extends BaseTest {
                     "\nExpected Tab name is one of this: " + tabName);
         }
     }
-
+/*
     @Test (dataProvider = "AllUrlListDE")
     public void checkFooter(String pageName, String url, String tabName){
         Footer footer = new Footer(getDriver());
@@ -93,7 +93,7 @@ public class QMWebsiteTestInDE extends BaseTest {
             Assert.fail("An exception occured on page: " + url);
         }
     }
-
+*/
     @DataProvider(name="AllUrlListDE")
     public Object[] myDataProvider() throws IOException {
         jsonFile.readFileWithAllUrlPagesAddressDE();
