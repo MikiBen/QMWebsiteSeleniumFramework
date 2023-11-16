@@ -792,7 +792,38 @@
           "name": "Blog 28 Quality Heroes",
           "url":  "/de/qualityheroes-podcast-folge-28-what-is-machine-learning-and-why-should-we-have-a-closer-look-at-it/",
           "tabName": "QualityHeroes Podcast Folge 28: What is Machine Learning and why should we have a closer look at it? | QualityMinds"
+        },
+        {
+          "name": "Blog 29 Quality Heroes",
+          "url":  "/de/qualityheroes-podcast-folge-29-wie-lagere-ich-meine-softwareentwicklung-an-ein-externes-agiles-team-aus/",
+          "tabName": "QualityHeroes Podcast Folge 29: Wie lagere ich meine Softwareentwicklung an ein externes agiles Team aus? | QualityMinds"
+        },
+        {
+          "name": "Blog 30 Quality Heroes",
+          "url":  "/de/qualityheroes-podcast-folge-30-zwischenfrage-was-sind-impact-maps-und-wie-koennen-sie-in-agilen-teams-zur-quality-beitragen/",
+          "tabName": "QualityHeroes Podcast Folge 30: ZWISCHENFRAGE: Was sind Impact Maps, und wie können sie in agilen Teams zur Quality beitragen? | QualityMinds"
+        },
+        {
+          "name": "Blog 31 Quality Heroes",
+          "url": "/de/qualityheroes-podcast-folge-31-wie-kann-ein-testteam-neue-testmethoden-effektiv-zusammen-lernen/",
+          "tabName": "QualityHeroes Podcast Folge 31: Wie kann ein Testteam neue Testmethoden effektiv zusammen lernen? | QualityMinds"
+        },
+        {
+          "name": "Blog 32 Quality Heroes",
+          "url":  "/de/qualityheroes-podcast-folge-32-what-is-devops/",
+          "tabName": "QualityHeroes Podcast Folge 32: What is DevOps? | QualityMinds"
+        },
+        {
+          "name": "Blog 33 Quality Heroes",
+          "url":  "/de/qualityheroes-podcast-folge-33-wie-organisiert-man-eine-uebergabe-der-scrum-master-rolle/",
+          "tabName": "QualityHeroes Podcast Folge 33: Wie organisiert man eine Übergabe der Scrum Master-Rolle? | QualityMinds"
+        },
+        {
+          "name": "Blog 34 Quality Heroes",
+          "url":  "/de/qualityheroes-podcast-folge-34-was-bedeutet-nachhaltige-softwareentwicklung/",
+          "tabName": "QualityHeroes Podcast Folge 34: Was bedeutet nachhaltige Softwareentwicklung? | QualityMinds"
         }
+
 
 
       ]
