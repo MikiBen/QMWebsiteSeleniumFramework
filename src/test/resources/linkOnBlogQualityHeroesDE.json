@@ -928,7 +928,7 @@
       "name": "Blog 16_5 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-16-sind-job-stories-eine-echte-alternative-zu-user-stories/",
       "xpath": "//a[normalize-space()='http://www.whencoffeeandkalecompete.com']",
-      "tabName": ["When Coffee & Kale Compete | Jobs to be Done Book — Revealed"],
+      "tabName": ["When Coffee & Kale Compete | Jobs to be Done Book — Revealed", "www.whencoffeeandkalecompete.com"],
       "PageOpenInNewTab": true
     },
     {
@@ -1446,7 +1446,7 @@
       "name": "Blog 27_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-27-wie-kann-ich-mit-geringem-aufwand-mein-testvorgehen-spuerbar-verbessern/",
       "xpath": "//a[normalize-space()='Basti Baumgartner']",
-      "tabName": ["Zaloguj się | LinkedIn" ,"Bastian Baumgartner | LinkedIn","Bastian Baumgartner – Head of Testing – QualityMinds GmbH | LinkedIn"],
+      "tabName": ["Zaloguj się | LinkedIn" ,"Bastian Baumgartner | LinkedIn","Bastian Baumgartner – Head of Testing – QualityMinds GmbH | LinkedIn", "Bastian Baumgartner - Head of Testing - QualityMinds GmbH | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -1509,7 +1509,7 @@
       "name": "Blog 28_0 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-28-what-is-machine-learning-and-why-should-we-have-a-closer-look-at-it/",
       "xpath": "//a[normalize-space()='Namrata']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Namrata Gurung, PhD | LinkedIn"],
+      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Namrata Gurung, PhD | LinkedIn", "Namrata Gurung, PhD - Senior Data Scientist - QualityMinds GmbH | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -1957,7 +1957,7 @@
       "name": "Blog 35_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-35-wie-bekomme-ich-eine-kompakte-und-nuetzliche-teststrategie/",
       "xpath": "//a[normalize-space()='Basti']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Bastian Baumgartner | LinkedIn"],
+      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Bastian Baumgartner | LinkedIn" ,"Bastian Baumgartner - Head of Testing - QualityMinds GmbH | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
