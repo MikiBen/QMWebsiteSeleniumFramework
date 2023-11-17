@@ -46,7 +46,7 @@
       "name": "Blog 2_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-2-wie-starte-ich-als-einsteiger-im-mobile-testing-durch/",
       "xpath": "//a[normalize-space()='Daniel Knott']",
-      "tabName": ["(24) Daniel Knott | LinkedIn", "Zaloguj się | LinkedIn" ,"Daniel Knott – Head of Product Quality Engineering – MaibornWolff GmbH | LinkedIn"],
+      "tabName": ["(24) Daniel Knott | LinkedIn", "Zaloguj się | LinkedIn","Daniel Knott – Head of Product Quality Engineering – MaibornWolff GmbH | LinkedIn", "Sign In | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -95,7 +95,7 @@
       "name": "Blog 3_0 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
       "xpath": "//a[contains(text(),'https://www.amazon.de/Mobile-App-Testing-Praxislei')]",
-      "tabName": ["qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/", "Mobile App Testing: Praxisleitfaden für Softwaretester und Entwickler mobiler Anwendungen : Knott, Daniel, Röttger, Nils: Amazon.de: Książki"],
+      "tabName": ["Amazon.de", "Mobile App Testing: Praxisleitfaden für Softwaretester und Entwickler mobiler Anwendungen : Knott, Daniel, Röttger, Nils: Amazon.de: Książki"],
       "PageOpenInNewTab": true
     },
     {
@@ -844,7 +844,7 @@
       "name": "Blog 15_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
       "xpath": "//a[normalize-space()='Katja']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Katja Meyer | LinkedIn", "Katja Meyer – Teamlead Testing & Test Consultant – QualityMinds GmbH | LinkedIn"],
+      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Katja Meyer | LinkedIn", "Katja Meyer - Teamlead Testing & Test Consultant - QualityMinds GmbH | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -1124,7 +1124,7 @@
       "name": "Blog 20_0 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-20-was-ist-ein-risk-storming-workshop-und-wie-kann-er-einem-projektteam-helfen-2/",
       "xpath": "//a[normalize-space()='Peter Hartauer']",
-      "tabName": ["Zaloguj się | LinkedIn" ,"Peter Hartauer – Principal Test Consultant – QualityMinds GmbH | LinkedIn"],
+      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Peter Hartauer – Principal Test Consultant – QualityMinds GmbH | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -1180,7 +1180,7 @@
       "name": "Blog 21_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-21-wie-funktioniert-eine-find-the-bug-session-2/",
       "xpath": "//a[normalize-space()='Basti']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Bastian Baumgartner – Head of Testing – QualityMinds GmbH | LinkedIn", "Bastian Baumgartner | LinkedIn"],
+      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Bastian Baumgartner - Head of Testing - QualityMinds GmbH | LinkedIn", "Bastian Baumgartner | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -1957,7 +1957,7 @@
       "name": "Blog 35_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-35-wie-bekomme-ich-eine-kompakte-und-nuetzliche-teststrategie/",
       "xpath": "//a[normalize-space()='Basti']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
+      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Bastian Baumgartner | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -1992,7 +1992,7 @@
       "name": "Blog 36_0 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-36-how-can-you-test-machine-learning/",
       "xpath": "//a[normalize-space()='Namrata']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
+      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Namrata Gurung, PhD | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
