@@ -19,10 +19,10 @@ public class JsonFile {
     }
     public void readFileWithLinkOnArticlesDE() throws IOException {
 
-        urls = objectMapper.readValue(new java.io.File("src/test/resources/linkOnArticlesDE.json"), Url.class);
+        urls = objectMapper.readValue(new java.io.File("src/test/resources/linkOnArticlesDEWithoutLinkedInProfile.json"), Url.class);
     }
     public void readFileWithLinkOnBlogQualityHeroesDE() throws IOException {
 
-        urls = objectMapper.readValue(new java.io.File("src/test/resources/linkOnBlogQualityHeroesDE.json"), Url.class);
+        urls = objectMapper.readValue(new java.io.File("src/test/resources/linkOnBlogQualityHeroesDEWithoutLinkedInProfile.json"), Url.class);
     }
 }

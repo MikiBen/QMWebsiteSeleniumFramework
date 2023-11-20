@@ -1,20 +1,6 @@
 {
   "urls": [
     {
-      "name": "Blog 1_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-ist-da-folge-1-wo-und-wie-konnen-testentwurfsmethoden-helfen/",
-      "xpath": "//a[normalize-space()='Peter Hartauer']",
-      "tabName": ["(24) Peter Hartauer | LinkedIn", "Zaloguj się | LinkedIn", "Sign In | LinkedIn","Peter Hartauer – Principal Test Consultant – QualityMinds GmbH | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 1_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-ist-da-folge-1-wo-und-wie-konnen-testentwurfsmethoden-helfen/",
-      "xpath": "//a[normalize-space()='Peter Hartauer']",
-      "tabName": ["(24) Dr. Christian Brandes | LinkedIn","Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Peter Hartauer – Principal Test Consultant – QualityMinds GmbH | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 1_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-ist-da-folge-1-wo-und-wie-konnen-testentwurfsmethoden-helfen/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh001-wo-und')]",
@@ -33,20 +19,6 @@
       "pageAddress": "/de/qualityheroes-podcast-ist-da-folge-1-wo-und-wie-konnen-testentwurfsmethoden-helfen/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125352/qh001-wo-')]",
       "tabName": ["QH001 Wo und wie können Testentwurfsmethoden helfen? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 2_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-2-wie-starte-ich-als-einsteiger-im-mobile-testing-durch/",
-      "xpath": "//a[normalize-space()='Ron Werner']",
-      "tabName": ["(24) Ron Werner | LinkedIn","Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 2_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-2-wie-starte-ich-als-einsteiger-im-mobile-testing-durch/",
-      "xpath": "//a[normalize-space()='Daniel Knott']",
-      "tabName": ["(24) Daniel Knott | LinkedIn", "Zaloguj się | LinkedIn","Daniel Knott – Head of Product Quality Engineering – MaibornWolff GmbH | LinkedIn", "Sign In | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -119,20 +91,7 @@
       "tabName": ["Rotation Tour in Mobile Testing | Adventures in QA"],
       "PageOpenInNewTab": true
     },
-    {
-      "name": "Blog 3_4 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
-      "xpath": "//a[normalize-space()='Ron']",
-      "tabName": ["(24) Ron Werner | LinkedIn","Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Ron Werner - Monachium, Bavaria, Niemcy | Profil zawodowy | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 3_5 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
-      "xpath": "//a[normalize-space()='Daniel']",
-      "tabName": ["(24) Daniel Knott | LinkedIn","Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Daniel Knott – Head of Product Quality Engineering – MaibornWolff GmbH | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
+
     {
       "name": "Blog 3_6 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
@@ -204,20 +163,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 4_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-4-iot-testing-grose-herausforderung-oder-kein-ding/",
-      "xpath": "//a[normalize-space()='Ron']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Ron Werner – Monachium, Bavaria, Niemcy | Profil zawodowy | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 4_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-4-iot-testing-grose-herausforderung-oder-kein-ding/",
-      "xpath": "//a[normalize-space()='Nils Röttger']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 4_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-4-iot-testing-grose-herausforderung-oder-kein-ding/",
       "xpath": "//a[normalize-space()='https://www.youtube.com/watch?v=yZn0r4ik0fI']",
@@ -253,20 +198,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 5_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-5-wie-kann-quality-from-the-beginning-in-agilen-projekten-erreicht-werden/",
-      "xpath": "//a[normalize-space()='Christian Brandes']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 5_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-5-wie-kann-quality-from-the-beginning-in-agilen-projekten-erreicht-werden/",
-      "xpath": "//a[normalize-space()='Alex Schladebeck']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 5_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-5-wie-kann-quality-from-the-beginning-in-agilen-projekten-erreicht-werden/",
       "xpath": "//a[contains(text(),'https://janetgregory.ca/the-whole-team-approach-to')]",
@@ -299,20 +230,6 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-5-wie-kann-quality-from-the-beginning-in-agilen-projekten-erreicht-werden/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125348/qh005-wie')]",
       "tabName": ["QH005 Wie kann „Quality From The Beginning“ in agilen Projekten erreicht werden? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 6_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-6-testautomation-fur-mobile-apps-was-und-wie-automatisiere-ich-am-besten/",
-      "xpath": "//a[normalize-space()='Daniel']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 6_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-6-testautomation-fur-mobile-apps-was-und-wie-automatisiere-ich-am-besten/",
-      "xpath": "//a[normalize-space()='Ron']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Ron Werner - Monachium, Bavaria, Niemcy | Profil zawodowy | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -362,20 +279,6 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-6-testautomation-fur-mobile-apps-was-und-wie-automatisiere-ich-am-besten/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125347/qh006-tes')]",
       "tabName": ["QH006 Testautomation für Mobile Apps - was und wie automatisiere ich am besten? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 7_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-7-app-development-wie-funktionieren-continuous-delivery-pipelines/",
-      "xpath": "//a[normalize-space()='Daniel']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Daniel Knott – Head of Product Quality Engineering – MaibornWolff GmbH | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 7_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-7-app-development-wie-funktionieren-continuous-delivery-pipelines/",
-      "xpath": "//a[normalize-space()='Ron']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -456,13 +359,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 8_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-8-agiles-lernen-was-ist-das-nun-schon-wieder/",
-      "xpath": "//a[normalize-space()='Christian']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Dr. Christian Brandes – Lehrbeauftragter Informatik – Technische Hochschule Nürnberg Georg Simon Ohm | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 8_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-8-agiles-lernen-was-ist-das-nun-schon-wieder/",
       "xpath": "//a[normalize-space()='https://qualityminds.com/de/quality-learning/']",
@@ -512,20 +408,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 9_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
-      "xpath": "//a[normalize-space()='Rebecca Schönberger']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 9_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
-      "xpath": "//a[normalize-space()='Christian Brandes']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 9_3 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
       "xpath": "//a[@href='https://qualityminds.com/de/portfolio/requirements-engineering/requirements-engineering-fur-agile-teams/']",
@@ -558,13 +440,6 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-9-agiles-requirements-engineering-wie-geht-das/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125344/qh009-agi')]",
       "tabName": ["QH009 Agiles Requirements Engineering - wie geht das? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 10_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-10-wie-werde-ich-zum-experten-zur-expertin/",
-      "xpath": "//a[normalize-space()='Christian Brandes']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Dr. Christian Brandes – Lehrbeauftragter Informatik – Technische Hochschule Nürnberg Georg Simon Ohm | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -610,20 +485,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 11_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-11-wie-werde-ich-zum-agilen-lerncoach/",
-      "xpath": "//a[normalize-space()='Christian Brandes']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 11_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-11-wie-werde-ich-zum-agilen-lerncoach/",
-      "xpath": "//a[normalize-space()='Manuel Illi']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 11_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-11-wie-werde-ich-zum-agilen-lerncoach/",
       "xpath": "//a[contains(text(),'https://qualityminds.com/de/quality-learning/weite')]",
@@ -666,20 +527,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 12_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-12-wie-sieht-die-rolle-des-agilen-testmasters-aus/",
-      "xpath": "//a[normalize-space()='Christian Brandes']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 12_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-12-wie-sieht-die-rolle-des-agilen-testmasters-aus/",
-      "xpath": "//a[normalize-space()='Bastian Baumgartner']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Bastian Baumgartner | LinkedIn","Bastian Baumgartner – Head of Testing – QualityMinds GmbH | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 12_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-12-wie-sieht-die-rolle-des-agilen-testmasters-aus/",
       "xpath": "//a[contains(text(),'https://qualityminds.com/de/portfolio/spezialisier')]",
@@ -705,20 +552,6 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-12-wie-sieht-die-rolle-des-agilen-testmasters-aus/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125341/qh012-wie')]",
       "tabName": ["QH012 Wie sieht die Rolle des agilen TestMasters aus? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 13_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
-      "xpath": "//a[normalize-space()='Vera Baum']",
-      "tabName": ["Zaloguj się | LinkedIn" ,"Vera Baum – Geschäftsführerin – QualityMinds GmbH | LinkedIn","Vera Baum | LinkedIn","Vera Baum - Geschäftsführerin - QualityMinds GmbH | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 13_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
-      "xpath": "//a[normalize-space()='Manuel Illi']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Manuel Illi – Learning Consultant – QualityMinds GmbH | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -792,13 +625,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 14_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-14-wie-passen-nicht-funktionale-requirements-und-technische-stories-in-ein-agiles-backlog/",
-      "xpath": "//a[normalize-space()='Christian']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 14_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-14-wie-passen-nicht-funktionale-requirements-und-technische-stories-in-ein-agiles-backlog/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh014-wie-pa')]",
@@ -831,27 +657,6 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-14-wie-passen-nicht-funktionale-requirements-und-technische-stories-in-ein-agiles-backlog/",
       "xpath": "//a[contains(text(),'https://ronjeffries.com/xprog/articles/technical-s')]",
       "tabName": ["Technical Stories: We don't need 'em."],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 15_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
-      "xpath": "//a[normalize-space()='Christian']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Dr. Christian Brandes – Lehrbeauftragter Informatik – Technische Hochschule Nürnberg Georg Simon Ohm | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 15_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
-      "xpath": "//a[normalize-space()='Katja']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Katja Meyer | LinkedIn", "Katja Meyer - Teamlead Testing & Test Consultant - QualityMinds GmbH | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 15_2 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-15-der-testmaster-hebt-ab-was-gibts-neues/",
-      "xpath": "//a[normalize-space()='Basti']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Bastian Baumgartner – Head of Testing – QualityMinds GmbH | LinkedIn","Bastian Baumgartner | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -890,13 +695,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 16_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-16-sind-job-stories-eine-echte-alternative-zu-user-stories/",
-      "xpath": "//a[normalize-space()='Christian Brandes']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 16_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-16-sind-job-stories-eine-echte-alternative-zu-user-stories/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh016-zwisch')]",
@@ -929,27 +727,6 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-16-sind-job-stories-eine-echte-alternative-zu-user-stories/",
       "xpath": "//a[normalize-space()='http://www.whencoffeeandkalecompete.com']",
       "tabName": ["When Coffee & Kale Compete | Jobs to be Done Book — Revealed", "www.whencoffeeandkalecompete.com"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 17_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-17-wie-gelingt-ein-quereinstieg-ins-softwaretesten-am-besten/",
-      "xpath": "//a[normalize-space()='Christian']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Dr. Christian Brandes – Lehrbeauftragter Informatik – Technische Hochschule Nürnberg Georg Simon Ohm | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 17_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-17-wie-gelingt-ein-quereinstieg-ins-softwaretesten-am-besten/",
-      "xpath": "//a[normalize-space()='Yasemin']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 17_2 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-17-wie-gelingt-ein-quereinstieg-ins-softwaretesten-am-besten/",
-      "xpath": "//a[normalize-space()='Adina']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -992,20 +769,6 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-17-wie-gelingt-ein-quereinstieg-ins-softwaretesten-am-besten/",
       "xpath": "//a[normalize-space()='https://testautomationu.applitools.com/']",
       "tabName": ["Test Automation University | Applitools"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 18_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-18-mit-welchen-daten-kann-man-eine-ki-testen-und-absichern/",
-      "xpath": "//a[normalize-space()='Christian']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Dr. Christian Brandes – Lehrbeauftragter Informatik – Technische Hochschule Nürnberg Georg Simon Ohm | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 18_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-18-mit-welchen-daten-kann-man-eine-ki-testen-und-absichern/",
-      "xpath": "//a[normalize-space()='Bettina']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -1065,13 +828,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 19_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-19-zwischenfrage-akzeptanzkriterien-als-konkrete-beispiele-wie-geht-das-genau-2/",
-      "xpath": "//a[normalize-space()='Christian']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Dr. Christian Brandes – Lehrbeauftragter Informatik – Technische Hochschule Nürnberg Georg Simon Ohm | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 19_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-19-zwischenfrage-akzeptanzkriterien-als-konkrete-beispiele-wie-geht-das-genau-2/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh019-zwisch')]",
@@ -1121,13 +877,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 20_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-20-was-ist-ein-risk-storming-workshop-und-wie-kann-er-einem-projektteam-helfen-2/",
-      "xpath": "//a[normalize-space()='Peter Hartauer']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Peter Hartauer – Principal Test Consultant – QualityMinds GmbH | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 20_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-20-was-ist-ein-risk-storming-workshop-und-wie-kann-er-einem-projektteam-helfen-2/",
       "xpath": "//a[normalize-space()='RiskStorming']",
@@ -1167,20 +916,6 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-20-was-ist-ein-risk-storming-workshop-und-wie-kann-er-einem-projektteam-helfen-2/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/606125333/qh020-was')]",
       "tabName": ["QH020 Was ist ein Risk-Storming-Workshop und wie kann er einem Projektteam helfen? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 21_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-21-wie-funktioniert-eine-find-the-bug-session-2/",
-      "xpath": "//a[normalize-space()='Christian']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 21_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-21-wie-funktioniert-eine-find-the-bug-session-2/",
-      "xpath": "//a[normalize-space()='Basti']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Bastian Baumgartner - Head of Testing - QualityMinds GmbH | LinkedIn", "Bastian Baumgartner | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -1254,27 +989,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 23_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-23-wo-und-wie-konnen-storymaps-agilen-teams-helfen/",
-      "xpath": "//a[normalize-space()='Eva']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Eva Dirr-Bubik - Bavaria, Niemcy | Profil zawodowy | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 23_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-23-wo-und-wie-konnen-storymaps-agilen-teams-helfen/",
-      "xpath": "//a[normalize-space()='Manuel']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 23_2 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-23-wo-und-wie-konnen-storymaps-agilen-teams-helfen/",
-      "xpath": "//a[normalize-space()='Christian']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Dr. Christian Brandes – Lehrbeauftragter Informatik – Technische Hochschule Nürnberg Georg Simon Ohm | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 23_3 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-23-wo-und-wie-konnen-storymaps-agilen-teams-helfen/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh023-wo-und')]",
@@ -1321,27 +1035,6 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-23-wo-und-wie-konnen-storymaps-agilen-teams-helfen/",
       "xpath": "//a[contains(text(),'https://qualityminds.com/de/qualityheroes-podcast-')]",
       "tabName": ["QualityHeroes Podcast Folge 9: Agiles Requirements Engineering – wie geht das? | QualityMinds"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 24_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-24-was-sind-communities-of-practice-und-welchen-beitrag-konnen-sie-zur-softwarequalitat-leisten/",
-      "xpath": "//a[normalize-space()='Adina']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Meet the Tester: Adina | QualityMinds"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 24_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-24-was-sind-communities-of-practice-und-welchen-beitrag-konnen-sie-zur-softwarequalitat-leisten/",
-      "xpath": "//a[normalize-space()='Manuel']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Manuel Illi – Learning Consultant – QualityMinds GmbH | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 24_2 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-24-was-sind-communities-of-practice-und-welchen-beitrag-konnen-sie-zur-softwarequalitat-leisten/",
-      "xpath": "//a[normalize-space()='Christian']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Dr. Christian Brandes – Lehrbeauftragter Informatik – Technische Hochschule Nürnberg Georg Simon Ohm | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -1394,20 +1087,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 26_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-26-was-bedeutet-qualitat-als-wert-fur-teams-und-unternehmen/",
-      "xpath": "//a[contains(text(),'„der große Basti“')]",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Bastian Knerr – Teamlead Testing - Software Test Consultant – QualityMinds GmbH | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 26_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-26-was-bedeutet-qualitat-als-wert-fur-teams-und-unternehmen/",
-      "xpath": "//a[normalize-space()='Christian']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Dr. Christian Brandes – Lehrbeauftragter Informatik – Technische Hochschule Nürnberg Georg Simon Ohm | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 26_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-26-was-bedeutet-qualitat-als-wert-fur-teams-und-unternehmen/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh026-was-be')]",
@@ -1433,27 +1112,6 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-26-was-bedeutet-qualitat-als-wert-fur-teams-und-unternehmen/",
       "xpath": "//a[contains(text(),'https://qualityminds.com/de/qualityheroes-podcast-')]",
       "tabName": ["QualityHeroes Podcast Folge 5: Wie kann „Quality From The Beginning“ in agilen Projekten erreicht werden? | QualityMinds"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 27_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-27-wie-kann-ich-mit-geringem-aufwand-mein-testvorgehen-spuerbar-verbessern/",
-      "xpath": "//a[normalize-space()='Peter Hartauer']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Peter Hartauer – Principal Test Consultant – QualityMinds GmbH | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 27_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-27-wie-kann-ich-mit-geringem-aufwand-mein-testvorgehen-spuerbar-verbessern/",
-      "xpath": "//a[normalize-space()='Basti Baumgartner']",
-      "tabName": ["Zaloguj się | LinkedIn" ,"Bastian Baumgartner | LinkedIn","Bastian Baumgartner – Head of Testing – QualityMinds GmbH | LinkedIn", "Bastian Baumgartner - Head of Testing - QualityMinds GmbH | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 27_2 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-27-wie-kann-ich-mit-geringem-aufwand-mein-testvorgehen-spuerbar-verbessern/",
-      "xpath": "//a[normalize-space()='Christian Brandes']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn", "Dr. Christian Brandes – Lehrbeauftragter Informatik – Technische Hochschule Nürnberg Georg Simon Ohm | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -1503,13 +1161,6 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-27-wie-kann-ich-mit-geringem-aufwand-mein-testvorgehen-spuerbar-verbessern/",
       "xpath": "//a[contains(text(),'https://produkt-manager.net/2011/exploratory-testi')]",
       "tabName": ["Exploratory Testing - Weitere Testtouren | Der Produktmanager"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 28_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-28-what-is-machine-learning-and-why-should-we-have-a-closer-look-at-it/",
-      "xpath": "//a[normalize-space()='Namrata']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Namrata Gurung, PhD | LinkedIn", "Namrata Gurung, PhD - Senior Data Scientist - QualityMinds GmbH | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -1653,13 +1304,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 31_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-31-wie-kann-ein-testteam-neue-testmethoden-effektiv-zusammen-lernen/",
-      "xpath": "//a[normalize-space()='Yasemin']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 31_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-31-wie-kann-ein-testteam-neue-testmethoden-effektiv-zusammen-lernen/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh031-wie-ka')]",
@@ -1692,13 +1336,6 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-31-wie-kann-ein-testteam-neue-testmethoden-effektiv-zusammen-lernen/",
       "xpath": "//a[contains(text(),'https://qualityminds.com/de/lets-test-risk-stormin')]",
       "tabName": ["Let's Test: Risk Storming | QualityMinds"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 32_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-32-what-is-devops/",
-      "xpath": "//a[normalize-space()='Jakub']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Jakub Piasek - DevOps - QualityMinds Sp. z o.o. | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -1807,20 +1444,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 33_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-33-wie-organisiert-man-eine-uebergabe-der-scrum-master-rolle/",
-      "xpath": "//a[normalize-space()='Lars']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 33_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-33-wie-organisiert-man-eine-uebergabe-der-scrum-master-rolle/",
-      "xpath": "//a[normalize-space()='Manuel']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 33_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-33-wie-organisiert-man-eine-uebergabe-der-scrum-master-rolle/",
       "xpath": "//a[contains(text(),'https://t2informatik.de/wissen-kompakt/scrum-maste')]",
@@ -1874,13 +1497,6 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-33-wie-organisiert-man-eine-uebergabe-der-scrum-master-rolle/",
       "xpath": "//a[normalize-space()='https://scrumguides.org/download.html']",
       "tabName": ["Download | Scrum Guides"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 34_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-34-was-bedeutet-nachhaltige-softwareentwicklung/",
-      "xpath": "//a[normalize-space()='Christian']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -1947,20 +1563,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 35_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-35-wie-bekomme-ich-eine-kompakte-und-nuetzliche-teststrategie/",
-      "xpath": "//a[normalize-space()='Peter']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 35_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-35-wie-bekomme-ich-eine-kompakte-und-nuetzliche-teststrategie/",
-      "xpath": "//a[normalize-space()='Basti']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Bastian Baumgartner | LinkedIn" ,"Bastian Baumgartner - Head of Testing - QualityMinds GmbH | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 35_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-35-wie-bekomme-ich-eine-kompakte-und-nuetzliche-teststrategie/",
       "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh035-wie-be')]",
@@ -1986,20 +1588,6 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-35-wie-bekomme-ich-eine-kompakte-und-nuetzliche-teststrategie/",
       "xpath": "//a[contains(text(),'https://qualityminds.com/de/qualityheroes-podcast-')]",
       "tabName": ["QualityHeroes Podcast Folge 20: Was ist ein Risk-Storming-Workshop und wie kann er einem Projektteam helfen? | QualityMinds"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 36_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-36-how-can-you-test-machine-learning/",
-      "xpath": "//a[normalize-space()='Namrata']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn","Namrata Gurung, PhD | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 36_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-36-how-can-you-test-machine-learning/",
-      "xpath": "//a[normalize-space()='Michael']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {
@@ -2073,20 +1661,6 @@
       "PageOpenInNewTab": true
     },
     {
-      "name": "Blog 37_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-37-was-bedeutet-agile-transformation/",
-      "xpath": "//a[normalize-space()='Adina']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 37_1 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-37-was-bedeutet-agile-transformation/",
-      "xpath": "//a[normalize-space()='Markus']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
-      "PageOpenInNewTab": true
-    },
-    {
       "name": "Blog 37_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-37-was-bedeutet-agile-transformation/",
       "xpath": "//a[contains(text(),'https://qualityminds.com/de/quality-learning/weite')]",
@@ -2126,13 +1700,6 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-37-was-bedeutet-agile-transformation/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/611073073/qh037-was')]",
       "tabName": ["QH037 Was bedeutet agile Transformation? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 38_0 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-38-was-bedeutet-definition-of-ready/",
-      "xpath": "//a[normalize-space()='Andreas']",
-      "tabName": ["Zaloguj się | LinkedIn", "Sign In | LinkedIn"],
       "PageOpenInNewTab": true
     },
     {

@@ -74,7 +74,7 @@ public class QMWebsiteTestInDE extends BaseTest {
             mainMenu.checkQMStoreButton();
     }
 
-
+*/
     @Test(dataProvider="UrlListOnArticlesDE")
     public void checkUrlLinkOnPages(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab)
     {
@@ -93,7 +93,7 @@ public class QMWebsiteTestInDE extends BaseTest {
             Assert.fail("An exception occured on page: " + url);
         }
     }
-*/
+
     @DataProvider(name="AllUrlListDE")
     public Object[] myDataProvider() throws IOException {
         jsonFile.readFileWithAllUrlPagesAddressDE();
