@@ -179,7 +179,7 @@
           "name": "Blog 6_4",
           "pageAddress": "/de/i-want-change-podcast-folge-6-agile-lehre/",
           "xpath":  "//a[contains(text(),'https://www.podcast.de/episode/615397060/agile-leh')]",
-          "tabName": ["QualityMinds | Agile Lehre"],
+          "tabName": ["Agile Lehre ~ I Want Change - der Podcast über Agilität für Non-Techies Podcast"],
           "PageOpenInNewTab": true
         },
         {
@@ -200,7 +200,7 @@
           "name": "Blog 7_2",
           "pageAddress": "/de/i-want-change-podcast-folge-7-agile-fuehrung/",
           "xpath":  "//a[contains(text(),'https://www.podcast.de/episode/615923143/agile-fue')]",
-          "tabName": ["I Want Change - der Podcast über Agilität für Non-Techies Podcast"],
+          "tabName": ["Agile Führung ~ I Want Change - der Podcast über Agilität für Non-Techies Podcast"],
           "PageOpenInNewTab": true
         }
       ]
