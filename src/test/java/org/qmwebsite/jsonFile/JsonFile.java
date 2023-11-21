@@ -10,7 +10,7 @@ public class JsonFile {
     private Page pages;
     private Url urls;
     private Url urlOnBlogsQualityHeroesDE;
-
+    private Url urlOnBlogsIWantChangeDE;
 
     private final ObjectMapper objectMapper = new ObjectMapper();
     public void readFileWithAllUrlPagesAddressDE() throws IOException {
@@ -23,6 +23,10 @@ public class JsonFile {
     }
     public void readFileWithLinkOnBlogQualityHeroesDE() throws IOException {
 
-        urls = objectMapper.readValue(new java.io.File("src/test/resources/linkOnBlogQualityHeroesDEWithoutLinkedInProfile.json"), Url.class);
+        urlOnBlogsQualityHeroesDE = objectMapper.readValue(new java.io.File("src/test/resources/linkOnBlogQualityHeroesDEWithoutLinkedInProfile.json"), Url.class);
+    }
+    public void readFileWithLinkOnBlogIWantChangeDE() throws IOException {
+
+        urlOnBlogsIWantChangeDE = objectMapper.readValue(new java.io.File("src/test/resources/linkOnBlogIWantChangeWithoutLinkedInProfile.json"), Url.class);
     }
 }

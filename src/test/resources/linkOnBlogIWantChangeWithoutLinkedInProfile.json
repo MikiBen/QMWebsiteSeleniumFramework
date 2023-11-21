@@ -1,0 +1,208 @@
+{
+      "urls": [
+        {
+          "name": "Blog 1_0",
+          "pageAddress": "/de/i-want-change-podcast-folge-1-intro/",
+          "xpath":  "//a[contains(text(),'https://open.spotify.com/episode/6RW72MfZlPwovg8HY')]",
+          "tabName": ["Intro - I Want Change - der Podcast über Agilität für Non-Techies | Podcast on Spotify"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 1_1",
+          "pageAddress": "/de/i-want-change-podcast-folge-1-intro/",
+          "xpath":  "//a[contains(text(),'https://podcasts.apple.com/us/podcast/i-want-chang')]",
+          "tabName": ["I Want Change - der Podcast über Agilität für Non-Techies: Intro on Apple Podcasts"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 1_2",
+          "pageAddress": "/de/i-want-change-podcast-folge-1-intro/",
+          "xpath":  "//a[normalize-space()='https://www.podcast.de/episode/611890821/intro']",
+          "tabName": ["Intro ~ I Want Change - der Podcast über Agilität für Non-Techies Podcast"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 2_0",
+          "pageAddress": "/de/i-want-change-podcast-folge-2-agilitaet-101/",
+          "xpath":  "//a[contains(text(),'https://open.spotify.com/episode/4amyrctkmPNcmWthM')]",
+          "tabName": ["Agilität 101 - I Want Change - der Podcast über Agilität für Non-Techies | Podcast on Spotify"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 2_1",
+          "pageAddress": "/de/i-want-change-podcast-folge-2-agilitaet-101/",
+          "xpath":  "//a[contains(text(),'https://podcasts.apple.com/us/podcast/i-want-chang')]",
+          "tabName": ["I Want Change - der Podcast über Agilität für Non-Techies: Agilität 101 on Apple Podcasts"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 2_2",
+          "pageAddress": "/de/i-want-change-podcast-folge-2-agilitaet-101/",
+          "xpath":  "//a[contains(text(),'https://www.podcast.de/episode/612589079/agilitaet')]",
+          "tabName": ["Agilität 101 ~ I Want Change - der Podcast über Agilität für Non-Techies Podcast"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 3_0",
+          "pageAddress": "/de/i-want-change-podcast-folge-3-agiles-arbeiten/",
+          "xpath":  "//a[contains(text(),'https://open.spotify.com/episode/6zfyhgfFamVUJSmMk')]",
+          "tabName": ["Agiles Arbeiten - I Want Change - der Podcast über Agilität für Non-Techies | Podcast on Spotify"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 3_1",
+          "pageAddress": "/de/i-want-change-podcast-folge-3-agiles-arbeiten/",
+          "xpath":  "//a[contains(text(),'https://podcasts.apple.com/us/podcast/agiles-arbei')]",
+          "tabName": ["I Want Change - der Podcast über Agilität für Non-Techies: Agiles Arbeiten on Apple Podcasts"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 3_2",
+          "pageAddress": "/de/i-want-change-podcast-folge-3-agiles-arbeiten/",
+          "xpath":  "//a[contains(text(),'https://www.podcast.de/episode/613264405/agiles-ar')]",
+          "tabName": ["Agiles Arbeiten ~ I Want Change - der Podcast über Agilität für Non-Techies Podcast"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 3_3",
+          "pageAddress": "/de/i-want-change-podcast-folge-3-agiles-arbeiten/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/portfolio/agile-suppor')]",
+          "tabName": ["QualityMinds | Scrum Master"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 3_4",
+          "pageAddress": "/de/i-want-change-podcast-folge-3-agiles-arbeiten/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/10-gute-gruende-extern')]",
+          "tabName": ["10 gute Gründe, externe Scrum Master:innen zu beauftragen | QualityMinds"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 3_5",
+          "pageAddress": "/de/i-want-change-podcast-folge-3-agiles-arbeiten/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/welches-technische-wis')]",
+          "tabName": ["Welches technische Wissen braucht ein Scrum Master? | QualityMinds"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 4_0",
+          "pageAddress": "/de/i-want-change-podcast-folge-4-agile-transformation/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/qualityheroes-podcast-')]",
+          "tabName": ["QualityHeroes Podcast Folge 37: Was bedeutet agile Transformation? | QualityMinds"],
+          "PageOpenInNewTab": false
+        },
+        {
+          "name": "Blog 4_1",
+          "pageAddress": "/de/i-want-change-podcast-folge-4-agile-transformation/",
+          "xpath":  "//a[contains(text(),'https://open.spotify.com/episode/1Xt8i23VhbidhAuag')]",
+          "tabName": ["Agile Transformation - I Want Change - der Podcast über Agilität für Non-Techies | Podcast on Spotify"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 4_2",
+          "pageAddress": "/de/i-want-change-podcast-folge-4-agile-transformation/",
+          "xpath":  "//a[contains(text(),'https://podcasts.apple.com/de/podcast/agiler-wande')]",
+          "tabName": ["I Want Change - der Podcast über Agilität für Non-Techies: Agile Transformation auf Apple Podcasts"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 4_3",
+          "pageAddress": "/de/i-want-change-podcast-folge-4-agile-transformation/",
+          "xpath":  "//a[contains(text(),'https://www.podcast.de/episode/614184909/agile-tra')]",
+          "tabName": ["Agile Transformation ~ I Want Change - der Podcast über Agilität für Non-Techies Podcast"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 5_0",
+          "pageAddress": "/de/i-want-change-podcast-folge-5-agiles-lernen/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/quality-learning/publi')]",
+          "tabName": ["QualityMinds | Lern doch, was Du willst!"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 5_1",
+          "pageAddress": "/de/i-want-change-podcast-folge-5-agiles-lernen/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/quality-learning/weite')]",
+          "tabName": ["QualityMinds | Ausbildung zum agilen Lerncoach"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 5_2",
+          "pageAddress": "/de/i-want-change-podcast-folge-5-agiles-lernen/",
+          "xpath":  "//a[contains(text(),'https://open.spotify.com/episode/6L3xi9eR2zhNlCzZi')]",
+          "tabName": ["Agiles Lernen - I Want Change - der Podcast über Agilität für Non-Techies | Podcast on Spotify"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 5_3",
+          "pageAddress": "/de/i-want-change-podcast-folge-5-agiles-lernen/",
+          "xpath":  "//a[contains(text(),'https://podcasts.apple.com/de/podcast/agiles-lerne')]",
+          "tabName": ["I Want Change - der Podcast über Agilität für Non-Techies: Agiles Lernen auf Apple Podcasts"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 5_4",
+          "pageAddress": "/de/i-want-change-podcast-folge-5-agiles-lernen/",
+          "xpath":  "//a[contains(text(),'https://www.podcast.de/episode/614815730/agiles-le')]",
+          "tabName": ["Agiles Lernen ~ I Want Change - der Podcast über Agilität für Non-Techies Podcast"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 6_0",
+          "pageAddress": "/de/i-want-change-podcast-folge-6-agile-lehre/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/ich-habe-waehrend-mein')]",
+          "tabName": ["Ich habe während meiner Arbeitszeit keine Zeit, um etwas zu lernen!\" - warum eigentlich nicht? | QualityMinds"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 6_1",
+          "pageAddress": "/de/i-want-change-podcast-folge-6-agile-lehre/",
+          "xpath":  "//a[contains(text(),'https://qualityminds.com/de/qm-portfolio/quality-l')]",
+          "tabName": ["QualityMinds | Agile Lehre"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 6_2",
+          "pageAddress": "/de/i-want-change-podcast-folge-6-agile-lehre/",
+          "xpath":  "//a[contains(text(),'https://open.spotify.com/episode/5V6E1mgUehR7KB1k5')]",
+          "tabName": ["Agile Lehre - I Want Change - der Podcast über Agilität für Non-Techies | Podcast on Spotify"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 6_3",
+          "pageAddress": "/de/i-want-change-podcast-folge-6-agile-lehre/",
+          "xpath":  "//a[contains(text(),'https://podcasts.apple.com/de/podcast/agile-lehre/')]",
+          "tabName": ["I Want Change - der Podcast über Agilität für Non-Techies: Agile Lehre auf Apple Podcasts"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 6_4",
+          "pageAddress": "/de/i-want-change-podcast-folge-6-agile-lehre/",
+          "xpath":  "//a[contains(text(),'https://www.podcast.de/episode/615397060/agile-leh')]",
+          "tabName": ["QualityMinds | Agile Lehre"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 7_0",
+          "pageAddress": "/de/i-want-change-podcast-folge-7-agile-fuehrung/",
+          "xpath":  "//a[contains(text(),'https://open.spotify.com/episode/7zewUWu1TYcKJSQZG')]",
+          "tabName": ["Agile Führung - I Want Change - der Podcast über Agilität für Non-Techies | Podcast on Spotify"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 7_1",
+          "pageAddress": "/de/i-want-change-podcast-folge-7-agile-fuehrung/",
+          "xpath":  "//a[contains(text(),'https://podcasts.apple.com/de/podcast/agile-f%C3%B')]",
+          "tabName": ["I Want Change - der Podcast über Agilität für Non-Techies: Agile Führung auf Apple Podcasts"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Blog 7_2",
+          "pageAddress": "/de/i-want-change-podcast-folge-7-agile-fuehrung/",
+          "xpath":  "//a[contains(text(),'https://www.podcast.de/episode/615923143/agile-fue')]",
+          "tabName": ["I Want Change - der Podcast über Agilität für Non-Techies Podcast"],
+          "PageOpenInNewTab": true
+        }
+      ]
+
+}

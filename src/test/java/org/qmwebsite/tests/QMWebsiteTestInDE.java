@@ -76,48 +76,26 @@ public class QMWebsiteTestInDE extends BaseTest {
     public void checkUrlLinkOnPages(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab)
     {
         checkLink(pageName, url, xpath, tabName, getPageOpenInNewTab);
-        /*
-        Article article = new Article(getDriver());
-        try {
-            article.load(url);
-            if (!getPageOpenInNewTab) {
-                article.checkLinkOpensOnTheSamePage(By.xpath(xpath), tabName, pageName, url);
-            } else {
-                article.checkLink(By.xpath(xpath), tabName, pageName, url);
-            }
-        }catch (TimeoutException | InvalidSelectorException e){
-            Assert.fail("Xpath: " + xpath + " is not available on page: " + ConfigLoader.getInstance().getBaseUrl() + url);
-        } catch (Exception e){
-            Assert.fail("An exception occured on page: " + url);
-        }
-        */
-
     }
 
     @Test(dataProvider="UrlListOnBlogQualityHereosDE")
     public void checkUrlLinkOnBlogsQualityHeroesDE(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab)
     {
         checkLink(pageName, url, xpath, tabName, getPageOpenInNewTab);
-//        Article article = new Article(getDriver());
-//        try {
-//            article.load(url);
-//            if (!getPageOpenInNewTab) {
-//                article.checkLinkOpensOnTheSamePage(By.xpath(xpath), tabName, pageName, url);
-//            } else {
-//                article.checkLink(By.xpath(xpath), tabName, pageName, url);
-//            }
-//        }catch (TimeoutException | InvalidSelectorException e){
-//            Assert.fail("Xpath: " + xpath + " is not available on page: " + ConfigLoader.getInstance().getBaseUrl() + url);
-//        } catch (Exception e){
-//            Assert.fail("An exception occured on page: " + url);
-//        }
     }
+    @Test(dataProvider="UrlListOnBlogIWantChangeDE")
+    public void checkUrlLinkOnBlogsIWantChangeDE(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab)
+    {
+        checkLink(pageName, url, xpath, tabName, getPageOpenInNewTab);
+    }
+
 
 
     public void checkLink(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab){
         Article article = new Article(getDriver());
         try {
             article.load(url);
+            //wait(500);
             if (!getPageOpenInNewTab) {
                 article.checkLinkOpensOnTheSamePage(By.xpath(xpath), tabName, pageName, url);
             } else {
@@ -169,15 +147,32 @@ public class QMWebsiteTestInDE extends BaseTest {
     public Object[] myDataProviderWithUrliLikOnBlogQualityHeroesDE() throws IOException {
         jsonFile.readFileWithLinkOnBlogQualityHeroesDE();
 
-        Object data[][]= new Object[jsonFile.getUrls().getUrlOnPagesModelList().size()][5];
+        Object data[][]= new Object[jsonFile.getUrlOnBlogsQualityHeroesDE().getUrlOnPagesModelList().size()][5];
 
-        IntStream.range(0,jsonFile.getUrls().getUrlOnPagesModelList().size()).forEach(i-> {
+        IntStream.range(0,jsonFile.getUrlOnBlogsQualityHeroesDE().getUrlOnPagesModelList().size()).forEach(i-> {
 
-            data[i][0] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getName();
-            data[i][1] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getPageAddress();
-            data[i][2] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getXpath();
-            data[i][3] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getTabName();
-            data[i][4] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getPageOpenInNewTab();
+            data[i][0] = jsonFile.getUrlOnBlogsQualityHeroesDE().getUrlOnPagesModelList().get(i).getName();
+            data[i][1] = jsonFile.getUrlOnBlogsQualityHeroesDE().getUrlOnPagesModelList().get(i).getPageAddress();
+            data[i][2] = jsonFile.getUrlOnBlogsQualityHeroesDE().getUrlOnPagesModelList().get(i).getXpath();
+            data[i][3] = jsonFile.getUrlOnBlogsQualityHeroesDE().getUrlOnPagesModelList().get(i).getTabName();
+            data[i][4] = jsonFile.getUrlOnBlogsQualityHeroesDE().getUrlOnPagesModelList().get(i).getPageOpenInNewTab();
+        });
+        return data;
+    }
+
+    @DataProvider(name="UrlListOnBlogIWantChangeDE")
+    public Object[] myDataProviderWithUrliLikOnBlogIWantChangeDE() throws IOException {
+        jsonFile.readFileWithLinkOnBlogIWantChangeDE();
+
+        Object data[][]= new Object[jsonFile.getUrlOnBlogsIWantChangeDE().getUrlOnPagesModelList().size()][5];
+
+        IntStream.range(0,jsonFile.getUrlOnBlogsIWantChangeDE().getUrlOnPagesModelList().size()).forEach(i-> {
+
+            data[i][0] = jsonFile.getUrlOnBlogsIWantChangeDE().getUrlOnPagesModelList().get(i).getName();
+            data[i][1] = jsonFile.getUrlOnBlogsIWantChangeDE().getUrlOnPagesModelList().get(i).getPageAddress();
+            data[i][2] = jsonFile.getUrlOnBlogsIWantChangeDE().getUrlOnPagesModelList().get(i).getXpath();
+            data[i][3] = jsonFile.getUrlOnBlogsIWantChangeDE().getUrlOnPagesModelList().get(i).getTabName();
+            data[i][4] = jsonFile.getUrlOnBlogsIWantChangeDE().getUrlOnPagesModelList().get(i).getPageOpenInNewTab();
         });
         return data;
     }

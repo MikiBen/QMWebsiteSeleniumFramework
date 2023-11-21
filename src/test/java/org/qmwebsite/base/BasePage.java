@@ -43,6 +43,10 @@ public abstract class BasePage {
         return  wait.until(ExpectedConditions.elementToBeClickable(element));
     }
 
+    protected Boolean WaitForTab(String url){
+        return  wait.until(ExpectedConditions.urlContains(url));
+    }
+
     public String getTabName(){
         return driver.getTitle();
     }
