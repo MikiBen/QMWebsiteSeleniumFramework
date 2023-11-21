@@ -20,7 +20,7 @@ import java.util.stream.IntStream;
 @Log
 public class QMWebsiteTestInDE extends BaseTest {
 
-/*
+
     @Test
     public void mainPageTest() {
         MainPage mainPage = new MainPage(getDriver());
@@ -34,8 +34,6 @@ public class QMWebsiteTestInDE extends BaseTest {
         eventsDE.load("/de/veranstaltungen/");
         eventsDE.checkExitsPage();
     }
-*/
-
 
     @Test (dataProvider = "AllUrlListDE")
     public void checkTabName(String pageName, String url, String tabName){
@@ -49,7 +47,7 @@ public class QMWebsiteTestInDE extends BaseTest {
                     "\nExpected Tab name is one of this: " + tabName);
         }
     }
-/*
+
     @Test (dataProvider = "AllUrlListDE")
     public void checkFooter(String pageName, String url, String tabName){
         Footer footer = new Footer(getDriver());
@@ -74,11 +72,11 @@ public class QMWebsiteTestInDE extends BaseTest {
             mainMenu.checkQMStoreButton();
     }
 
-*/
     @Test(dataProvider="UrlListOnArticlesDE")
     public void checkUrlLinkOnPages(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab)
     {
-
+        checkLink(pageName, url, xpath, tabName, getPageOpenInNewTab);
+        /*
         Article article = new Article(getDriver());
         try {
             article.load(url);
@@ -92,7 +90,47 @@ public class QMWebsiteTestInDE extends BaseTest {
         } catch (Exception e){
             Assert.fail("An exception occured on page: " + url);
         }
+        */
+
     }
+
+    @Test(dataProvider="UrlListOnBlogQualityHereosDE")
+    public void checkUrlLinkOnBlogsQualityHeroesDE(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab)
+    {
+        checkLink(pageName, url, xpath, tabName, getPageOpenInNewTab);
+//        Article article = new Article(getDriver());
+//        try {
+//            article.load(url);
+//            if (!getPageOpenInNewTab) {
+//                article.checkLinkOpensOnTheSamePage(By.xpath(xpath), tabName, pageName, url);
+//            } else {
+//                article.checkLink(By.xpath(xpath), tabName, pageName, url);
+//            }
+//        }catch (TimeoutException | InvalidSelectorException e){
+//            Assert.fail("Xpath: " + xpath + " is not available on page: " + ConfigLoader.getInstance().getBaseUrl() + url);
+//        } catch (Exception e){
+//            Assert.fail("An exception occured on page: " + url);
+//        }
+    }
+
+
+    public void checkLink(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab){
+        Article article = new Article(getDriver());
+        try {
+            article.load(url);
+            if (!getPageOpenInNewTab) {
+                article.checkLinkOpensOnTheSamePage(By.xpath(xpath), tabName, pageName, url);
+            } else {
+                article.checkLink(By.xpath(xpath), tabName, pageName, url);
+            }
+        }catch (TimeoutException | InvalidSelectorException e){
+            Assert.fail("Xpath: " + xpath + " is not available on page: " + ConfigLoader.getInstance().getBaseUrl() + url);
+        } catch (Exception e){
+            Assert.fail("An exception occured on page: " + url);
+        }
+
+    }
+
 
     @DataProvider(name="AllUrlListDE")
     public Object[] myDataProvider() throws IOException {
@@ -125,26 +163,6 @@ public class QMWebsiteTestInDE extends BaseTest {
             data[i][4] = jsonFile.getUrls().getUrlOnPagesModelList().get(i).getPageOpenInNewTab();
         });
         return data;
-    }
-
-
-    @Test(dataProvider="UrlListOnBlogQualityHereosDE")
-    public void checkUrlLinkOnBlogsQualityHeroesDE(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab)
-    {
-
-        Article article = new Article(getDriver());
-        try {
-            article.load(url);
-            if (!getPageOpenInNewTab) {
-                article.checkLinkOpensOnTheSamePage(By.xpath(xpath), tabName, pageName, url);
-            } else {
-                article.checkLink(By.xpath(xpath), tabName, pageName, url);
-            }
-        }catch (TimeoutException | InvalidSelectorException e){
-            Assert.fail("Xpath: " + xpath + " is not available on page: " + ConfigLoader.getInstance().getBaseUrl() + url);
-        } catch (Exception e){
-            Assert.fail("An exception occured on page: " + url);
-        }
     }
 
     @DataProvider(name="UrlListOnBlogQualityHereosDE")
