@@ -1,183 +1,270 @@
 {
       "pages": [
         {
-          "name": "MainPage",
+          "name": "1. MainPage",
           "url":  "",
           "tabName": "QualityMinds | Homepage"
         },
           {
-            "name": "Services",
+            "name": "2. Services",
             "url":  "/qm-services/",
             "tabName": "QualityMinds | Services"
           },
             {
-              "name": "Services/Testing and Quality Assurance",
+              "name": "3. Services/Testing and Quality Assurance",
               "url":  "/services/testing-and-quality-assurance/",
               "tabName": "QualityMinds | Testing and Quality Assurance"
             },
               {
-                "name": "Services/Testing and Quality Assurance/Functional Testing",
+                "name": "4. Services/Testing and Quality Assurance/Functional Testing",
                 "url":  "/services/testing-and-quality-assurance/functional-testing/",
                 "tabName": "QualityMinds | Functional Testing"
               },
               {
-                "name": "Services/Testing and Quality Assurance/Agile Testing",
+                "name": "5. Services/Testing and Quality Assurance/Agile Testing",
                 "url":  "/services/testing-and-quality-assurance/agile-testing/",
                 "tabName": "QualityMinds | Agile Testing"
               },
               {
-                "name": "Services/Testing and Quality Assurance/Test Automation",
+                "name": "6. Services/Testing and Quality Assurance/Test Automation",
                 "url":  "/services/testing-and-quality-assurance/test-automation/",
                 "tabName": "QualityMinds | Test Automation"
               },
               {
-                "name": "Services/Testing and Quality Assurance/Load and Performance Testing",
+                "name": "7. Services/Testing and Quality Assurance/Load and Performance Testing",
                 "url":  "/services/testing-and-quality-assurance/load-performance-testing/",
                 "tabName": "QualityMinds | Load and Performance Testing"
               },
               {
-                "name": "Services/Testing and Quality Assurance/Test Management",
+                "name": "8. Services/Testing and Quality Assurance/Test Management",
                 "url":  "/services/testing-and-quality-assurance/test-management/",
                 "tabName": "QualityMinds | Test Management"
               },
               {
-                "name": "Services/Testing and Quality Assurance/Test Data & Test Environment",
+                "name": "9. Services/Testing and Quality Assurance/Test Data & Test Environment",
                 "url":  "/services/testing-and-quality-assurance/test-data-test-environment/",
                 "tabName": "QualityMinds | Test Data & Test Environment"
               },
               {
-                "name": "Services/Testing and Quality Assurance/TestMaster",
+                "name": "10. Services/Testing and Quality Assurance/TestMaster",
                 "url":  "/services/testing-and-quality-assurance/testmaster",
                 "tabName": "QualityMinds | TestMaster"
               },
               {
-                "name": "Services/Testing and Quality Assurance/Data Integration/",
+                "name": "11. Services/Testing and Quality Assurance/Data Integration/",
                 "url":  "/services/testing-and-quality-assurance/data-integration/",
                 "tabName": "QualityMinds | Data Integration"
               },
             {
-              "name": "Services/Software Development/",
+              "name": "12. Services/Software Development/",
               "url":  "/services/software-development/",
               "tabName": "QualityMinds | SOFTWARE DEVELOPMENT"
             },
               {
-                "name": "Services/Software Development/Agile Software Development Teams",
+                "name": "13. Services/Software Development/Agile Software Development Teams",
                 "url":  "/services/software-development/agile-software-development-teams/",
                 "tabName": "QualityMinds | Agile Software Development Teams"
               },
               {
-                "name": "Services/Software Development/Product Technology Research",
+                "name": "14. Services/Software Development/Product Technology Research",
                 "url":  "/services/software-development/product-technology-research/",
                 "tabName": "QualityMinds | Product Technology Research"
               },
               {
-                "name": "Services/Software Development/Devops",
+                "name": "15. Services/Software Development/Devops",
                 "url":  "/services/software-development/devops/",
                 "tabName": "DevOps | QualityMinds"
               },
               {
-                "name": "Services/Software Development/Requirements Engineering for Agile Team",
+                "name": "16. Services/Software Development/Requirements Engineering for Agile Team",
                 "url":  "/services/software-development/requirements-engineering-for-agile-teams/",
                 "tabName": "QualityMinds | Requirements Engineering for Agile Teams"
               },
               {
-                "name": "Services/Software Development/Agile Web and App Development",
+                "name": "17. Services/Software Development/Agile Web and App Development",
                 "url":  "/services/software-development/agile-web-and-app-development/",
                 "tabName": "Agile Web and App Development | QualityMinds"
               },
             {
-              "name": "Services/Artificial Intelligence",
+              "name": "18. Services/Artificial Intelligence",
               "url":  "/services/artificial-intelligence/",
               "tabName": "QualityMinds | Artificial Intelligence"
             },
               {
-                "name": "Services/Autonomous Driving Testing",
+                "name": "19. Services/Autonomous Driving Testing",
                 "url":  "/services/artificial-intelligence/autonomous-driving-testing/",
                 "tabName": "QualityMinds | Autonomous Driving Testing"
               },
             {
-              "name": "Services/Agile Support",
+              "name": "20. Services/Agile Support",
               "url":  "/services/agile-support/",
               "tabName": "QualityMinds | AGILE SUPPORT"
             },
               {
-                "name": "Services/Agile Support/Scrum Master",
+                "name": "21. Services/Agile Support/Scrum Master",
                 "url":  "/services/agile-support/scrum-master/",
                 "tabName": "QualityMinds | Scrum Master"
               },
               {
-                "name": "Services/Agile Support/Remote Team Master",
+                "name": "22. Services/Agile Support/Remote Team Master",
                 "url":  "/services/agile-support/remote-team-master/",
                 "tabName": "QualityMinds | Remote Team Master"
               },
               {
-                "name": "Services/Agile Support/Agile Coaching",
+                "name": "23. Services/Agile Support/Agile Coaching",
                 "url":  "/services/agile-support/agile-coaching/",
                 "tabName": "QualityMinds | Agile Coaching"
               },
             {
-              "name": "Services/QualityLearning",
+              "name": "24. Services/QualityLearning",
               "url":  "/qm-services/quality-learning/",
               "tabName": "QualityMinds | QualityLearning"
             },
               {
-                "name": "Services/QualityLearning/Agile Learning",
+                "name": "25. Services/QualityLearning/Agile Learning",
                 "url":  "/qm-services/quality-learning/agile-learning/",
                 "tabName": "QualityMinds | Agile Learning"
               },
                 {
-                  "name": "Services/QualityLearning/Agile Learning/Coaching for Everyone",
+                  "name": "26. Services/QualityLearning/Agile Learning/Coaching for Everyone",
                   "url":  "/qm-services/quality-learning/agile-learning/coaching-for-everyone/",
                   "tabName": "QualityMinds | Coaching for Everyone"
                 },
               {
-                "name": "Services/QualityLearning/Agile Teaching",
+                "name": "27. Services/QualityLearning/Agile Teaching",
                 "url":  "/qm-services/quality-learning/agile-teaching/",
                 "tabName": "QualityMinds | Agile Teaching"
               },
               {
-                "name": "Services/QualityLearning/Education Opportunities",
+                "name": "28. Services/QualityLearning/Education Opportunities",
                 "url":  "/qm-services/quality-learning/education-opportunities/",
                 "tabName": "QualityMinds | Education Opportunities"
               },
                 {
-                  "name": "Services/QualityLearning/Education Opportunities/Design agile teaching and learning settings with teaching stories",
+                  "name": "29. Services/QualityLearning/Education Opportunities/Design agile teaching and learning settings with teaching stories",
                   "url":  "/qm-services/quality-learning/education-opportunities/design-agile-teaching-and-learning-settings-with-teaching-stories/",
                   "tabName": "QualityMinds | Design agile teaching and learning settings with teaching stories"
                 },
                 {
-                  "name": "Services/QualityLearning/Education Opportunities/Value Workshop",
+                  "name": "30. Services/QualityLearning/Education Opportunities/Value Workshop",
                   "url":  "/qm-services/quality-learning/education-opportunities/value-workshop/",
                   "tabName": "QualityMinds | Value Workshop"
                 },
                 {
-                  "name": "Services/QualityLearning/Education Opportunities/Fit for Future",
+                  "name": "31. Services/QualityLearning/Education Opportunities/Fit for Future",
                   "url":  "/qm-services/quality-learning/education-opportunities/fit-for-future/",
                   "tabName": "QualityMinds | Fit for Future"
                 },
                 {
-                  "name": "Services/QualityLearning/Education Opportunities/Negative Feedback",
+                  "name": "32. Services/QualityLearning/Education Opportunities/Negative Feedback",
                   "url":  "/qm-services/quality-learning/education-opportunities/negative-feedback/",
                   "tabName": "QualityMinds | Negative Feedback"
                 },
                 {
-                  "name": "Services/QualityLearning/Education Opportunities/Agile Leadership Workshop",
+                  "name": "33. Services/QualityLearning/Education Opportunities/Agile Leadership Workshop",
                   "url":  "/qm-services/quality-learning/education-opportunities/agile-leadership-workshop/",
                   "tabName": "QualityMinds | Agile Leadership Workshop"
                 },
                 {
-                  "name": "Services/QualityLearning/Education Opportunities/training-to-become-an-agile-learning-coach/",
+                  "name": "34. Services/QualityLearning/Education Opportunities/training-to-become-an-agile-learning-coach/",
                   "url":  "/qm-services/quality-learning/education-opportunities/training-to-become-an-agile-learning-coach/",
                   "tabName": "QualityMinds | Training to become an agile learning coach"
                 },
               {
-                "name": "Services/QualityLearning/Education Opportunities/training-to-become-an-agile-learning-coach/",
+                "name": "35. Services/QualityLearning/QualityLearning Tool/",
                 "url":  "/qm-services/quality-learning/quality-learning-tool/",
                 "tabName": "QualityMinds | QualityLearning Tool"
-              }
-
-
-
+              },
+              {
+                "name": "36. Services/QualityLearning/Publications",
+                "url":  "/qm-services/quality-learning/publications/",
+                "tabName": "QualityMinds | Publications"
+              },
+                {
+                  "name": "37. Services/QualityLearning/Publications/Learners First. An Agile Approach to Learning",
+                  "url":  "/qm-services/quality-learning/publications/learners-first-an-agile-approach-to-learning/",
+                  "tabName": "QualityMinds | Learners First. An Agile Approach to Learning"
+                },
+            {
+              "name": "38. Services/Diversity Consulting",
+              "url":  "/services/diversity-consulting/",
+              "tabName": "QualityMinds | DIVERSITY CONSULTING"
+            },
+          {
+            "name": "39. Industries",
+            "url":  "/industries/",
+            "tabName": "QualityMinds | Industries"
+          },
+            {
+              "name": "40. Industries/Automotive",
+              "url":  "/industries/automotive/",
+              "tabName": "QualityMinds | Automotive"
+            },
+            {
+              "name": "41. Industries/Finance, Banking and Insurance",
+              "url":  "/industries/finance-banking-and-insurance/",
+              "tabName": "QualityMinds | Finance, Banking and Insurance"
+            },
+            {
+              "name": "42. Industries/Media & Telecommunications",
+              "url":  "/industries/media-telecommunications/",
+              "tabName": "QualityMinds | Media & Telecommunications"
+            },
+            {
+              "name": "43. Industries/E-Government",
+              "url":  "/industries/e-government/",
+              "tabName": "QualityMinds | E-Government"
+            },
+            {
+              "name": "44. Industries/Commerce & Retail",
+              "url":  "/industries/commerce-retail/",
+              "tabName": "QualityMinds | Commerce & Retail"
+            },
+          {
+            "name": "45. About us",
+            "url":  "/about-us/",
+            "tabName": "QualityMinds | About us"
+          },
+            {
+              "name": "46. About us/Cultural Values",
+              "url":  "/about-us/cultural-values/",
+              "tabName": "QualityMinds | Cultural Values"
+            },
+            {
+              "name": "47. About us/Facts and Figures",
+              "url":  "/about-us/facts-and-figures/",
+              "tabName": "QualityMinds | Facts and Figures"
+            },
+            {
+              "name": "48. About us/Engagement Models",
+              "url":  "/services/engagement-models/",
+              "tabName": "QualityMinds | ENGAGEMENT MODELS"
+            },
+            {
+              "name": "49. About us/ESR – Everybody’s Social Responsibility",
+              "url":  "/about-us/esr-everybodys-social-responsibility/",
+              "tabName": "QualityMinds | ESR – Everybody’s Social Responsibility"
+            },
+            {
+              "name": "50. About us/News & Blog",
+              "url":  "/about-us/news-blog/",
+              "tabName": "QualityMinds | News & Blog"
+            },
+            {
+              "name": "51. About us/Events",
+              "url":  "/events/",
+              "tabName": "Events from May 23 – May 9 – QualityMinds"
+            },
+          {
+            "name": "52. Career",
+            "url":  "/career/",
+            "tabName": "QualityMinds | Career"
+          },
+          {
+            "name": "53. Contact",
+            "url":  "/contact/",
+            "tabName": "QualityMinds | Contact"
+          }
 
       ]
 }

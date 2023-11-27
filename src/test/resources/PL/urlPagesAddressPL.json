@@ -1,0 +1,275 @@
+{
+      "pages": [
+        {
+          "name": "1. MainPage",
+          "url":  "/pl",
+          "tabName": "QualityMinds | Strona główna"
+        },
+          {
+            "name": "2. Usługi",
+            "url":  "/pl/qm-uslugi/",
+            "tabName": "QualityMinds | Usługi"
+          },
+            {
+              "name": "3. Usługi/Testowanie i zapewnianie jakosci",
+              "url":  "/pl/uslugi/testowanie-i-zapewnianie-jakosci/",
+              "tabName": "QualityMinds | testowanie i zapewnianie jakosci"
+            },
+              {
+                "name": "4. Usługi/Testowanie i zapewnianie jakosci/Testowanie Funkcjonalne",
+                "url":  "/pl/uslugi/testowanie-i-zapewnianie-jakosci/testowanie-funkcjonalne/",
+                "tabName": "QualityMinds | Testowanie Funkcjonalne"
+              },
+              {
+                "name": "5. Usługi/Testowanie i zapewnianie jakosci/Testowanie zwinne",
+                "url":  "/pl/uslugi/testowanie-i-zapewnianie-jakosci/testowanie-zwinne/",
+                "tabName": "QualityMinds | Testowanie zwinne"
+              },
+              {
+                "name": "6. Usługi/Testowanie i zapewnianie jakosci/Automatyzacja testowania",
+                "url":  "/pl/uslugi/testowanie-i-zapewnianie-jakosci/automatyzacja-testowania/",
+                "tabName": "QualityMinds | Automatyzacja testowania"
+              },
+              {
+                "name": "7. Usługi/Testowanie i zapewnianie jakosci/Testowanie Obciążeń i Wydajności",
+                "url":  "/pl/uslugi/testowanie-i-zapewnianie-jakosci/testowanie-obciazen-i-wydajnosci/",
+                "tabName": "QualityMinds | Testowanie Obciążeń i Wydajności"
+              },
+              {
+                "name": "8. Usługi/Testowanie i zapewnianie jakosci/Zarządzanie testami",
+                "url":  "/pl/uslugi/testowanie-i-zapewnianie-jakosci/zarzadzanie-testami/",
+                "tabName": "QualityMinds | Zarządzanie testami"
+              },
+              {
+                "name": "9. Usługi/Testowanie i zapewnianie jakosci/Dane Testowe i Zarządzanie Środowiskiem Testowym",
+                "url":  "/pl/uslugi/testowanie-i-zapewnianie-jakosci/dane-testowe-i-zarzadzanie-srodowiskiem-testowym/",
+                "tabName": "QualityMinds | Dane Testowe i Zarządzanie Środowiskiem Testowym"
+              },
+              {
+                "name": "10. Usługi/Testowanie i zapewnianie jakosci/TestMaster",
+                "url":  "/pl/uslugi/testowanie-i-zapewnianie-jakosci/testmaster/",
+                "tabName": "QualityMinds | TestMaster"
+              },
+              {
+                "name": "11. Usługi/Testowanie i zapewnianie jakosci/Integracja danych",
+                "url":  "/pl/uslugi/testowanie-i-zapewnianie-jakosci/integracja-danych/",
+                "tabName": "QualityMinds | INTEGRACJA DANYCH"
+              },
+            {
+              "name": "12. Usługi/Tworzenie oprogramowania",
+              "url":  "/pl/uslugi/tworzenie-oprogramowania/",
+              "tabName": "QualityMinds | TWORZENIE OPROGRAMOWANIA"
+            },
+              {
+                "name": "13. Usługi/Tworzenie oprogramowania/zwinne zespoły programistyczne",
+                "url":  "/pl/uslugi/tworzenie-oprogramowania/zwinne-zespoly-programistyczne/",
+                "tabName": "QualityMinds | zwinne zespoły programistyczne"
+              },
+              {
+                "name": "14. Usługi/Tworzenie oprogramowania/Badania nad Technologią Produktu",
+                "url":  "/pl/uslugi/tworzenie-oprogramowania/badania-nad-technologia-produktu/",
+                "tabName": "QualityMinds | Badania nad Technologią Produktu"
+              },
+              {
+                "name": "15. Usługi/Tworzenie oprogramowania/DevOps",
+                "url":  "/pl/uslugi/tworzenie-oprogramowania/devops/",
+                "tabName": "QualityMinds | DevOps"
+              },
+              {
+                "name": "16. Usługi/Tworzenie oprogramowania/Inżynieria Wymagań dla Zespołów Zwinnych",
+                "url":  "/pl/uslugi/tworzenie-oprogramowania/inzynieria-wymagan-dla-zespolow-zwinnych/",
+                "tabName": "QualityMinds | Inżynieria Wymagań dla Zespołów Zwinnych"
+              },
+              {
+                "name": "17. Usługi/Tworzenie oprogramowania/Zwinne programowanie stron i aplikacji",
+                "url":  "/pl/uslugi/tworzenie-oprogramowania/zwinne-programowanie-stron-i-aplikacji/",
+                "tabName": "Zwinne programowanie stron i aplikacji | QualityMinds"
+              },
+            {
+              "name": "18. Usługi/Sztuczna Inteligencja",
+              "url":  "/pl/uslugi/sztuczna-inteligencja/",
+              "tabName": "QualityMinds | SZTUCZNA INTELIGENCJA"
+            },
+              {
+                "name": "19. Usługi/Testy jazdy autonomicznej",
+                "url":  "/pl/uslugi/sztuczna-inteligencja/testy-jazdy-autonomicznej/",
+                "tabName": "QualityMinds | Testy jazdy autonomicznej"
+              },
+            {
+              "name": "20. Usługi/Agile Support",
+              "url":  "/pl/uslugi/agile-support/",
+              "tabName": "QualityMinds | AGILE SUPPORT"
+            },
+              {
+                "name": "21. Usługi/Agile Support/Scrum Master",
+                "url":  "/pl/uslugi/agile-support/scrum-master/",
+                "tabName": "QualityMinds | Scrum Master"
+              },
+              {
+                "name": "22. Usługi/Agile Support/Remote Team Master",
+                "url":  "/pl/uslugi/agile-support/remote-team-master//",
+                "tabName": "QualityMinds | Remote Team Master"
+              },
+              {
+                "name": "23. Usługi/Agile Support/Agile Coaching",
+                "url":  "/pl/uslugi/agile-support/agile-coaching/",
+                "tabName": "QualityMinds | Agile Coaching"
+              },
+            {
+              "name": "24. Usługi/QualityLearning",
+              "url":  "/pl/qm-uslugi/quality-learning/",
+              "tabName": "QualityMinds | QualityLearning"
+            },
+              {
+                "name": "25. Usługi/QualityLearning/Nauka Zwinna",
+                "url":  "/pl/qm-uslugi/quality-learning/nauka-zwinna//",
+                "tabName": "QualityMinds | Nauka zwinna"
+              },
+                {
+                  "name": "26. Usługi/QualityLearning/Coaching dla Wszystkiche",
+                  "url":  "/pl/qm-uslugi/quality-learning/nauka-zwinna/coaching-dla-wszystkich/",
+                  "tabName": "QualityMinds | Coaching dla wszystkich"
+                },
+              {
+                "name": "27. Usługi/QualityLearning/Zwinne nauczanie",
+                "url":  "/pl/qm-uslugi/quality-learning/zwinne-nauczanie//",
+                "tabName": "QualityMinds | Zwinne nauczanie"
+              },
+              {
+                "name": "28. Usługi/QualityLearning/Kursy",
+                "url":  "/pl/qm-uslugi/quality-learning/kursy/",
+                "tabName": "QualityMinds | Kursy"
+              },
+                {
+                  "name": "29. Usługi/QualityLearning/Kursy/Zaprojektuj zwinne środowisko nauki przy pomocy historyjek nauczania",
+                  "url":  "/pl/qm-uslugi/quality-learning/kursy/zaprojektuj-zwinne-srodowisko-nauki-przy-pomocy-historyjek-nauczania/",
+                  "tabName": "QualityMinds | Zaprojektuj zwinne środowisko nauki przy pomocy historyjek nauczania"
+                },
+                {
+                  "name": "30. Usługi/QualityLearning/Kursy/Warsztaty: Wartości",
+                  "url":  "/pl/qm-uslugi/quality-learning/kursy/warsztaty-wartosci/",
+                  "tabName": "QualityMinds | Warsztaty: Wartości"
+                },
+                {
+                  "name": "31. Usługi/QualityLearning/Kursy/Gotowi na przyszłośće",
+                  "url":  "/pl/qm-uslugi/quality-learning/kursy/gotowi-na-przyszlosc/",
+                  "tabName": "QualityMinds | Gotowi na przyszłość"
+                },
+                {
+                  "name": "32. Usługi/QualityLearning/Kursy/Negatywny Feedback",
+                  "url":  "/pl/qm-uslugi/quality-learning/kursy/negatywny-feedback/",
+                  "tabName": "QualityMinds | Negatywny feedback"
+                },
+                {
+                  "name": "33. Usługi/QualityLearning/Kursy/Warsztaty: Zwinne przywództwo",
+                  "url":  "/pl/qm-uslugi/quality-learning/kursy/warsztaty-zwinne-przywodztwo/",
+                  "tabName": "QualityMinds | Warsztaty: Zwinne przywództwo"
+                },
+                {
+                  "name": "34. Usługi/QualityLearning/Kursy/Coaching w edukacji",
+                  "url":  "/pl/qm-uslugi/quality-learning/kursy/coaching-w-edukacji/",
+                  "tabName": "QualityMinds | Coaching w edukacji"
+                },
+              {
+                "name": "35. Usługi/QualityLearning/QualityLearning Tool/",
+                "url":  "/pl/qm-uslugi/quality-learning/quality-learning-tool/",
+                "tabName": "QualityMinds | QualityLearning Tool"
+              },
+              {
+                "name": "36. Usługi/QualityLearning/Publikacje",
+                "url":  "/pl/qm-uslugi/quality-learning/publikacje/",
+                "tabName": "QualityMinds | Publikacje"
+              },
+                {
+                  "name": "37. Usługi/QualityLearning/Publikacje/QualityMinds | Ucz się tego, co chcesz!",
+                  "url":  "/pl/qm-uslugi/quality-learning/publikacje/ucz-sie-tego-co-chcesz/",
+                  "tabName": "QualityMinds | Ucz się tego, co chcesz!"
+                },
+            {
+              "name": "38. Usługi/Doradztwo ds. Różnorodności",
+              "url":  "/pl/uslugi/doradztwo-ds-roznorodnosci/",
+              "tabName": "QualityMinds | DORADZTWO DS. RÓŻNORODNOŚCI"
+            },
+          {
+            "name": "39. Branże",
+            "url":  "/pl/branze/",
+            "tabName": "QualityMinds | Branże"
+          },
+            {
+              "name": "40. Branże/Motoryzacja",
+              "url":  "/pl/branze/motoryzacja/",
+              "tabName": "QualityMinds | Motoryzacja"
+            },
+            {
+              "name": "41. Branże/Finanse, bankowość i ubezpieczenia",
+              "url":  "/pl/branze/finanse-bankowosc-i-ubezpieczenia/",
+              "tabName": "QualityMinds | Finanse, bankowość i ubezpieczenia"
+            },
+            {
+              "name": "42. Branże/Media i telekomunikacjas",
+              "url":  "/pl/branze/media-i-telekomunikacja/",
+              "tabName": "QualityMinds | Media i telekomunikacja"
+            },
+            {
+              "name": "43. Branże/E-administracja",
+              "url":  "/pl/branze/e-administracja/",
+              "tabName": "QualityMinds | E-administracja"
+            },
+            {
+              "name": "44. Branże/Handel i sprzedaż detaliczna",
+              "url":  "/pl/branze/handel-i-sprzedaz-detaliczna/",
+              "tabName": "QualityMinds | Handel i sprzedaż detaliczna"
+            },
+          {
+            "name": "45. O nas",
+            "url":  "/pl/o-nas/",
+            "tabName": "QualityMinds | O nas"
+          },
+            {
+              "name": "46. O nas/Kultura Firmy",
+              "url":  "/pl/o-nas/kultura-firmy/",
+              "tabName": "QualityMinds | Kultura Firmy"
+            },
+            {
+              "name": "47. O nas/Fakty i liczby",
+              "url":  "/pl/o-nas/fakty-i-liczby/",
+              "tabName": "QualityMinds | Fakty i liczby"
+            },
+            {
+              "name": "48. O nas/Modele Zaangażowania",
+              "url":  "/pl/uslugi/modele-zaangazowania/",
+              "tabName": "QualityMinds | MODELE ZAANGAŻOWANIA"
+            },
+            {
+              "name": "49. O nas/ESR – Everybody’s Social Responsibility",
+              "url":  "/pl/o-nas/esr-everybodys-social-responsibility/",
+              "tabName": "QualityMinds | ESR – Everybody’s Social Responsibility"
+            },
+            {
+              "name": "50. O nas/Aktualności i Blo",
+              "url":  "/pl/o-nas/aktualnosci-i-blog/",
+              "tabName": "QualityMinds | Aktualności i Blog"
+            },
+            {
+              "name": "51. O nas/Wydarzenia",
+              "url":  "/pl/wydarzenia/",
+              "tabName": "Events from May 23 – May 9 – QualityMinds"
+            },
+          {
+            "name": "52. Kariera",
+            "url":  "/pl/kariera/",
+            "tabName": "QualityMinds | Kariera"
+          },
+            {
+              "name": "53. Kariera/Oferty Pracy",
+              "url":  "/pl/kariera/oferty-pracy/",
+              "tabName": "QualityMinds | Oferty Pracy"
+            },
+          {
+            "name": "54. Kontakt",
+            "url":  "/pl/kontakt/",
+            "tabName": "QualityMinds | Kontakt"
+          }
+
+      ]
+}

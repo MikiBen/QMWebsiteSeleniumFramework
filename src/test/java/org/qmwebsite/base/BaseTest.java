@@ -85,31 +85,31 @@ public class BaseTest {
 
     @DataProvider(name="AllUrlListDE")
     protected Object[] getAllUrlListDE() throws IOException {
-
         return (Object[]) readFileWithUrl("src/test/resources/DE/urlPagesAddressDE.json");
     }
 
     @DataProvider(name="AllUrlListENG")
     protected Object[] getAllUrlListENG() throws IOException {
-
         return (Object[]) readFileWithUrl("src/test/resources/ENG/urlPagesAddressENG.json");
+    }
+
+    @DataProvider(name="AllUrlListPL")
+    protected Object[] getAllUrlListPL() throws IOException {
+        return (Object[]) readFileWithUrl("src/test/resources/PL/urlPagesAddressPL.json");
     }
 
     @DataProvider(name="UrlListOnArticlesDE")
     protected Object[] getAllLinkOnArticlesDE() throws IOException {
-
         return (Object[]) readFileWithLinksOnPages("src/test/resources/DE/linkOnArticlesDEWithoutLinkedInProfile.json");
     }
 
     @DataProvider(name="UrlListOnBlogQualityHereosDE")
     protected Object[] getAllLinkOnBlogQualityHeroesDE() throws IOException {
-
         return (Object[]) readFileWithLinksOnPages("src/test/resources/DE/linkOnBlogQualityHeroesDEWithoutLinkedInProfile.json");
     }
 
     @DataProvider(name="UrlListOnBlogIWantChangeDE")
     protected Object[] getAllLinkOnBlogIWantChangeDE() throws IOException {
-
         return (Object[]) readFileWithLinksOnPages("src/test/resources/DE/linkOnBlogIWantChangeWithoutLinkedInProfile.json");
     }
 
@@ -117,7 +117,6 @@ public class BaseTest {
     private Object readFileWithUrl (String path) throws IOException {
 
         jsonFile.readFileWithAllUrl(path);
-
         Object data[][]= new Object[jsonFile.getPages().getUrlModelList().size()][3];
 
         IntStream.range(0,jsonFile.getPages().getUrlModelList().size()).forEach(i-> {
@@ -125,7 +124,6 @@ public class BaseTest {
             data[i][0] = jsonFile.getPages().getUrlModelList().get(i).getName();
             data[i][1] = jsonFile.getPages().getUrlModelList().get(i).getUrl();
             data[i][2] = jsonFile.getPages().getUrlModelList().get(i).getTabName();
-
         });
         return data;
     }
@@ -133,7 +131,6 @@ public class BaseTest {
     private Object readFileWithLinksOnPages (String path) throws IOException {
 
         jsonFile.readFileWithAllLinksOnPages(path);
-
         Object data[][]= new Object[jsonFile.getLinks().getUrlOnPagesModelList().size()][5];
 
         IntStream.range(0,jsonFile.getLinks().getUrlOnPagesModelList().size()).forEach(i-> {
