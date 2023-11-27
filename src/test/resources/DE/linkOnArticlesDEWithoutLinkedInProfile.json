@@ -740,7 +740,7 @@
           "name": "Article 64_0",
           "pageAddress": "/de/our-devops-team-at-the-kubecon-2023/",
           "xpath":  "//a[normalize-space()='Kubecon']",
-          "tabName": ["KubeCon + CloudNativeCon | Cloud Native Computing Foundation","KubeCon + CloudNativeCon | CNCF"],
+          "tabName": ["KubeCon + CloudNativeCon | Cloud Native Computing Foundation","KubeCon + CloudNativeCon | CNCF", "KubeCon + CloudNativeCon | CNCF"],
           "PageOpenInNewTab": true
         },
         {

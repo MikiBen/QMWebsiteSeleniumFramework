@@ -91,24 +91,10 @@ public class QMWebsiteTestInDE extends BaseTest {
 
 
 
-    public void checkLink(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab){
-        Article article = new Article(getDriver());
-        try {
-            article.load(url);
-            //wait(500);
-            if (!getPageOpenInNewTab) {
-                article.checkLinkOpensOnTheSamePage(By.xpath(xpath), tabName, pageName, url);
-            } else {
-                article.checkLink(By.xpath(xpath), tabName, pageName, url);
-            }
-        }catch (TimeoutException | InvalidSelectorException e){
-            Assert.fail("Xpath: " + xpath + " is not available on page: " + ConfigLoader.getInstance().getBaseUrl() + url);
-        } catch (Exception e){
-            Assert.fail("An exception occured on page: " + url);
-        }
 
-    }
 
+
+/*
 
     @DataProvider(name="AllUrlListDE")
     public Object[] myDataProvider() throws IOException {
@@ -176,6 +162,40 @@ public class QMWebsiteTestInDE extends BaseTest {
         });
         return data;
     }
+
+    */
+
+    /*
+    @DataProvider(name="AllUrlListDE")
+    public Object[] myDataProvider() throws IOException {
+
+        return (Object[]) readFileWithUrl("src/test/resources/DE/urlPagesAddressDE.json");
+    }
+
+    @DataProvider(name="AllUrlListENG")
+    public Object[] myDataProviderENG() throws IOException {
+
+        return (Object[]) readFileWithUrl("src/test/resources/ENG/urlPagesAddressENG.json");
+    }
+
+
+    private Object readFileWithUrl (String path) throws IOException {
+
+        jsonFile.readFileWithAllUrl(path);
+
+        Object data[][]= new Object[jsonFile.getPages().getUrlModelList().size()][3];
+
+        IntStream.range(0,jsonFile.getPages().getUrlModelList().size()).forEach(i-> {
+
+            data[i][0] = jsonFile.getPages().getUrlModelList().get(i).getName();
+            data[i][1] = jsonFile.getPages().getUrlModelList().get(i).getUrl();
+            data[i][2] = jsonFile.getPages().getUrlModelList().get(i).getTabName();
+
+        });
+        return data;
+    }
+
+    */
 
     /*
     @Test

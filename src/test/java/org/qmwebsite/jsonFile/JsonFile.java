@@ -8,25 +8,20 @@ import java.io.IOException;
 @Getter
 public class JsonFile {
     private Page pages;
+    private Url links;
     private Url urls;
     private Url urlOnBlogsQualityHeroesDE;
     private Url urlOnBlogsIWantChangeDE;
 
     private final ObjectMapper objectMapper = new ObjectMapper();
-    public void readFileWithAllUrlPagesAddressDE() throws IOException {
 
-        pages = objectMapper.readValue(new java.io.File("src/test/resources/urlPagesAddressDE.json"), Page.class);
+    public void readFileWithAllUrl(String path) throws IOException {
+
+        pages = objectMapper.readValue(new java.io.File(path), Page.class);
     }
-    public void readFileWithLinkOnArticlesDE() throws IOException {
 
-        urls = objectMapper.readValue(new java.io.File("src/test/resources/linkOnArticlesDEWithoutLinkedInProfile.json"), Url.class);
-    }
-    public void readFileWithLinkOnBlogQualityHeroesDE() throws IOException {
+    public void readFileWithAllLinksOnPages(String path) throws IOException {
 
-        urlOnBlogsQualityHeroesDE = objectMapper.readValue(new java.io.File("src/test/resources/linkOnBlogQualityHeroesDEWithoutLinkedInProfile.json"), Url.class);
-    }
-    public void readFileWithLinkOnBlogIWantChangeDE() throws IOException {
-
-        urlOnBlogsIWantChangeDE = objectMapper.readValue(new java.io.File("src/test/resources/linkOnBlogIWantChangeWithoutLinkedInProfile.json"), Url.class);
+        links = objectMapper.readValue(new java.io.File(path), Url.class);
     }
 }
