@@ -82,17 +82,17 @@
                 },
                 {
                   "name": "17. Portfolio/softwareentwicklung/Nachhaltige Softwareentwicklung",
-                  "url":  "de/portfolio/softwareentwicklung/nachhaltige-softwareentwicklung-vom-design-bis-zum-betrieb/",
+                  "url":  "/de/portfolio/softwareentwicklung/nachhaltige-softwareentwicklung-vom-design-bis-zum-betrieb/",
                   "tabName": "Nachhaltige Softwareentwicklung – vom Design bis zum Betrieb | QualityMinds"
                 },
                 {
                   "name": "18. Portfolio/softwareentwicklung/Agile Web",
-                  "url":  "de/portfolio/softwareentwicklung/agile-web-und-applikationsentwicklung/",
+                  "url":  "/de/portfolio/softwareentwicklung/agile-web-und-applikationsentwicklung/",
                   "tabName": "Agile Web - und Applikationsentwicklung | QualityMinds"
                 },
             {
               "name": "19. Portfolio/Künstliche Intelligenz",
-              "url":  "de/portfolio/kuenstliche-intelligenz/",
+              "url":  "/de/portfolio/kuenstliche-intelligenz/",
               "tabName": "QualityMinds | Künstliche Intelligenz"
             },
               {
@@ -122,7 +122,7 @@
                 },
             {
               "name": "25. QualityLearning",
-              "url":  "de/qm-portfolio/quality-learning/",
+              "url":  "/de/qm-portfolio/quality-learning/",
               "tabName": "QualityMinds | QUALITYLEARNING"
             },
               {
@@ -178,7 +178,7 @@
                 {
                   "name": "36. QualityLearning/weiterbildung/ausbildung-zum-agilen-lerncoach",
                   "url":  "/de/weiterbildung-agiler-lerncoach/",
-                  "tabName": "QualityMinds | Ausbildung zum agilen Lerncoach"
+                  "tabName": "NEU! Ausbildung agiler Lerncoach – Innovatives Lernkonzept"
                 },
               {
                 "name": "37. QualityLearning/quality-learning-tool",
@@ -192,7 +192,7 @@
               },
                 {
                   "name": "39. QualityLearning/publikationen/Lern doch",
-                  "url":  "de/qm-portfolio/quality-learning/publikationen/lern-doch-was-du-willst/",
+                  "url":  "/de/qm-portfolio/quality-learning/publikationen/lern-doch-was-du-willst/",
                   "tabName": "QualityMinds | Lern doch, was Du willst!"
                 },
             {

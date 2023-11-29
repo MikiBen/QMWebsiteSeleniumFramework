@@ -14,8 +14,6 @@ public class QMWebsiteTestInPL extends BaseTest {
 
     @Test (dataProvider = "AllUrlListPL")
     public void checkTabName(String pageName, String url, String tabName){
-
-        System.out.println(url);
         MainPage mainPage = new MainPage(getDriver());
                     mainPage.load(url);
                     try {
