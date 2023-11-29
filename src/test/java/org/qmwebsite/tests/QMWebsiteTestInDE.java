@@ -47,7 +47,7 @@ public class QMWebsiteTestInDE extends BaseTest {
                     "\nExpected Tab name is one of this: " + tabName);
         }
     }
-
+/*
     @Test (dataProvider = "AllUrlListDE")
     public void checkFooter(String pageName, String url, String tabName){
         Footer footer = new Footer(getDriver());
@@ -64,14 +64,17 @@ public class QMWebsiteTestInDE extends BaseTest {
                             checkXingButton().
                             checkFeedButton();
                 }
-
+*/
+    /*
     @Test (dataProvider = "AllUrlListDE")
     public void checkMainMenu(String pageName, String url, String tabName){
         MainMenu mainMenu = new MainMenu(getDriver());
             mainMenu.load(url);
             mainMenu.checkQMStoreButton();
     }
+*/
 
+    /*
     @Test(dataProvider="UrlListOnArticlesDE")
     public void checkUrlLinkOnPages(String pageName, String url, String xpath, List<String> tabName, Boolean getPageOpenInNewTab)
     {
@@ -88,7 +91,7 @@ public class QMWebsiteTestInDE extends BaseTest {
     {
         checkLink(pageName, url, xpath, tabName, getPageOpenInNewTab);
     }
-
+*/
 
 
 

@@ -9,5 +9,19 @@
         </classes>
     </test>
 
+    <test name="CHROME" thread-count="3" parallel="methods">
+        <parameter name="browser" value="CHROME"/>
+        <classes>
+            <class name="org.qmwebsite.tests.QMWebsiteTestInENG" />
+        </classes>
+    </test>
+
+    <test name="CHROME" thread-count="3" parallel="methods">
+        <parameter name="browser" value="CHROME"/>
+        <classes>
+            <class name="org.qmwebsite.tests.QMWebsiteTestInPL" />
+        </classes>
+    </test>
+
 
 </suite>
