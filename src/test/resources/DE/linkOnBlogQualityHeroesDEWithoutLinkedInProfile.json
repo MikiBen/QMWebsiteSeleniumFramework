@@ -67,7 +67,8 @@
       "name": "Blog 3_0 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
       "xpath": "//a[contains(text(),'https://www.amazon.de/Mobile-App-Testing-Praxislei')]",
-      "tabName": ["Amazon.de", "Mobile App Testing: Praxisleitfaden für Softwaretester und Entwickler mobiler Anwendungen : Knott, Daniel, Röttger, Nils: Amazon.de: Książki"],
+      "tabName": ["Amazon.de", "Mobile App Testing: Praxisleitfaden für Softwaretester und Entwickler mobiler Anwendungen : Knott, Daniel, Röttger, Nils: Amazon.de: Książki",
+        "Mobile App Testing: Praxisleitfaden für Softwaretester und Entwickler mobiler Anwendungen : Knott, Daniel, Röttger, Nils: Amazon.de: Books"],
       "PageOpenInNewTab": true
     },
     {
@@ -1734,7 +1735,7 @@
       "name": "Blog 39_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
       "xpath": "//a[normalize-space()='Udemy']",
-      "tabName": ["Onlinekurse – Lerne, was und wann es für dich passt | Udemy", "Cierpliwości..."],
+      "tabName": ["Onlinekurse – Lerne, was und wann es für dich passt | Udemy", "Cierpliwości...", "Just a moment..."],
       "PageOpenInNewTab": true
     },
     {
@@ -1804,7 +1805,7 @@
       "name": "Blog 39_11 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
       "xpath": "//a[normalize-space()='C# Kurse von Mosh Hamedani']",
-      "tabName": ["\n    Mosh Hamedani | Passionate Software Engineer and Best-selling Author\n| Udemy", "Cierpliwości..."],
+      "tabName": ["\n    Mosh Hamedani | Passionate Software Engineer and Best-selling Author\n| Udemy", "Cierpliwości...", "Just a moment..."],
       "PageOpenInNewTab": true
     },
     {
