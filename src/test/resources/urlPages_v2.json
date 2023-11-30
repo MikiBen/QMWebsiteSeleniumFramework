@@ -282,14 +282,7 @@
 dodatkowe strony
 https://qualityminds.com/de/kontaktformularseite/
 
-Usunięte
-{
-"name": "Article 63",
-"pageAddress": "/de/lets-test-testing-touren/",
-"xpath":  "//a[normalize-space()='James A. Whittaker']",
-"tabName": ["James Whittaker (@docjamesw) / X", "Profile / X"],
-"PageOpenInNewTab": true
-},
+
 
 
 

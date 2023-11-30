@@ -488,7 +488,7 @@
       "name": "Blog 11_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-11-wie-werde-ich-zum-agilen-lerncoach/",
       "xpath": "//a[contains(text(),'https://qualityminds.com/de/quality-learning/weite')]",
-      "tabName": ["QualityMinds | Ausbildung zum agilen Lerncoach"],
+      "tabName": ["NEU! Ausbildung agiler Lerncoach – Innovatives Lernkonzept"],
       "PageOpenInNewTab": true
     },
     {
@@ -587,13 +587,6 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
       "xpath": "//a[normalize-space()='https://app.retrium.com/']",
       "tabName": ["Retrium"],
-      "PageOpenInNewTab": true
-    },
-    {
-      "name": "Blog 13_7 Quality Heroes",
-      "pageAddress": "/de/qualityheroes-podcast-folge-13-agiles-lernen-im-homeoffice-geht-das/",
-      "xpath": "//a[normalize-space()='https://www.webwhiteboard.com/']",
-      "tabName": ["Whiteboard for Online Collaboration | Web Whiteboard"],
       "PageOpenInNewTab": true
     },
     {
@@ -1728,6 +1721,167 @@
       "pageAddress": "/de/qualityheroes-podcast-folge-38-was-bedeutet-definition-of-ready/",
       "xpath": "//a[contains(text(),'https://www.podcast.de/episode/613739758/qh038-zwi')]",
       "tabName": ["QH038 Zwischenfrage: Was bedeutet Definition of Ready? ~ QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_0 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[contains(text(),'https://qualityminds.com/de/portfolio/softwareentw')]",
+      "tabName": ["QualityMinds | SOFTWAREENTWICKLUNG"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_1 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[normalize-space()='Udemy']",
+      "tabName": ["Onlinekurse – Lerne, was und wann es für dich passt | Udemy", "Cierpliwości..."],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_2 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[normalize-space()='Pluralsight']",
+      "tabName": ["Online Courses, Learning Paths, and Certifications - Pluralsight"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_3 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[normalize-space()='Coursera']",
+      "tabName": ["Coursera | Degrees, Certificates, & Free Online Courses"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_4 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[normalize-space()='Codecademy']",
+      "tabName": ["Pricing | Codecademy"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_5 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[normalize-space()='Stackblitz']",
+      "tabName": ["StackBlitz | Instant Dev Environments | Click. Code. Done."],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_6 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[normalize-space()='Jetbrains IntellIJ']",
+      "tabName": ["IntelliJ IDEA – the Leading Java and Kotlin IDE"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_7 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[normalize-space()='Eclipse']",
+      "tabName": ["Eclipse Downloads | The Eclipse Foundation"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_8 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[normalize-space()='Jetrains Rider']",
+      "tabName": ["Rider: die plattformübergreifende .NET IDE von JetBrains"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_9 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[normalize-space()='VisualStudio Code']",
+      "tabName": ["Visual Studio Code - Code Editing. Redefined"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_10 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[normalize-space()='VisualStudio']",
+      "tabName": ["Visual Studio IDE 2022 – Programmiertool für Softwareentwickler"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_11 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[normalize-space()='C# Kurse von Mosh Hamedani']",
+      "tabName": ["\n    Mosh Hamedani | Passionate Software Engineer and Best-selling Author\n| Udemy", "Cierpliwości..."],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_12 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[normalize-space()='Angular Kurse von Deborah Kurata']",
+      "tabName": ["Deborah Kurata - Angular Author | Pluralsight"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_13 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[contains(text(),'Code – The hidden language of computer hardware an')]",
+      "tabName": ["Code by Charles Petzold"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_14 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[normalize-space()='Write Great Code (Book series)']",
+      "tabName": ["Write Great Code"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_15 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[contains(text(),'Dependency Injection Principles, Practices, and Pa')]",
+      "tabName": ["Dependency Injection Principles, Practices, and Patterns"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_16 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[normalize-space()='Mark Seeman']",
+      "tabName": ["ploeh blog"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_17 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[normalize-space()='Coding Blocks']",
+      "tabName": ["Coding Blocks – Podcast and Your Source to Learn How To Become a Better Programmer"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_18 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[normalize-space()='Softwerkskammer allgemein']",
+      "tabName": ["Willkommen! - SWK"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_19 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[contains(text(),'Softwerkskammer Nürnberg – Meetup')]",
+      "tabName": ["Softwerkskammer Nürnberg - Software Craft Community | Meetup"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_20 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[contains(text(),'https://podcasts.apple.com/de/podcast/qh039-wie-ge')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe: QH039 Wie gelingt ein Quereinstieg in Softwareentwicklung am besten? auf Apple Podcasts"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_21 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[contains(text(),'https://open.spotify.com/episode/0oFUjLT63JpPTXl6b')]",
+      "tabName": ["QH039 Wie gelingt ein Quereinstieg in Softwareentwicklung am besten? - QualityHeroes - der Podcast über Softwarequalität für agile Köpfe | Podcast on Spotify"],
+      "PageOpenInNewTab": true
+    },
+    {
+      "name": "Blog 39_22 Quality Heroes",
+      "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
+      "xpath": "//a[contains(text(),'https://www.podcast.de/podcast/1624733/qualityhero')]",
+      "tabName": ["QualityHeroes - der Podcast über Softwarequalität für agile Köpfe Podcast Download ~ Podcast von QualityMinds GmbH ~ podcast 1624733"],
       "PageOpenInNewTab": true
     }
   ]

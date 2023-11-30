@@ -123,7 +123,7 @@
           "name": "Blog 5_1",
           "pageAddress": "/de/i-want-change-podcast-folge-5-agiles-lernen/",
           "xpath":  "//a[contains(text(),'https://qualityminds.com/de/quality-learning/weite')]",
-          "tabName": ["QualityMinds | Ausbildung zum agilen Lerncoach"],
+          "tabName": ["NEU! Ausbildung agiler Lerncoach – Innovatives Lernkonzept"],
           "PageOpenInNewTab": true
         },
         {

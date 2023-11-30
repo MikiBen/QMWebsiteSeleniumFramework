@@ -4,6 +4,23 @@
               "name": "Portfolio/QA-kernkompetenzen/spezialisierte-qa-dienstleistung-und-kompetenzen",
               "url": "/de/portfolio/spezialisierte-qa-dienstleistung-und-kompetenzen/",
               "tabName": "QualityMinds | SPEZIALISIERTE QA DIENSTLEISTUNG UND KOMPETENZEN"
-            }
+            },
+            {
+              "name": "53. UberUns/veranstaltungen",
+              "url":  "/de/veranstaltungen/",
+              "tabName": "Veranstaltungen from Mai 23 – Mai 9 – QualityMinds"
+            },
+            {
+              "name": "51. O nas/Wydarzenia",
+              "url":  "/pl/wydarzenia/",
+              "tabName": "Events from May 23 – May 9 – QualityMinds"
+            },
+    {
+      "name": "Article 70_3",
+      "pageAddress": "/de/qualityminds-at-the-republica-2023/",
+      "xpath":  "//a[normalize-space()='Human in the loop']",
+      "tabName": ["Human in the Loop: Wie können wir zukünftig mit KI unsere Arbeit erleichtern? | republica"],
+      "PageOpenInNewTab": true
+    }
   ]
 }

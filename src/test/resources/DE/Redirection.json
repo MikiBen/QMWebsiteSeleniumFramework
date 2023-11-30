@@ -1,129 +1,134 @@
 {
-  "redirection":[
+  "pages":[
     {
       "name": "Portfolio/QA-kernkompetenzen",
-      "url":  "/de/portfolio/qa-kernkompetenzen/",
-      "redirection": "/de/portfolio/test-und-qualitaetssicherung/"
+      "url":  "https://qualityminds.com/de/portfolio/qa-kernkompetenzen/",
+      "tabName": "https://qualityminds.com/de/portfolio/test-und-qualitaetssicherung/"
     },
     {
       "name": "Portfolio/QA-kernkompetenzen/funktionales-testen",
-      "url":  "/de/portfolio/qa-kernkompetenzen/funktionales-testen/",
-      "redirection": "/de/portfolio/test-und-qualitaetssicherung/funktionales-testen/"
+      "url":  "https://qualityminds.com/de/portfolio/qa-kernkompetenzen/funktionales-testen/",
+      "tabName": "https://qualityminds.com/de/portfolio/test-und-qualitaetssicherung/funktionales-testen/"
     },
     {
       "name": "Portfolio/QA-kernkompetenzen/agiles-testen",
-      "url":  "/de/portfolio/qa-kernkompetenzen/agiles-testen/",
-      "redirection": "/de/portfolio/test-und-qualitaetssicherung/agiles-testen/"
+      "url":  "https://qualityminds.com/de/portfolio/qa-kernkompetenzen/agiles-testen/",
+      "tabName": "https://qualityminds.com/de/portfolio/test-und-qualitaetssicherung/agiles-testen/"
     },
     {
       "name": "Portfolio/QA-kernkompetenzen/automatisiertes-testen",
-      "url":  "/de/portfolio/qa-kernkompetenzen/automatisiertes-testen/",
-      "redirection": "/de/portfolio/test-und-qualitaetssicherung/automatisiertes-testen/"
+      "url":  "https://qualityminds.com/de/portfolio/qa-kernkompetenzen/automatisiertes-testen/",
+      "tabName": "https://qualityminds.com/de/portfolio/test-und-qualitaetssicherung/automatisiertes-testen/"
     },
     {
       "name": "Portfolio/QA-kernkompetenzen/last-und-performanztest",
-      "url":  "/de/portfolio/qa-kernkompetenzen/last-und-performanztest/",
-      "redirection": "/de/portfolio/test-und-qualitaetssicherung/last-und-performanztest/"
+      "url":  "https://qualityminds.com/de/portfolio/qa-kernkompetenzen/last-und-performanztest/",
+      "tabName": "https://qualityminds.com/de/portfolio/test-und-qualitaetssicherung/last-und-performanztest/"
     },
     {
       "name": "Portfolio/QA-kernkompetenzen/testmanagement-beratung-und-betreuung",
-      "url":  "/de/portfolio/qa-kernkompetenzen/testmanagement-beratung-und-betreuung/",
-      "redirection": "/de/portfolio/test-und-qualitaetssicherung/last-und-performanztest/"
-    },
-    {
-      "name": "Portfolio/QA-kernkompetenzen/testmanagement-beratung-und-betreuung",
-      "url":  "/de/portfolio/qa-kernkompetenzen/testmanagement-beratung-und-betreuung/",
-      "redirection": "/de/portfolio/test-und-qualitaetssicherung/testmanagement/"
+      "url":  "https://qualityminds.com/de/portfolio/qa-kernkompetenzen/testmanagement-beratung-und-betreuung/",
+      "tabName": "https://qualityminds.com/de/portfolio/test-und-qualitaetssicherung/testmanagement/"
     },
     {
       "name": "Portfolio/QA-kernkompetenzen/spezialisierte-qa-dienstleistung-und-kompetenzen/test-data-test-environment-management",
-      "url":  "/de/portfolio/spezialisierte-qa-dienstleistung-und-kompetenzen/test-data-test-environment-management/",
-      "redirection": "/de/portfolio/test-und-qualitaetssicherung/testdaten-und-testumgebungen/"
+      "url":  "https://qualityminds.com/de/portfolio/spezialisierte-qa-dienstleistung-und-kompetenzen/test-data-test-environment-management/",
+      "tabName": "https://qualityminds.com/de/portfolio/test-und-qualitaetssicherung/testdaten-und-testumgebungen/"
     },
     {
       "name": "Portfolio/QA-kernkompetenzen/spezialisierte-qa-dienstleistung-und-kompetenzen/testmaster",
-      "url":  "/de/portfolio/spezialisierte-qa-dienstleistung-und-kompetenzen/testmaster/",
-      "redirection": "/de/portfolio/test-und-qualitaetssicherung/testmaster/"
+      "url":  "https://qualityminds.com/de/portfolio/spezialisierte-qa-dienstleistung-und-kompetenzen/testmaster/",
+      "tabName": "https://qualityminds.com/de/portfolio/test-und-qualitaetssicherung/testmaster/"
     },
     {
       "name": "Portfolio/QA-kernkompetenzen/spezialisierte-qa-dienstleistung-und-kompetenzen/data-warehouse-bi-und-etl-tests",
-      "url":  "/de/portfolio/spezialisierte-qa-dienstleistung-und-kompetenzen/data-warehouse-bi-und-etl-tests/",
-      "redirection": "/de/portfolio/test-und-qualitaetssicherung/data-integration/"
+      "url":  "https://qualityminds.com/de/portfolio/spezialisierte-qa-dienstleistung-und-kompetenzen/data-warehouse-bi-und-etl-tests/",
+      "tabName": "https://qualityminds.com/de/portfolio/test-und-qualitaetssicherung/data-integration/"
     },
     {
       "name": "Portfolio/QA-kernkompetenzen/spezialisierte-qa-dienstleistung-und-kompetenzen/tests-fur-autonomes-fahren",
-      "url":  "/de/portfolio/spezialisierte-qa-dienstleistung-und-kompetenzen/tests-fur-autonomes-fahren/",
-      "redirection": "/de/portfolio/kuenstliche-intelligenz/tests-fur-autonomes-fahren/"
+      "url":  "https://qualityminds.com/de/portfolio/spezialisierte-qa-dienstleistung-und-kompetenzen/tests-fur-autonomes-fahren/",
+      "tabName": "https://qualityminds.com/de/portfolio/kuenstliche-intelligenz/tests-fur-autonomes-fahren/"
     },
     {
       "name": "QualityLearning",
-      "url":  "/de/quality-learning/",
-      "redirection": "/de/qm-portfolio/quality-learning/"
+      "url":  "https://qualityminds.com/de/quality-learning/",
+      "tabName": "https://qualityminds.com/de/qm-portfolio/quality-learning/"
     },
     {
       "name": "QualityLearning/agiles-lernen",
-      "url":  "/de/quality-learning/agiles-lernen/",
-      "redirection": "/de/qm-portfolio/quality-learning/agiles-lernen/"
+      "url":  "https://qualityminds.com/de/quality-learning/agiles-lernen/",
+      "tabName": "https://qualityminds.com/de/qm-portfolio/quality-learning/agiles-lernen/"
     },
     {
       "name": "QualityLearning/agiles-lernen/coaching-fur-alle",
-      "url":  "/de/quality-learning/agiles-lernen/coaching-fur-alle/",
-      "redirection": "/de/qm-portfolio/quality-learning/agiles-lernen/coaching-fur-alle/"
+      "url":  "https://qualityminds.com/de/quality-learning/agiles-lernen/coaching-fur-alle/",
+      "tabName": "https://qualityminds.com/de/qm-portfolio/quality-learning/agiles-lernen/coaching-fur-alle/"
     },
     {
       "name": "QualityLearning/agile-lehre",
-      "url":  "/de/quality-learning/agile-lehre/",
-      "redirection": "/de/qm-portfolio/quality-learning/agile-lehre/"
+      "url":  "https://qualityminds.com/de/quality-learning/agile-lehre/",
+      "tabName": "https://qualityminds.com/de/qm-portfolio/quality-learning/agile-lehre/"
     },
     {
       "name": "QualityLearning/weiterbildung",
-      "url":  "/de/quality-learning/weiterbildung/",
-      "redirection": "/de/qm-portfolio/quality-learning/weiterbildung/"
+      "url":  "https://qualityminds.com/de/quality-learning/weiterbildung/",
+      "tabName": "https://qualityminds.com/de/qm-portfolio/quality-learning/weiterbildung/"
     },
     {
       "name": "QualityLearning/weiterbildung/community-of-practice",
-      "url":  "/de/quality-learning/weiterbildung/community-of-practice/",
-      "redirection": "/de/qm-portfolio/quality-learning/weiterbildung/community-of-practice/"
+      "url":  "https://qualityminds.com/de/quality-learning/weiterbildung/community-of-practice/",
+      "tabName": "https://qualityminds.com/de/qm-portfolio/quality-learning/weiterbildung/community-of-practice/"
     },
     {
       "name": "QualityLearning/weiterbildung/agile-lehr-lernsettings-mit-lehrstorys-gestalten",
-      "url":  "/de/quality-learning/weiterbildung/agile-lehr-lernsettings-mit-lehrstorys-gestalten/",
-      "redirection": "/de/qm-portfolio/quality-learning/weiterbildung/agile-lehr-lernsettings-mit-lehrstorys-gestalten/"
+      "url":  "https://qualityminds.com/de/quality-learning/weiterbildung/agile-lehr-lernsettings-mit-lehrstorys-gestalten/",
+      "tabName": "https://qualityminds.com/de/qm-portfolio/quality-learning/weiterbildung/agile-lehr-lernsettings-mit-lehrstorys-gestalten/"
     },
     {
       "name": "QualityLearning/weiterbildung/werte-workshop",
-      "url":  "/de/quality-learning/weiterbildung/werte-workshop/",
-      "tabName": "/de/qm-portfolio/quality-learning/weiterbildung/werte-workshop/"
+      "url":  "https://qualityminds.com/de/quality-learning/weiterbildung/werte-workshop/",
+      "tabName": "https://qualityminds.com/de/qm-portfolio/quality-learning/weiterbildung/werte-workshop/"
     },
     {
       "name": "QualityLearning/weiterbildung/fit-fur-die-zukunft",
-      "url":  "/de/quality-learning/weiterbildung/fit-fur-die-zukunft/",
-      "tabName": "/de/qm-portfolio/quality-learning/weiterbildung/fit-fur-die-zukunft/"
+      "url":  "https://qualityminds.com/de/quality-learning/weiterbildung/fit-fur-die-zukunft/",
+      "tabName": "https://qualityminds.com/de/qm-portfolio/quality-learning/weiterbildung/fit-fur-die-zukunft/"
     },
     {
       "name": "QualityLearning/weiterbildung/negatives-feedback",
-      "url":  "/de/quality-learning/weiterbildung/negatives-feedback/",
-      "tabName": "/de/qm-portfolio/quality-learning/weiterbildung/negatives-feedback/"
+      "url":  "https://qualityminds.com/de/quality-learning/weiterbildung/negatives-feedback/",
+      "tabName": "https://qualityminds.com/de/qm-portfolio/quality-learning/weiterbildung/negatives-feedback/"
     },
     {
       "name": "QualityLearning/weiterbildung/agile-fuhrung-workshop",
-      "url":  "/de/quality-learning/weiterbildung/agile-fuhrung-workshop/",
-      "tabName": "/de/qm-portfolio/quality-learning/weiterbildung/agile-fuhrung-workshop/"
+      "url":  "https://qualityminds.com/de/quality-learning/weiterbildung/agile-fuhrung-workshop/",
+      "tabName": "https://qualityminds.com/de/qm-portfolio/quality-learning/weiterbildung/agile-fuhrung-workshop/"
     },
     {
       "name": "QualityLearning/weiterbildung/ausbildung-zum-agilen-lerncoach",
-      "url":  "/de/quality-learning/weiterbildung/ausbildung-zum-agilen-lerncoach/",
-      "tabName": "/de/weiterbildung-agiler-lerncoach/"
+      "url":  "https://qualityminds.com/de/quality-learning/weiterbildung/ausbildung-zum-agilen-lerncoach/",
+      "tabName": "https://qualityminds.com/de/weiterbildung-agiler-lerncoach/"
     },
     {
       "name": "QualityLearning/quality-learning-tool",
-      "url":  "/de/quality-learning/quality-learning-tool/",
-      "tabName": "/de/qm-portfolio/quality-learning/quality-learning-tool/"
+      "url":  "https://qualityminds.com/de/quality-learning/quality-learning-tool/",
+      "tabName": "https://qualityminds.com/de/qm-portfolio/quality-learning/quality-learning-tool/"
     },
     {
       "name": "QualityLearning/publikationen",
-      "url":  "/de/quality-learning/publikationen/",
-      "tabName": "/de/qm-portfolio/quality-learning/publikationen/"
+      "url":  "https://qualityminds.com/de/quality-learning/publikationen/",
+      "tabName": "https://qualityminds.com/de/qm-portfolio/quality-learning/publikationen/"
+    },
+    {
+      "name": "QualityLearning/Community of Practice",
+      "url":  "https://qualityminds.com/de/quality-learning/weiterbildung/community-of-practice/",
+      "tabName": "https://qualityminds.com/de/qm-portfolio/quality-learning/weiterbildung/community-of-practice/"
+    },
+    {
+      "name": "Main Page",
+      "url":  "https://qualityminds.de/",
+      "tabName": "https://qualityminds.com/de/"
     }
   ]
 }

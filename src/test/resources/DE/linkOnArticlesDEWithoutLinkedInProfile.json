@@ -47,7 +47,7 @@
           "name": "Article 9_0",
           "pageAddress": "/de/erste-einblicke-ausbildung-zum-agilen-lerncoach/",
           "xpath":  "//a[contains(text(),'https://qualityminds.com/de/quality-learning/weite')]",
-          "tabName": ["QualityMinds | Ausbildung zum agilen Lerncoach"],
+          "tabName": ["NEU! Ausbildung agiler Lerncoach – Innovatives Lernkonzept"],
           "PageOpenInNewTab": true
         },
         {
@@ -201,7 +201,7 @@
           "name": "Article 21_4",
           "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
           "xpath":  "//*[@id=\"main-content\"]/div/div/div[2]/div[1]/div[1]/div[1]/p[15]/a",
-          "tabName": ["QualityMinds | Lerncoach Ausbildung bei QualityMinds - Werde agiler Lerncoach!", "QualityMinds | Ausbildung zum agilen Lerncoach"],
+          "tabName": ["QualityMinds | Lerncoach Ausbildung bei QualityMinds - Werde agiler Lerncoach!", "QualityMinds | Ausbildung zum agilen Lerncoach","NEU! Ausbildung agiler Lerncoach – Innovatives Lernkonzept"],
           "PageOpenInNewTab": true
         },
         {
@@ -376,7 +376,7 @@
           "name": "Article 40_1",
           "pageAddress": "/de/wie-innovativ-und-nachhaltig-ist-qualityminds-eigentlich/",
           "xpath":  "//a[normalize-space()='Innovations-Assessment']",
-          "tabName": ["Assessments der Bayern Innovativ – Ihr Erfolgsplan für die Zukunft"],
+          "tabName": ["Assessments der Bayern Innovativ – Ihr Erfolgsplan für die Zukunft","Bayern Innovativ - Innovation leben"],
           "PageOpenInNewTab": true
         },
         {
@@ -768,7 +768,7 @@
           "name": "Article 66_1",
           "pageAddress": "/de/qualityminds-wurde-mit-dem-siemens-digital-industries-factory-automation-supplier-award-2023-ausgezeichnet/",
           "xpath":  "//a[contains(@href,'https://qualityminds.com/de/quality-learning/weiterbildung/ausbildung-zum-agilen-lerncoach/')][normalize-space()='Ausbildung zum agilen Lerncoach']",
-          "tabName": ["QualityMinds | Ausbildung zum agilen Lerncoach"],
+          "tabName": ["QualityMinds | Ausbildung zum agilen Lerncoach","NEU! Ausbildung agiler Lerncoach – Innovatives Lernkonzept"],
           "PageOpenInNewTab": true
         },
         {
@@ -789,7 +789,7 @@
           "name": "Article 66_4",
           "pageAddress": "/de/qualityminds-wurde-mit-dem-siemens-digital-industries-factory-automation-supplier-award-2023-ausgezeichnet/",
           "xpath":  "//a[normalize-space()='QualityLearning']",
-          "tabName": ["QualityMinds | Ausbildung zum agilen Lerncoach"],
+          "tabName": ["QualityMinds | Ausbildung zum agilen Lerncoach","NEU! Ausbildung agiler Lerncoach – Innovatives Lernkonzept"],
           "PageOpenInNewTab": true
         },
         {
@@ -880,7 +880,7 @@
           "name": "Article 68_10",
           "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//a[normalize-space()='https://www.thorsten-voice.de/']",
-          "tabName": ["Motivation & Vision - Thorsten Voice"],
+          "tabName": ["Motivation & Vision - Thorsten Voice","Deutsche AI/KI TTS-Stimme kostenlos mit Thorsten-Voice"],
           "PageOpenInNewTab": true
         },
         {
@@ -993,13 +993,6 @@
           "pageAddress": "/de/qualityminds-at-the-republica-2023/",
           "xpath":  "//a[normalize-space()='AI Act']",
           "tabName": ["AI Act: a step closer to the first rules on Artificial Intelligence | News | European Parliament"],
-          "PageOpenInNewTab": true
-        },
-        {
-          "name": "Article 70_3",
-          "pageAddress": "/de/qualityminds-at-the-republica-2023/",
-          "xpath":  "//a[normalize-space()='Human in the loop']",
-          "tabName": ["Human in the Loop: Wie können wir zukünftig mit KI unsere Arbeit erleichtern? | republica"],
           "PageOpenInNewTab": true
         },
         {

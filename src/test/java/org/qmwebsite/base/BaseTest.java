@@ -113,6 +113,11 @@ public class BaseTest {
         return (Object[]) readFileWithLinksOnPages("src/test/resources/DE/linkOnBlogIWantChangeWithoutLinkedInProfile.json");
     }
 
+    @DataProvider(name="UrlListWithRedirection")
+    protected Object[] getUrlListWithRedirection() throws IOException {
+        return (Object[]) readFileWithUrl("src/test/resources/DE/Redirection.json");
+    }
+
 
     private Object readFileWithUrl (String path) throws IOException {
 

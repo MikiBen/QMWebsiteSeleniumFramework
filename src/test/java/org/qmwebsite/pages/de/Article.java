@@ -19,8 +19,7 @@ public class Article extends BasePage {
     public void checkLink(By xpath, List<String> title, String pageName, String url) {
 
         removeCookies();
-        wait.until(ExpectedConditions.elementToBeClickable(xpath));
-        driver.findElement(xpath).click();
+        wait.until(ExpectedConditions.elementToBeClickable(xpath)).click();
 
         String winHandleBefore = driver.getWindowHandle();
         try {
@@ -29,20 +28,17 @@ public class Article extends BasePage {
                 }
                 getTabName();
                 Boolean status = title.contains(getTabName());
-                Assert.assertTrue(status);
+                Assert.assertTrue(("On page: " + pageName + " with address: " + ConfigLoader.getInstance().getBaseUrl() + url +
+                        ". After click on link with xpath: " + xpath +
+                        " the opened page have wrong Tab Name. \nCurrent tabName: " + getTabName() +
+                        "\nExpected Tab name is one of this: " + title), status);
 
-                driver.navigate().back();
-                driver.close();
-                driver.switchTo().window(winHandleBefore);
+               // driver.navigate().back();
+               // driver.close();
+               // driver.switchTo().window(winHandleBefore);
             } catch (Exception e) {
                 Assert.fail("On page: " + pageName + " with address: " + url + " the link: " + xpath + " is wrong");
-            }catch (AssertionError e){
-            Assert.fail("On page: " + pageName + " with address: " + ConfigLoader.getInstance().getBaseUrl() + url +
-                    ". After click on link with xpath: " + xpath +
-                    " the opened page have wrong Tab Name. \nCurrent tabName: " + getTabName() +
-                    "\nExpected Tab name is one of this: " + title);
-        }
-
+            }
     }
 
     public void checkLinkOpensOnTheSamePage(By xpath, List<String> title, String  pageName, String url) {
@@ -51,16 +47,14 @@ public class Article extends BasePage {
         waitForElementToBeClickable(xpath).click();
 
         try {
-            Assert.assertTrue("Comment", title.contains(getTabName())); // dodać tutaj i usuna try catch
-            driver.navigate().back(); // dodać url
+            Assert.assertTrue(("On page: " + pageName + " with address: " + ConfigLoader.getInstance().getBaseUrl() + url +
+                    ". After click on link with xpath: " + xpath +
+                    " the opened page have wrong Tab Name. \nCurrent tabName: " + getTabName() +
+                    "\nExpected Tab name is one of this: " + title), title.contains(getTabName())); // dodać tutaj i usuna try catch
+            //driver.navigate().back(); // dodać url
         } catch (Exception e) {
             Assert.fail("On page: " + pageName + " with address: " + ConfigLoader.getInstance().getBaseUrl() + url +
                     " the link: " + xpath + " is wrong");
-        } catch (AssertionError e) {
-            Assert.fail("On page: " + pageName + " with address: " + ConfigLoader.getInstance().getBaseUrl() + url +
-                    ". After click on link with xpath: " + xpath +
-                    " the opened page have wrong Tab Name. \nCurrent tabName: " + getTabName() +
-                    "\nExpected Tab name is one of this: " + title);
         }
 
     }

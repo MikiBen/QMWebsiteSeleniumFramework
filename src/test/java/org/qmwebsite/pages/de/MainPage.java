@@ -26,7 +26,7 @@ public class MainPage extends BasePage {
         return this;
     }
 
-    public MainPage checkDifferntLinkToMainPage(String url) {
+    public MainPage checkDifferntLink(String url) {
         driver.get(url);
         Assert.assertEquals(driver.getCurrentUrl(),
                 ConfigLoader.getInstance().getBaseUrl() + "/de/");

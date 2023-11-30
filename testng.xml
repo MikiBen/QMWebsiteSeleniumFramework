@@ -9,15 +9,15 @@
         </classes>
     </test>
 
-    <test name="CHROME_ENG" thread-count="2" parallel="methods">
-        <parameter name="browser" value="CHROME"/>
+    <test name="EDGE_ENG" thread-count="2" parallel="methods">
+        <parameter name="browser" value="EDGE"/>
         <classes>
             <class name="org.qmwebsite.tests.QMWebsiteTestInENG" />
         </classes>
     </test>
 
-    <test name="CHROME_PL" thread-count="2" parallel="methods">
-        <parameter name="browser" value="CHROME"/>
+    <test name="FIREFOX_PL" thread-count="2" parallel="methods">
+        <parameter name="browser" value="FIREFOX"/>
         <classes>
             <class name="org.qmwebsite.tests.QMWebsiteTestInPL" />
         </classes>
