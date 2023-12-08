@@ -661,9 +661,19 @@
           "tabName": "Let's Test: Session Based Testing | QualityMinds"
         },
         {
-          "name": "134. Article 76",
+          "name": "134_0. Article 76",
           "url":  "/de/eine-dosis-ux-fuer-den-produkterfolg-highlights-aus-unserer-anwendungspraxis/",
           "tabName": "Eine Dosis UX für den Produkterfolg: Highlights aus unserer Anwendungspraxis | QualityMinds"
+        },
+        {
+          "name": "134_1. Article 77",
+          "url":  "/de/warum-sprinten-wenn-man-auch-wandern-kann/",
+          "tabName": "Warum sprinten, wenn man auch wandern kann? | QualityMinds"
+        },
+        {
+          "name": "134_2. Article 78",
+          "url":  "/de/agiles-lernen-auf-dem-dalk-duesseldorf-2023/",
+          "tabName": "Agiles Lernen auf dem DALK Düsseldorf 2023 | QualityMinds"
         },
         {
           "name": "135. Blog 1 Quality Heroes",

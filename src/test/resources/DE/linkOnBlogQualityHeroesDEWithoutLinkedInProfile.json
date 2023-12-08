@@ -1812,7 +1812,7 @@
       "name": "Blog 39_12 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-39-wie-gelingt-ein-quereinstieg-in-softwareentwicklung-am-besten/",
       "xpath": "//a[normalize-space()='Angular Kurse von Deborah Kurata']",
-      "tabName": ["Deborah Kurata - Angular Author | Pluralsight"],
+      "tabName": ["Deborah Kurata - Angular Author | Pluralsight", "Just a moment..."],
       "PageOpenInNewTab": true
     },
     {

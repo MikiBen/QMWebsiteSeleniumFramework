@@ -1113,6 +1113,34 @@
           "xpath":  "//a[normalize-space()='Software Bauhaus']",
           "tabName": ["QualityMinds | Agile Software-Entwicklungsteams"],
           "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 77_0",
+          "pageAddress": "/de/warum-sprinten-wenn-man-auch-wandern-kann/",
+          "xpath":  "//a[normalize-space()='Woody Zuill']",
+          "tabName": ["Woody Zuill – Mob Programming, Teamwork, Good Stuff and Whatnot"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 77_1",
+          "pageAddress": "/de/warum-sprinten-wenn-man-auch-wandern-kann/",
+          "xpath":  "//a[normalize-space()='Mob Programming mit Software Teaming']",
+          "tabName": ["Woody Zuill on X: \"We have updated the #MobProgramming book, and changed its name.  \n\nI now call it \"Software Teaming\" (based on the idea from  @AmyCEdmondson's book \"Teaming\")\n\nHere is a link to the new edition of the #SoftwareTeaming book available in Kindle or Paperback:\n\nhttps://t.co/8XdwXWbGuu\" / X"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 77_2",
+          "pageAddress": "/de/warum-sprinten-wenn-man-auch-wandern-kann/",
+          "xpath":  "//a[normalize-space()='der diese Frage stellt']",
+          "tabName": ["Why is Scrum iteration called a Sprint? - Project Management Stack Exchange"],
+          "PageOpenInNewTab": true
+        },
+        {
+          "name": "Article 78_0",
+          "pageAddress": "/de/agiles-lernen-auf-dem-dalk-duesseldorf-2023/",
+          "xpath":  "//a[normalize-space()='DALK']",
+          "tabName": ["DALK | Führende Veranstaltung für Ausbildungsverantwortliche"],
+          "PageOpenInNewTab": true
         }
       ]
 }
