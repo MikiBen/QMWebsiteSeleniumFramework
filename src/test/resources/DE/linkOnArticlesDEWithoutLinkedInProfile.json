@@ -327,7 +327,7 @@
           "name": "Article 35_3",
           "pageAddress": "/de/gelebte-nachhaltigkeit-und-csr-bei-qualityminds-erfolgsgeschichten-die-sich-sehen-lassen-koennen/",
           "xpath":  "//a[normalize-space()='Homepage von SCIARA']",
-          "tabName": ["Wirksam gegen den Klimawandel - SCIARA"],
+          "tabName": ["Wirksam gegen den Klimawandel - SCIARA","Wirksam gegen den Klimawandel"],
           "PageOpenInNewTab": true
         },
         {
@@ -341,7 +341,7 @@
           "name": "Article 38_0",
           "pageAddress": "/de/klimaschutz-durch-digitale-technologien-gelebtes-csr-bei-qualityminds/",
           "xpath":  "//a[normalize-space()='SCIARA']",
-          "tabName": ["Wirksam gegen den Klimawandel - SCIARA"],
+          "tabName": ["Wirksam gegen den Klimawandel - SCIARA", "Wirksam gegen den Klimawandel"],
           "PageOpenInNewTab": true
         },
         {
@@ -817,7 +817,7 @@
           "name": "Article 68_1",
           "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//strong[normalize-space()='resemble.ai']",
-          "tabName": ["AI Voice Generator with Text to Speech and Speech to Speech"],
+          "tabName": ["AI Voice Generator with Text to Speech and Speech to Speech", "Resemble AI | AI Generated Voices"],
           "PageOpenInNewTab": true
         },
         {
@@ -901,7 +901,7 @@
           "name": "Article 68_13",
           "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//a[normalize-space()='https://www.audacityteam.org/']",
-          "tabName": ["Audacity ® | Free, open source, cross-platform audio software for multi-track recording and editing."],
+          "tabName": ["Audacity ® | Free, open source, cross-platform audio software for multi-track recording and editing.","Audacity ® | Free Audio editor, recorder, music making and more!"],
           "PageOpenInNewTab": true
         },
         {
