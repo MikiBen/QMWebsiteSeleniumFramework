@@ -103,7 +103,7 @@
           "name": "Article 13_0",
           "pageAddress": "/de/learntec-2020-das-lernen-wir-digital/",
           "xpath":  "//a[normalize-space()='www.colearn.de']",
-          "tabName": ["Corporate Learning Community – Beiträge zur Entwicklung von Learning & Development aus der Corporate Learning Community"],
+          "tabName": ["Corporate Learning Community – Beiträge zur Entwicklung von Learning & Development aus der Corporate Learning Community","www.colearn.de"],
           "PageOpenInNewTab": true
         },
         {
@@ -1123,7 +1123,7 @@
         },
         {
           "name": "Article 77_1",
-          "pageAddress": "/de/warum-sprinten-wenn-man-auch-wandern-kann/",
+          "pageAddress": " n ",
           "xpath":  "//a[normalize-space()='Mob Programming mit Software Teaming']",
           "tabName": ["Woody Zuill on X: \"We have updated the #MobProgramming book, and changed its name.  \n\nI now call it \"Software Teaming\" (based on the idea from  @AmyCEdmondson's book \"Teaming\")\n\nHere is a link to the new edition of the #SoftwareTeaming book available in Kindle or Paperback:\n\nhttps://t.co/8XdwXWbGuu\" / X"],
           "PageOpenInNewTab": true
