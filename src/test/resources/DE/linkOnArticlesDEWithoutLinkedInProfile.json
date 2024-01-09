@@ -327,7 +327,7 @@
           "name": "Article 35_3",
           "pageAddress": "/de/gelebte-nachhaltigkeit-und-csr-bei-qualityminds-erfolgsgeschichten-die-sich-sehen-lassen-koennen/",
           "xpath":  "//a[normalize-space()='Homepage von SCIARA']",
-          "tabName": ["Wirksam gegen den Klimawandel - SCIARA","Wirksam gegen den Klimawandel"],
+          "tabName": ["Wirksam gegen den Klimawandel - SCIARA","Wirksam gegen den Klimawandel","SCIARA – Climate Time Machine – Gemeinsam den Klimawandel verstehen"],
           "PageOpenInNewTab": true
         },
         {
@@ -341,7 +341,7 @@
           "name": "Article 38_0",
           "pageAddress": "/de/klimaschutz-durch-digitale-technologien-gelebtes-csr-bei-qualityminds/",
           "xpath":  "//a[normalize-space()='SCIARA']",
-          "tabName": ["Wirksam gegen den Klimawandel - SCIARA", "Wirksam gegen den Klimawandel"],
+          "tabName": ["Wirksam gegen den Klimawandel - SCIARA", "Wirksam gegen den Klimawandel", "SCIARA – Climate Time Machine – Gemeinsam den Klimawandel verstehen"],
           "PageOpenInNewTab": true
         },
         {
@@ -460,7 +460,7 @@
           "name": "Article 42_7",
           "pageAddress": "/de/qualityminds-gmbh-unterstuetzt-das-attention-projekt/",
           "xpath":  "//a[normalize-space()='Mercedes Benz AG']",
-          "tabName": ["Mercedes-Benz Personenwagen"],
+          "tabName": ["Mercedes-Benz Personenwagen", "Mercedes-Benz Deutschland"],
           "PageOpenInNewTab": true
         },
         {
@@ -824,7 +824,7 @@
           "name": "Article 68_2",
           "pageAddress": "/de/ich-habe-meinen-chef-mit-freier-ki-geklont/",
           "xpath":  "//strong[normalize-space()='play.ht']",
-          "tabName": ["AI Voice Generator & Realistic Text to Speech Online | PlayHT"],
+          "tabName": ["AI Voice Generator & Realistic Text to Speech Online | PlayHT", "AI Voice Generator: Realistic Text to Speech and AI Voiceover | PlayHT"],
           "PageOpenInNewTab": true
         },
         {

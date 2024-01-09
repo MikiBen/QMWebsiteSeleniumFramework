@@ -21,6 +21,11 @@
       "xpath":  "//a[normalize-space()='Human in the loop']",
       "tabName": ["Human in the Loop: Wie können wir zukünftig mit KI unsere Arbeit erleichtern? | republica"],
       "PageOpenInNewTab": true
+    },
+    {
+      "name": "51. About us/Events",
+      "url":  "/events/",
+      "tabName": "Events from May 23 – May 9 – QualityMinds"
     }
   ]
 }
