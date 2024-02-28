@@ -3,7 +3,7 @@
 <suite name="Suite1" verbose="1" thread-count="2" parallel="tests" >
 
     <test name="CHROME_DE" thread-count="2" parallel="methods">
-        <parameter name="browser" value="CHROME"/>
+        <parameter name="browser" value="EDGE"/>
         <classes>
             <class name="org.qmwebsite.tests.QMWebsiteTestInDE" />
         </classes>
