@@ -75,7 +75,7 @@
       "name": "Blog 3_1 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-3-welche-spielarten-im-mobile-testing-gibt-es/",
       "xpath": "//a[normalize-space()='https://leanpub.com/testmobileapps']",
-      "tabName": ["Tap Into Mobile Application… by Jonathan Kohl [PDF/iPad/Kindle]"],
+      "tabName": ["Tap Into Mobile Application… by Jonathan Kohl [PDF/iPad/Kindle]", "Leanpub: Publish Early, Publish Often"],
       "PageOpenInNewTab": true
     },
     {
@@ -489,7 +489,7 @@
       "name": "Blog 11_2 Quality Heroes",
       "pageAddress": "/de/qualityheroes-podcast-folge-11-wie-werde-ich-zum-agilen-lerncoach/",
       "xpath": "//a[contains(text(),'https://qualityminds.com/de/quality-learning/weite')]",
-      "tabName": ["NEU! Ausbildung agiler Lerncoach – Innovatives Lernkonzept"],
+      "tabName": ["Lerncoach Ausbildung bei QualityMinds – Werde agiler Lerncoach!"],
       "PageOpenInNewTab": true
     },
     {

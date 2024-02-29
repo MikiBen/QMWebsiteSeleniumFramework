@@ -47,7 +47,7 @@
           "name": "Article 9_0",
           "pageAddress": "/de/erste-einblicke-ausbildung-zum-agilen-lerncoach/",
           "xpath":  "//a[contains(text(),'https://qualityminds.com/de/quality-learning/weite')]",
-          "tabName": ["NEU! Ausbildung agiler Lerncoach – Innovatives Lernkonzept"],
+          "tabName": ["NEU! Ausbildung agiler Lerncoach – Innovatives Lernkonzept", "Lerncoach Ausbildung bei QualityMinds – Werde agiler Lerncoach!"],
           "PageOpenInNewTab": true
         },
         {
@@ -201,7 +201,7 @@
           "name": "Article 21_4",
           "pageAddress": "/de/qualitylearning-als-wegbegleiter-auf-dem-weg-zum-agilen-lehr-lernsetting-2/",
           "xpath":  "//*[@id=\"main-content\"]/div/div/div[2]/div[1]/div[1]/div[1]/p[15]/a",
-          "tabName": ["QualityMinds | Lerncoach Ausbildung bei QualityMinds - Werde agiler Lerncoach!", "QualityMinds | Ausbildung zum agilen Lerncoach","NEU! Ausbildung agiler Lerncoach – Innovatives Lernkonzept"],
+          "tabName": ["QualityMinds | Lerncoach Ausbildung bei QualityMinds - Werde agiler Lerncoach!", "QualityMinds | Ausbildung zum agilen Lerncoach","NEU! Ausbildung agiler Lerncoach – Innovatives Lernkonzept", "Lerncoach Ausbildung bei QualityMinds – Werde agiler Lerncoach!"],
           "PageOpenInNewTab": true
         },
         {
@@ -446,7 +446,7 @@
           "name": "Article 42_5",
           "pageAddress": "/de/qualityminds-gmbh-unterstuetzt-das-attention-projekt/",
           "xpath":  "//a[normalize-space()='Robert Bosch GmbH']",
-          "tabName": ["Home | Bosch in Deutschland"],
+          "tabName": ["Home | Bosch in Deutschland", "Bosch in Deutschland"],
           "PageOpenInNewTab": true
         },
         {
@@ -768,7 +768,7 @@
           "name": "Article 66_1",
           "pageAddress": "/de/qualityminds-wurde-mit-dem-siemens-digital-industries-factory-automation-supplier-award-2023-ausgezeichnet/",
           "xpath":  "//a[contains(@href,'https://qualityminds.com/de/quality-learning/weiterbildung/ausbildung-zum-agilen-lerncoach/')][normalize-space()='Ausbildung zum agilen Lerncoach']",
-          "tabName": ["QualityMinds | Ausbildung zum agilen Lerncoach","NEU! Ausbildung agiler Lerncoach – Innovatives Lernkonzept"],
+          "tabName": ["QualityMinds | Ausbildung zum agilen Lerncoach","NEU! Ausbildung agiler Lerncoach – Innovatives Lernkonzept", "Lerncoach Ausbildung bei QualityMinds – Werde agiler Lerncoach!"],
           "PageOpenInNewTab": true
         },
         {
@@ -789,14 +789,14 @@
           "name": "Article 66_4",
           "pageAddress": "/de/qualityminds-wurde-mit-dem-siemens-digital-industries-factory-automation-supplier-award-2023-ausgezeichnet/",
           "xpath":  "//a[normalize-space()='QualityLearning']",
-          "tabName": ["QualityMinds | Ausbildung zum agilen Lerncoach","NEU! Ausbildung agiler Lerncoach – Innovatives Lernkonzept"],
+          "tabName": ["QualityMinds | Ausbildung zum agilen Lerncoach","NEU! Ausbildung agiler Lerncoach – Innovatives Lernkonzept", "Lerncoach Ausbildung bei QualityMinds – Werde agiler Lerncoach!"],
           "PageOpenInNewTab": true
         },
         {
           "name": "Article 67_0",
           "pageAddress": "/de/morals-machines-2023-gemeinsam-fuer-eine-verantwortungsvolle-ki-zukunft/",
           "xpath":  "//strong[normalize-space()='Morals & Machines Konferenz 2023']",
-          "tabName": ["Program – Morals & Machines"],
+          "tabName": ["Program – Morals & Machines", "Review - All years"],
           "PageOpenInNewTab": true
         },
         {
@@ -1118,7 +1118,7 @@
           "name": "Article 77_0",
           "pageAddress": "/de/warum-sprinten-wenn-man-auch-wandern-kann/",
           "xpath":  "//a[normalize-space()='Woody Zuill']",
-          "tabName": ["Woody Zuill – Mob Programming, Teamwork, Good Stuff and Whatnot"],
+          "tabName": ["Woody Zuill – Mob Programming, Teamwork, Good Stuff and Whatnot", "Woody Zuill – Software Teaming, Mob Programming, Teamwork, Good Stuff and Whatnot"],
           "PageOpenInNewTab": true
         },
         {
